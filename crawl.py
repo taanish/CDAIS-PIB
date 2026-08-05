@@ -35,6 +35,10 @@ PATH = "/archive2/PrintRelease.aspx?relid=%d"
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0 Safari/537.36")
 
+SICK_LATENCY = 2.0   # a 302 slower than this means the app is degraded, not that
+                     # the record is missing (healthy 302s answer in ~33ms)
+SICK_LIMIT   = 25    # consecutive slow 302s before we stop rather than corrupt
+
 DEFAULT_HI = 292729          # 05-Aug-2026, verified live
 DEFAULT_LO = 1
 
@@ -393,6 +397,7 @@ def main():
     gov = Governor(args.rate, args.max_rate, args.ramp_after_sec)
     fetcher = Fetcher()
     n = ok = absent = failed = errored = 0
+    sick_302 = 0
     t_start = time.time()
     pending = 0
 
@@ -411,6 +416,21 @@ def main():
             con.execute(INS_FETCH, (relid, url, None, now, 0, 0, None, "failed",
                                     json.dumps(["transport", err or ""])))
         elif status == 302:
+            # A 302 normally means "no such release" and answers in ~33ms. When
+            # the archive app is sick it 302s EVERYTHING after a ~15s stall —
+            # including records that exist. Banking those as 'absent' silently
+            # writes false negatives into the corpus, so refuse to record them
+            # and bail out if it keeps happening.
+            if elapsed > SICK_LATENCY:
+                sick_302 += 1
+                gov.trouble("slow-302")
+                if sick_302 >= SICK_LIMIT:
+                    print("\n  [!] %d consecutive slow 302s (>%.0fs) — the archive is "
+                          "degraded and would record real releases as absent. Stopping; "
+                          "re-run when it recovers." % (sick_302, SICK_LATENCY), flush=True)
+                    STOP["flag"] = True
+                continue                      # deliberately not written to the db
+            sick_302 = 0
             absent += 1
             gov.ok(elapsed)
             con.execute(INS_FETCH, (relid, url, status, now, int(elapsed * 1000),

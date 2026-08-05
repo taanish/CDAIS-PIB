@@ -1,0 +1,248 @@
+
+corpus: 15435 releases (2025)
+accepted terms: 20
+
+term                          hits  unique
+--------------------------------------------
+AI                            1350     528
+artificial intelligence        720     171
+smart                          655     379
+analytics                      267      86
+ML                             220      15
+machine learning               218       6
+automated                      210      80
+intelligent                    114      20
+predictive                      80       8
+Bhashini                        76      16
+chatbot                         69      12
+facial recognition              35      15
+deep learning                   22       3
+algorithm                       16       5
+face recognition                15       5
+Drishti                         15       9
+ANPR                            14       4
+Safe City                        6       1
+SafeCity                         1       0
+FRT                              0       0
+--------------------------------------------
+UNION                         2353  (15.2% of corpus)
+
+
+====================================================================================
+A. PATTERN CANDIDATES  (76)
+shown regardless of statistics - a name like MausamGPT counts even at n=2
+#   candidate                      kind           new  corp   lift
+------------------------------------------------------------------------------------
+1   e-Receipts                     e-/i-*           1     9   44.5
+    ... In electronic records, 4,656 e-files and 5,698 e-receipts were identified, with 851 e-files and 2,88
+2   e-Jagriti                      e-/i-*           1    10   44.5
+    ... ted the initiative of E-Daakhil portal and later on e-Jagriti which signifies as the major step been
+3   e-Mitra                        e-/i-*           2    17   41.7
+    ... g Benefit Saturation Camps across districts through e-Mitra centres in collaboration with the Distri
+4   BhashaSetu                     *Setu/Mitra      1     7   33.4
+    ... tion, government pilots, innovation challenges like Bhashasetu, and global exposure through platform
+5   e-Daakhil                      e-/i-*           1     8   33.4
+    ... rce. The Minister appreciated the initiative of E-Daakhil portal and later on e-Jagriti which signif
+6   e-procurement                  e-/i-*           1     6   22.2
+    ... -payment system e-Balance sheet Indian Railways E-Procurement System (IREPS) etc. Human resources ar
+7   e-Forensics                    e-/i-*           1     5   22.2
+    ... aud / cyber forensics. (iv) Operationalizing an e-Forensics IT platform, which connects 117 forensic
+8   e-Vidya                        e-/i-*           2     8   16.7
+    ... made available through DTH Channel No. 31 under PM e-Vidya , which is also live-streamed on YouTube.
+9   e-challan                      e-/i-*           1     4   16.7
+    ... nalties. Logistics oversight: E-challan matching for dispatches; SPCB-led teams for monitor
+10  e-Marketplaces                 e-/i-*           1     4   16.7
+    ... rs, enabling them to sell their products on Russian e-marketplaces with competitive logistics rates 
+11  e-processes                    e-/i-*           1     4   16.7
+    ... y 22, 2025, for all subordinate courts to implement e-processes, which is a commendable initiative. 
+12  ChatGPT                        *GPT             3    11   14.8
+    ... s. Training in effective use of technologies like ChatGPT. RTI Act implementation and Hindi usage in
+13  e-Courts                       e-/i-*           6    20   13.0
+    ... Use of e-governance and e-courts in Income Tax Appellate Tribunal The e-filing por
+14  e-Sankhyiki                    e-/i-*           3    10   13.0
+    ... on environment accounts, data dissemination through e-Sankhyiki, review of MPLADS and monitoring of 
+15  e-marketing                    e-/i-*           2     6   11.1
+    ... 6694 fish kiosks and 5 E-platform for e-trading and e-marketing of fish and fisheries products with 
+16  e-trading                      e-/i-*           2     6   11.1
+    ... tail markets, 6694 fish kiosks and 5 E-platform for e-trading and e-marketing of fish and fisheries 
+17  Bharat Vision                  *Vision/Netra    25    49   10.0
+    ... ote investment, and strengthen India’s Aatmanirbhar Bharat vision. Hon’ble Minister of State, MDoNER
+18  robot                          *bot             4    11    9.7
+    ... communication in February 2025: Vyommitra, a female robot, will undertake astronaut-like tasks for t
+19  e-Sign                         e-/i-*           3     8    9.3
+    ... NPCI are to be approved by the Employer through DSC/E-Sign. It is seen that around 36,000 requests f
+20  Future Vision                  *Vision/Netra     4    10    8.3
+    ... Argentina 34. MoU between AIIA and Future Vision Institute, Brazil and University of Sao Paulo Brazi
+21  e-Aushadhi                     e-/i-*           2     5    8.3
+    ... isleading advertisements and pharmacovigilance, and e-Aushadhi, an integrated IT platform for licens
+22  Economic Vision                *Vision/Netra     2     5    8.3
+    ... MICE ecosystem and aligning it with India’s broader economic vision. Speakers stressed the need for:
+23  Ram Setu                       *Setu/Mitra      2     5    8.3
+    ... nce. According to the Ramayana, the construction of Ram Setu was initiated from Dhanushkodi near Ram
+24  e-Mohammad                     e-/i-*           2     5    8.3
+    ... f potency of our BrahMos. The headquarters of Jaish-e-Mohammad and Lashkar-e-Taiba were demolished —
+25  e-HRMS                         e-/i-*           5    12    7.8
+    ... 27% over the past decade. 5. Advancements in e-HRMS 2.0 The revamped e-HRMS 2.0 platform reached ov
+26  Pratibha Setu                  *Setu/Mitra      5    12    7.8
+    ... Dr. Jitendra Singh Hails UPSC’s ‘PRATIBHA Setu’ initiative facilitating alternative Job Avenues fo
+27  e-Vidhan                       e-/i-*           6    14    7.4
+    ... liament Library Building, New Delhi. NATIONAL e-VIDHAN APPLICATION (NeVA): e-Vidhan is a Mission Mod
+28  Sanchar Mitra                  *Setu/Mitra      3     7    7.4
+    ... Launching of Sanchar Mitra Scheme The Sanchar Mitra Scheme envisions to enga
+29  e-sports                       e-/i-*           4     9    6.9
+    ... ia, advertising, animation, visual effects, gaming, e-sports, music sectors. WAVES 2025 will feature
+30  e-Governance                   e-/i-*          66   145    6.4
+    ... al on 1 st June, 2020, which covers many aspects of e-governance, including grievance redressal and 
+31  e-book                         e-/i-*           7    17    6.4
+    ... key deliverables namely animated video, audio book, e-book and an integrated dashboard for each of t
+32  Unified Vision                 *Vision/Netra     8    17    6.3
+    ... nistry of Culture’s various organizations with this unified vision, India’s cultural sector will be 
+33  e-Office                       e-/i-*          21    44    5.6
+    ... Swachchta Pakhwada , workshops have been conducted, e-office adoption has increased, and efforts tow
+34  e-summons                      e-/i-*           6    12    5.6
+    ... Madhya Pradesh is a leader in the implementation of e-summons and urged the state government to esta
+35  Water Vision                   *Vision/Netra     3     6    5.6
+    ... cusing on the concrete actions required to turn the Water Vision@2047 into reality. The conference w
+36  AMRUT Mitra                    *Setu/Mitra      3     6    5.6
+    ... quality testing and infrastructure management. The "AMRUT Mitra" initiative under AMRUT 2.0 focuses 
+37  Village Vision                 *Vision/Netra     7    14    5.6
+    ... n: Villagers and officers will co-create the Tribal Village Vision 2030 , aligned with national and 
+38  e-Sanjeevani                   e-/i-*           7    16    5.6
+    ... e already availed telemedicine services through the e-Sanjeevani platform. During the COVID-19 pande
+39  Night Vision                   *Vision/Netra     7    11    4.8
+    ... ct a safe operation in complete darkness, utilising Night Vision Goggles, testify his dedication to 
+40  Kaal Vision                    *Vision/Netra    28    50    4.4
+    ... and South Africa (2.8 days). The Maritime Amrit Kaal Vision 2047 was developed in alignment with the
+41  e-learning                     e-/i-*          13    24    4.3
+    ... cers in central Ministry. ISTM has also uploaded an e-learning module on CPGRAMS on iGOTKarmayogi po
+42  bold Vision                    *Vision/Netra     4     7    4.2
+    ... nd lowering electricity bills. The initiative has a bold vision to supply solar power to one crore h
+43  Pacific Vision                 *Vision/Netra     4     7    4.2
+    ... a key pillar of India's 'Act East' policy and Indo-Pacific Vision. The President said that as leadin
+44  e-service                      e-/i-*           4     7    4.2
+    ... 025 which provides a detailed overview of status of e-service delivery across States/UTs. The Report
+45  e-filing                       e-/i-*          12    22    3.7
+    ... Digital Platform: Modernizes customs processes with e-filing, real-time tracking, and seamless docum
+46  e-rickshaws                    e-/i-*           6    10    3.7
+    ... ollution. By replacing diesel-powered vehicles with E-rickshaws that travel approximately 40 kms dai
+47  Sanchar Saathi                 *Setu/Mitra     22    36    3.5
+    ... ls based on reporting of citizens on newly launched Sanchar Saathi mobile App and portal (www.sancha
+48  Term Vision                    *Vision/Netra    34    55    3.4
+    ... ter also credited India's policy stability and long-term vision as key drivers of its renewable ener
+49  Joint Vision                   *Vision/Netra    10    16    3.3
+    ... he firm commitment to work closely in realising the joint vision for India-Maldives Comprehensive Ec
+50  e-GramSwaraj                   e-/i-*          10    16    3.3
+    ... recasts are accessible on digital platforms such as e-Gramswaraj (https://egramswaraj.gov.in/), the 
+51  From Vision                    *Vision/Netra     5    10    3.3
+    ... o actionable outcomes. Transitioning from vision to action, the summit has been designed as an inten
+52  MedTech Mitra                  *Setu/Mitra      5     8    3.3
+    ... r. Notable initiatives such as ICMR’s Patent Mitra, MedTech Mitra, and Indian Clinical Trial and Edu
+53  e-Marketplace                  e-/i-*          39    62    3.3
+    ... i Modi highlighted the government's GeM (Government e-Marketplace) portal. He encouraged educated yo
+54  Jal Mitra                      *Setu/Mitra      7    11    3.2
+    ... anagement Units (DPMUs) and implementation of “ Nal Jal Mitra Programme ” for ensuring availability 
+55  e-Platform                     e-/i-*           7    14    3.2
+    ... of Foreign Trade (DGFT) has launched ‘Trade Connect e-Platform’, which is a single window initiative
+56  Strategic Vision               *Vision/Netra    30    47    3.2
+    ... MNRE Secretary Reviews IREDA Performance and Strategic Vision Union Ministry of New & Renewable Ener
+57  e-services                     e-/i-*           9    15    3.1
+    ... ctices and improve service delivery by promotion of e-services to bring citizens and government clos
+58  Maritime Vision                *Vision/Netra    17    25    2.9
+    ... m's visit to Madagascar aligns with India’s broader maritime vision, ‘SAGAR – Security and Growth fo
+59  Common Vision                  *Vision/Netra    12    18    2.8
+    ... ted to inspire and unite the youth of India under a common vision of national progress and developme
+60  e-POCSO                        e-/i-*           6     9    2.8
+    ... 24, 747 FTSCs including 406 exclusive POCSO Courts (e-POCSO) are functional in 30 States/UTs. These 
+61  e-Shram                        e-/i-*          38    57    2.8
+    ... ting the transformative role of technology like the e-Shram Portal in improving social protection de
+62  e-Sakshya                      e-/i-*           8    12    2.8
+    ... stration of all Investigation Officers (IOs) on the e-Sakshya platform and directed the full impleme
+63  e-market                       e-/i-*           7    10    2.4
+    ... eries sector to buy and sell their products through e-market place. Further, PMMSY has supported 219
+64  ambitious Vision               *Vision/Netra    12    17    2.3
+    ... oped nation (Viksit Bharat) by 2047. Achieving this ambitious vision demands more than two decades o
+65  e-Taiba                        e-/i-*          18    25    2.2
+    ... ases, and hideouts of organizations such as Lashkar-e-Taiba, Jaish-e-Mohammed, Hizbul Mujahideen, an
+66  e-commerce                     e-/i-*         137   199    2.2
+    ... and assists micro and small enterprises to onboard e-commerce platforms by assisting in catalogue pr
+67  e-mobility                     e-/i-*          16    24    2.1
+    ... a portable e-bike conversion kit, enables seamless e-mobility for existing bicycles. Olectra Green T
+68  SancharSaathi                  *Setu/Mitra     11    15    2.0
+    ... launched Sanchar Saathi mobile App and portal (www.sancharsaathi.gov.in) Fraudsters were earlier usi
+69  Shared Vision                  *Vision/Netra   100   134    1.9
+    ... s, and collaborators in a spirit of camaraderie and shared vision. DSIR’s primary mandate is to prom
+70  India Vision                   *Vision/Netra    53    86    1.9
+    ... ndigenous shipbuilding, in consonance with Govt. of India vision for Aatmanirbhar Bharat and Make in
+71  e-Mohammed                     e-/i-*          14    18    1.6
+    ... uts of organizations such as Lashkar-e-Taiba, Jaish-e-Mohammed, Hizbul Mujahideen, and other terrori
+72  e-auction                      e-/i-*          28    35    1.4
+    ... Kerala. This event, showcasing the country’s maiden e-auction of Offshore Areas Mineral Blocks, repr
+73  e-Files                        e-/i-*         103   112    0.5
+    ... identified References from MPs, Public Grievances, e-files were also selected for review /closure, p
+74  e-waste                        e-/i-*         185   201    0.4
+    ... hted that even the trophies and medals were made of e-Waste and a tree would be planted in the name 
+75  e-mail                         e-/i-*          63    70    0.4
+    ... 029 Ph: 011-20907772 (Atul Kumar Chaudhary) E-mail: advfea2@trai.gov.in Secretary, TRAI
+76  the Vision                     *Vision/Netra  1018  1386    0.1
+    ... evements emphasising their importance in fulfilling the vision of Viksit Bharat by 2047. Apart from 
+
+====================================================================================
+B. PHRASE CANDIDATES  (30)
+ranked by association (lift >= 3); novelty alone surfaces generic PIB words
+#   candidate                      kind           new  corp   lift
+------------------------------------------------------------------------------------
+1   indiaai                        1-gram           1    71  389.2
+    ... orations under national technology missions such as INDIAai, Chip-to-Startup, and Project QuILA, wit
+2   big data                       2-gram           1    60  328.0
+    ... (civil society data). Many of these are considered big data , large volumes of unstructured informat
+3   large language                 2-gram           1    43  233.5
+    ... eakthroughs in vaccine development, the BharatGenAI large language model, and progress in quantum co
+4   like artificial                2-gram           1    40  216.8
+    ... and applauded the adoption of advanced technologies like artificial insemination and embryo transfer
+5   emerging technologies like     3-gram           1    27  144.6
+    ... nitiatives. Dr. Jitendra Singh also spotlighted emerging technologies like the Pheromone Application
+6   technologies like artificial   3-gram           1    25  133.4
+    ... Awards 2025 and applauded the adoption of advanced technologies like artificial insemination and emb
+7   language model                 2-gram           1    25  133.4
+    ... oughs in vaccine development, the BharatGenAI large language model, and progress in quantum computin
+8   large language model           3-gram           1    25  133.4
+    ... eakthroughs in vaccine development, the BharatGenAI large language model, and progress in quantum co
+9   compute                        1-gram           2    49  130.7
+    ... ics a team of scientists have developed a method to compute more realistic properties of stellar atm
+10  safe and trusted               3-gram           1    23  122.3
+    ... Education and Awareness Programme, which focuses on safe and trusted use of cyberspace, online safet
+11  data science                   2-gram           2    45  119.5
+    ... a encouraged participants to continue their work in data science and statistics beyond the hackathon
+12  language translation           2-gram           1    21  111.2
+    ... ency helpline (SOS), grievance redressal, feedback, language translation, and miscellaneous informat
+13  cisco                          1-gram           1    20  105.6
+    ... th leading organizations such as Salesforce, Adobe, CISCO, Microsoft, IBM, CDAC, Bajaj Finserv, Whee
+14  intel                          1-gram           1    20  105.6
+    ... Prime Minister Modi Meets Mr. Lip-Bu Tan, Hails Intel’s Commitment to India’s Semiconductor Journey 
+15  futureskills                   1-gram           1    19  100.1
+    ... 598 142 740 FutureSkills PRIME: To bridge the industry skill gap, MeitY has
+16  debjani ghosh                  2-gram           1    18   94.5
+    ... ayog), Dr. Saurabh Garg (Secretary, MoSPI), and Ms. Debjani Ghosh (Distinguished Fellow, NITI Aayog)
+17  under rdss                     2-gram           1    18   94.5
+    ... Program (VVP), wherever found feasible. Till date, under RDSS, works amounting to Rs 6,487 Cr have b
+18  bharat alliance                2-gram           1    17   89.0
+19  ghosh distinguished            2-gram           1    17   89.0
+20  ghosh distinguished fellow     3-gram           1    17   89.0
+21  pest surveillance              2-gram           1    17   89.0
+    ... to the progress of rabi sowing, weather conditions, pest surveillance through National Pest surveill
+22  pest surveillance system       3-gram           1    17   89.0
+    ... ther conditions, pest surveillance through National Pest surveillance system (NPSS), marketing of Ag
+23  debjani ghosh distinguished    3-gram           1    17   89.0
+24  synthetic biology              2-gram           1    16   83.4
+    ... and life-detection technologies in astrobiology and synthetic biology. *** NKR/PSM
+25  industry ready workforce       3-gram           1    16   83.4
+26  global framework               2-gram           1    16   83.4
+    ... rights. India played an important role in shaping a global framework of human rights. Our freedom fi
+27  like ibm                       2-gram           1    16   83.4
+    ... e mining industry. Women from leading organizations like IBM, TATA, GSI, ADANI, Vedanta, NGOs, and s
+28  respective sectors             2-gram           1    16   83.4
+    ... inistries to promote the growth and export of their respective sectors in global markets. FDI in Tex
+29  training in modern             3-gram           1    16   83.4
+    ... ministries embarked onboard INS Sutlej for hands-on training in modern hydrographic techniques. In a
+30  msde has launched              3-gram           1    16   83.4
+    ... tions, fitness facilities, and self-employment. MSDE has launched Skill India Digital Hub (SIDH) a u
