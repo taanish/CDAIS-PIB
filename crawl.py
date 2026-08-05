@@ -46,8 +46,10 @@ for _m, _i in list(MONTHS.items()):
 
 DEVANAGARI = re.compile(r"[ऀ-ॿ]")
 QRUN = re.compile(r"\?{3,}")
-DATE_RE = re.compile(
-    r"(\d{1,2})-([A-Za-z]+)[-,\s]+(\d{4})(?:\s+(\d{1,2}):(\d{2}))?\s*IST", re.I)
+# Date and time are matched independently: a malformed timestamp (e.g. the
+# single-digit minute in "12-January-2004 19:0 IST") must not cost us the date.
+DATE_RE = re.compile(r"(\d{1,2})-([A-Za-z]+)[-,\s]+(\d{4})", re.I)
+TIME_RE = re.compile(r"(\d{1,2}):(\d{1,2})\s*IST", re.I)
 IMG_RE = re.compile(r"<img[^>]+src=[\"']([^\"']+)[\"']", re.I)
 TAG_RE = re.compile(r"<[^>]+>")
 SCRIPT_RE = re.compile(r"<(script|style)\b.*?</\1>", re.S | re.I)
@@ -93,8 +95,8 @@ def parse_release(page):
 
     m = re.search(r"<title>(.*?)</title>", page, re.S | re.I)
     rec["title"] = re.sub(r"\s+", " ", htmllib.unescape(m.group(1))).strip() if m else None
-    if not rec["title"]:
-        warn.append("no_title")
+    # Some releases (mostly 2010-era) ship an empty <title>; recovered below
+    # from the centred heading or the body's first line, once those are parsed.
 
     # --- header block: ministry + timestamp
     hdr = _slice_div(page, "thd1")
@@ -104,7 +106,8 @@ def parse_release(page):
     if hdr is None:
         warn.append("no_thd1")
     else:
-        d = DATE_RE.search(_text(hdr))
+        hdr_text = _text(hdr)
+        d = DATE_RE.search(hdr_text)
         if d:
             day, mon, year = d.group(1), d.group(2).lower(), d.group(3)
             mi = MONTHS.get(mon) or MONTHS.get(mon[:3])
@@ -112,10 +115,11 @@ def parse_release(page):
                 rec["release_date"] = "%s-%02d-%02d" % (year, mi, int(day))
             else:
                 warn.append("bad_month:" + mon[:20])
-            if d.group(4):
-                rec["release_time"] = "%02d:%s" % (int(d.group(4)), d.group(5))
         else:
             warn.append("no_date")
+        t = TIME_RE.search(hdr_text)
+        if t:
+            rec["release_time"] = "%02d:%02d" % (int(t.group(1)), int(t.group(2)))
 
         # Ministry = last <br>-separated line once the timestamp span and the
         # two fixed masthead lines are removed.
@@ -158,9 +162,26 @@ def parse_release(page):
     if not body:
         warn.append("empty_body")
 
+    # Recover a missing <title> from the heading, then the body's first line.
+    # The warning records which fallback fired so provenance stays auditable.
+    if not rec["title"]:
+        if rec.get("heading"):
+            rec["title"] = rec["heading"].split("\n")[0].strip()[:400]
+            warn.append("title_from_heading")
+        elif body:
+            rec["title"] = body.split("\n")[0].strip()[:400]
+            warn.append("title_from_body")
+        else:
+            warn.append("no_title")
+
+    # Structural failure -> failed. A genuinely absent field -> partial.
+    # A successful fallback is benign: status stays ok, warning is retained.
+    BENIGN = {"title_from_heading", "title_from_body"}
     status = "ok"
-    if warn:
-        status = "failed" if ("no_condiv" in warn or "no_thd1" in warn) else "partial"
+    if "no_condiv" in warn or "no_thd1" in warn:
+        status = "failed"
+    elif set(warn) - BENIGN:
+        status = "partial"
     return rec, status, warn
 
 
@@ -169,11 +190,16 @@ def parse_release(page):
 class Governor:
     """Serial pacer: starts slow, ramps once proven, backs off on trouble."""
 
-    def __init__(self, start=5.0, top=10.0, ramp_after_sec=3600.0, floor=1.0):
+    def __init__(self, start=5.0, top=10.0, ramp_after_sec=3600.0, floor=1.0,
+                 backoff_floor_sec=0.4):
         self.rate = float(start)
         self.top = float(top)
         self.floor = float(floor)
         self.ramp_after = float(ramp_after_sec)
+        # Backing off needs BOTH a relative jump and an absolute floor. With a
+        # ~30ms baseline, 3x alone is 90ms — reachable by ordinary jitter, which
+        # would cascade the rate down for no reason.
+        self.backoff_floor = float(backoff_floor_sec)
         self.clean_since = time.monotonic()
         self.lat = deque(maxlen=200)
         self.baseline = None
@@ -193,7 +219,8 @@ class Governor:
             self.baseline = statistics.median(self.lat)
         if self.baseline and len(self.lat) >= 40:
             recent = statistics.median(list(self.lat)[-40:])
-            if recent > 3.0 * self.baseline and self.rate > self.floor:
+            trigger = max(3.0 * self.baseline, self.backoff_floor)
+            if recent > trigger and self.rate > self.floor:
                 self.rate = max(self.floor, self.rate / 2.0)
                 self.clean_since = time.monotonic()
                 self._log("backoff-latency %.1f req/s (recent %.0fms vs base %.0fms)"
