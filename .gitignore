@@ -1,0 +1,5 @@
+corpus.db
+corpus.db-wal
+corpus.db-shm
+*.log
+__pycache__/
