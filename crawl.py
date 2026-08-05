@@ -200,6 +200,12 @@ class Governor:
         # ~30ms baseline, 3x alone is 90ms — reachable by ordinary jitter, which
         # would cascade the rate down for no reason.
         self.backoff_floor = float(backoff_floor_sec)
+        # Learned ceiling. Any rate that triggers a backoff is remembered as
+        # unsafe and the ceiling drops below it permanently, so the governor
+        # converges on the server's real limit instead of oscillating into it
+        # over and over. Ramp by 1.5x rather than 2x so it converges finely.
+        self.ceiling = float(top)
+        self.ramp_factor = 1.5
         self.clean_since = time.monotonic()
         self.lat = deque(maxlen=200)
         self.baseline = None
@@ -221,20 +227,51 @@ class Governor:
             recent = statistics.median(list(self.lat)[-40:])
             trigger = max(3.0 * self.baseline, self.backoff_floor)
             if recent > trigger and self.rate > self.floor:
+                self._learn_ceiling(self.rate)
                 self.rate = max(self.floor, self.rate / 2.0)
                 self.clean_since = time.monotonic()
                 self._log("backoff-latency %.1f req/s (recent %.0fms vs base %.0fms)"
                           % (self.rate, recent * 1000, self.baseline * 1000))
+                # Discard the samples that triggered this. Otherwise the same
+                # spike is still sitting in the window on the next check and
+                # backs us off again — one degradation event cascading into a
+                # collapse to the floor. Decide the next move on fresh data.
+                self.lat.clear()
                 return
-        if (self.rate < self.top
-                and time.monotonic() - self.clean_since >= self.ramp_after):
-            self.rate = min(self.top, self.rate * 2.0)
+        clean_for = time.monotonic() - self.clean_since
+        if self.rate < self.ceiling and clean_for >= self.ramp_after:
+            self.rate = min(self.ceiling, self.rate * self.ramp_factor)
             self.clean_since = time.monotonic()
-            self._log("ramp -> %.1f req/s" % self.rate)
+            self._log("ramp -> %.1f req/s (ceiling %.1f)" % (self.rate, self.ceiling))
+        elif (self.rate >= self.ceiling and self.ceiling < self.top
+              and clean_for >= 3.0 * self.ramp_after):
+            # Sitting at the learned ceiling and healthy for a long stretch.
+            # A transient blip shouldn't lower the ceiling forever, so let it
+            # creep back toward the operator's cap.
+            self.ceiling = min(self.top, self.ceiling * 1.15)
+            self.clean_since = time.monotonic()
+            self._log("ceiling recovered to %.1f req/s" % self.ceiling)
+
+    def _learn_ceiling(self, unsafe_rate):
+        """Remember a rate that degraded the server; never try it again.
+
+        Only counts when we were actually probing near the ceiling. A stall at
+        a rate well below it is a transient on someone's network, not evidence
+        about capacity — treating it as capacity would ratchet us to the floor
+        over a long run and never recover.
+        """
+        if unsafe_rate < 0.9 * self.ceiling:
+            return
+        new_ceiling = max(self.floor, unsafe_rate * 0.8)
+        if new_ceiling < self.ceiling:
+            self.ceiling = new_ceiling
+            self._log("ceiling lowered to %.1f req/s (%.1f was unsafe)"
+                      % (self.ceiling, unsafe_rate))
 
     def trouble(self, why):
         self.clean_since = time.monotonic()
         if self.rate > self.floor:
+            self._learn_ceiling(self.rate)
             self.rate = max(self.floor, self.rate / 2.0)
             self._log("backoff-%s -> %.1f req/s" % (why, self.rate))
 
