@@ -1,5 +1,14 @@
-corpus.db
+# The database and its temporary files — too big for git, shared separately.
+*.db
 corpus.db-wal
 corpus.db-shm
+
+# Logs and background-run output.
 *.log
+
+# Editor / OS junk and backups.
+.DS_Store
+*.bak
 __pycache__/
+*.pyc
+.venv/
