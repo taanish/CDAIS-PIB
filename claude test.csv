@@ -1,0 +1,389 @@
+relid,system_seq,system_seq,ai_reality,ai_paradigm,talk_kind,system_name,deploying_body,application_domain,lifecycle_stage,technology_type
+290702,0,not_ai,FALSE,,,,,,,
+290716,0,not_ai,FALSE,,,,,,,
+290726,0,mention,FALSE,,research,,,,,
+290730,0,not_ai,FALSE,,,,,,,
+290731,0,not_ai,FALSE,,,,,,,
+290732,0,not_ai,FALSE,,,,,,,
+290739,0,system,FALSE,,,AI-driven vulnerability mapping (TB Mukt Bharat),"National Health Mission, Ministry of Health and Family Welfare",health,working,predictive model
+290739,1,system,FALSE,,,AI-integrated handheld X-ray machines,Ministry of Health and Family Welfare,health,announced,computer vision
+290749,0,system,FALSE,,,Poshan Tracker (Face Recognition System),Ministry of Women & Child Development,welfare/benefits,working,facial recognition
+290749,1,system,FALSE,,,Indiahandmade (AI-powered listings),Ministry of Textiles / Digital India Corporation (DIC),other,working,not described
+290759,0,not_ai,FALSE,,,,,,,
+290765,0,mention,FALSE,,policy,,,,,
+290775,0,not_ai,FALSE,,,,,,,
+290781,0,not_ai,FALSE,,,,,,,
+290785,0,mention,FALSE,,general,,,,,
+290789,0,not_ai,FALSE,,,,,,,
+290798,0,system,FALSE,,,BHASHINI (Digital India BHASHINI Division),"Digital India BHASHINI Division (DIBD), Digital India Corporation, MeitY",governance/admin,working,NLP (speech and text translation)
+290798,1,system,FALSE,,,ShrutLekh,"Digital India BHASHINI Division (DIBD), MeitY",governance/admin,working,speech-to-text
+290798,2,system,FALSE,,,Suno Sutra,"Digital India BHASHINI Division (DIBD), MeitY",governance/admin,working,edge AI device (voice/speech)
+290803,0,not_ai,FALSE,,,,,,,
+290805,0,mention,FALSE,,policy,,,,,
+290806,0,mention,FALSE,,policy,,,,,
+290807,0,mention,FALSE,,policy,,,,,
+290809,0,not_ai,FALSE,,,,,,,
+290811,0,not_ai,FALSE,,,,,,,
+290815,0,not_ai,FALSE,,,,,,,
+290829,0,not_ai,FALSE,,,,,,,
+290833,0,not_ai,FALSE,,,,,,,
+290841,0,mention,FALSE,,general,,,,,
+290847,0,not_ai,FALSE,,,,,,,
+290856,0,mention,FALSE,,training,,,,,
+290857,0,mention,FALSE,,general,,,,,
+290860,0,not_ai,FALSE,,,,,,,
+290864,0,not_ai,FALSE,,,,,,,
+290867,0,not_ai,FALSE,,,,,,,
+290869,0,not_ai,FALSE,,,,,,,
+290870,0,not_ai,FALSE,,,,,,,
+290872,0,not_ai,FALSE,,,,,,,
+290876,0,system,FALSE,,,MY Bharat AI-powered Resume Builder,Ministry of Youth Affairs and Sports (MY Bharat platform),education,working,not described
+290879,0,not_ai,FALSE,,,,,,,
+290880,0,system,FALSE,,,ICMR-MINDS (Clinical Decision Support System),"Indian Council of Medical Research (ICMR), Department of Health Research",health,working,clinical decision support system
+290882,0,system,FALSE,,,e-Jagriti,"Department of Consumer Affairs, Ministry of Consumer Affairs, Food & Public Distribution",justice/legal,working,not described
+290896,0,not_ai,FALSE,,,,,,,
+290898,0,system,FALSE,,,Aarogya Setu 2.0 (AI-driven health insights),"National Health Authority, Ministry of Health & Family Welfare",health,working,predictive model
+290898,1,system,FALSE,,,Aarogya Setu 2.0 (Smart Reports OCR),"National Health Authority, Ministry of Health & Family Welfare",health,working,computer vision / OCR
+290904,0,not_ai,FALSE,,,,,,,
+290909,0,system,FALSE,,,Sahakar Sahyogi,National Urban Cooperative Finance and Development Corporation (NUCFDC),tax/finance,working,chatbot
+290916,0,not_ai,FALSE,,,,,,,
+290918,0,mention,FALSE,,general,,,,,
+290920,0,mention,FALSE,,general,,,,,
+290933,0,mention,FALSE,,general,,,,,
+290934,0,mention,FALSE,,general,,,,,
+290935,0,mention,FALSE,,policy,,,,,
+290939,0,not_ai,FALSE,,,,,,,
+290942,0,not_ai,FALSE,,,,,,,
+290947,0,not_ai,FALSE,,,,,,,
+290960,0,not_ai,FALSE,,,,,,,
+290965,0,not_ai,FALSE,,,,,,,
+290973,0,not_ai,FALSE,,,,,,,
+290974,0,mention,FALSE,,general,,,,,
+290993,0,system,FALSE,,,Poshan Tracker (Facial Recognition System),Ministry of Women and Child Development (MoWCD),welfare/benefits,working,facial recognition
+291001,0,not_ai,FALSE,,,,,,,
+291003,0,mention,FALSE,,general,,,,,
+291004,0,mention,FALSE,,general,,,,,
+291011,0,not_ai,FALSE,,,,,,,
+291014,0,not_ai,FALSE,,,,,,,
+291023,0,not_ai,FALSE,,,,,,,
+291025,0,mention,FALSE,,funding,,,,,
+291029,0,mention,FALSE,,policy,,,,,
+291031,0,not_ai,FALSE,,,,,,,
+291044,0,not_ai,FALSE,,,,,,,
+291046,0,system,FALSE,,,SIDH-NCVET AI-enabled qualification identification tool,National Council for Vocational Education and Training (NCVET),education,trial,AI-enabled classification/matching tool
+291051,0,not_ai,FALSE,,,,,,,
+291053,0,not_ai,FALSE,,,,,,,
+291056,0,not_ai,FALSE,,,,,,,
+291065,0,not_ai,FALSE,,,,,,,
+291070,0,not_ai,FALSE,,,,,,,
+291073,0,not_ai,FALSE,,,,,,,
+291082,0,not_ai,FALSE,,,,,,,
+291085,0,not_ai,FALSE,,,,,,,
+291097,0,not_ai,FALSE,,,,,,,
+291100,0,not_ai,FALSE,,,,,,,
+291101,0,not_ai,FALSE,,,,,,,
+291110,0,not_ai,FALSE,,,,,,,
+291115,0,mention,FALSE,,general,,,,,
+291116,0,not_ai,FALSE,,,,,,,
+291123,0,not_ai,FALSE,,,,,,,
+291127,0,not_ai,FALSE,,,,,,,
+291136,0,not_ai,FALSE,,,,,,,
+291138,0,not_ai,FALSE,,,,,,,
+291141,0,not_ai,FALSE,,,,,,,
+291145,0,mention,FALSE,,training,,,,,
+291151,0,not_ai,FALSE,,,,,,,
+291164,0,mention,FALSE,,general,,,,,
+291166,0,not_ai,FALSE,,,,,,,
+291174,0,system,FALSE,,,CPGRAMS (multilingual AI chatbot),Department of Administrative Reforms and Public Grievances (DARPG),governance/admin,working,chatbot
+291175,0,not_ai,FALSE,,,,,,,
+291181,0,mention,FALSE,,training,,,,,
+291195,0,system,FALSE,,,3 Tesla High-Field MRI system (AI-enabled workflow),"All India Institute of Ayurveda (AIIA), Ministry of Ayush",health,buying,AI-enabled medical imaging workflow
+291196,0,not_ai,FALSE,,,,,,,
+291205,0,not_ai,FALSE,,,,,,,
+291208,0,not_ai,FALSE,,,,,,,
+291210,0,not_ai,FALSE,,,,,,,
+291213,0,not_ai,FALSE,,,,,,,
+291220,0,not_ai,FALSE,,,,,,,
+291225,0,not_ai,FALSE,,,,,,,
+291232,0,not_ai,FALSE,,,,,,,
+291244,0,not_ai,FALSE,,,,,,,
+291247,0,not_ai,FALSE,,,,,,,
+291251,0,not_ai,FALSE,,,,,,,
+291262,0,not_ai,FALSE,,,,,,,
+291265,0,mention,FALSE,,training,,,,,
+291268,0,not_ai,FALSE,,,,,,,
+291269,0,system,FALSE,,,BHASHINI multilingual AI integration with PNB digital banking,"Punjab National Bank (PNB), in partnership with Digital India BHASHINI Division (DIBD), MeitY",tax/finance,buying,multilingual AI / language translation
+291269,1,system,FALSE,,,BHASHINI (National Hub for Language Technology - NHLT),"Digital India BHASHINI Division (DIBD), Digital India Corporation (DIC), MeitY",governance/admin,working,multilingual AI / language translation & speech technology
+291273,0,system,FALSE,,,AI-enabled 3 Tesla High-Field MRI facility,"All India Institute of Ayurveda (AIIA), Ministry of Ayush",health,working,AI-enabled medical imaging (MRI)
+291281,0,not_ai,FALSE,,,,,,,
+291302,0,not_ai,FALSE,,,,,,,
+291309,0,not_ai,FALSE,,,,,,,
+291312,0,not_ai,FALSE,,,,,,,
+291317,0,system,FALSE,,,AI-enabled Network Survey Vehicle (NSV),CSIR-Central Road Research Institute (CSIR-CRRI),transport,working,AI-enabled road survey/assessment technology
+291319,0,not_ai,FALSE,,,,,,,
+291333,0,not_ai,FALSE,,,,,,,
+291335,0,not_ai,FALSE,,,,,,,
+291345,0,not_ai,FALSE,,,,,,,
+291352,0,not_ai,FALSE,,,,,,,
+291362,0,not_ai,FALSE,,,,,,,
+291363,0,not_ai,FALSE,,,,,,,
+291365,0,not_ai,FALSE,,,,,,,
+291369,0,mention,FALSE,,policy,,,,,
+291374,0,not_ai,FALSE,,,,,,,
+291383,0,not_ai,FALSE,,,,,,,
+291387,0,not_ai,FALSE,,,,,,,
+291389,0,system,FALSE,,,unnamed (NHA Health Analytics and AI Unit analytical tools),National Health Authority,health,working,data analytics / predictive model
+291398,0,not_ai,FALSE,,,,,,,
+291402,0,not_ai,FALSE,,,,,,,
+291424,0,not_ai,FALSE,,,,,,,
+291425,0,not_ai,FALSE,,,,,,,
+291437,0,not_ai,FALSE,,,,,,,
+291441,0,not_ai,FALSE,,,,,,,
+291442,0,not_ai,FALSE,,,,,,,
+291443,0,not_ai,FALSE,,,,,,,
+291450,0,mention,FALSE,,training,,,,,
+291451,0,not_ai,FALSE,,,,,,,
+291453,0,mention,FALSE,,training,,,,,
+291456,0,not_ai,FALSE,,,,,,,
+291458,0,mention,FALSE,,training,,,,,
+291460,0,mention,FALSE,,training,,,,,
+291466,0,mention,FALSE,,training,,,,,
+291467,0,system,FALSE,,,NPCI UPI Fraud Monitoring Solution,National Payments Corporation of India (NPCI),tax/finance,working,predictive model (AI/ML-based fraud detection)
+291473,0,not_ai,FALSE,,,,,,,
+291475,0,not_ai,FALSE,,,,,,,
+291476,0,not_ai,FALSE,,,,,,,
+291486,0,not_ai,FALSE,,,,,,,
+291489,0,system,FALSE,,,"BHASHINI (App Mitra, Mitra, Pravakta)","Digital India BHASHINI Division (DIBD), Digital India Corporation, MeitY",governance/admin,working,multilingual NLP / speech recognition / translation / chatbot
+291505,0,not_ai,FALSE,,,,,,,
+291529,0,system,FALSE,,,AI-enabled chatbot on My Ayush Integrated Services Portal (MAISP),Ministry of Ayush,health,trial,chatbot
+291530,0,not_ai,FALSE,,,,,,,
+291533,0,not_ai,FALSE,,,,,,,
+291535,0,not_ai,FALSE,,,,,,,
+291545,0,not_ai,FALSE,,,,,,,
+291547,0,mention,FALSE,,training,,,,,
+291551,0,not_ai,FALSE,,,,,,,
+291569,0,not_ai,FALSE,,,,,,,
+291590,0,mention,FALSE,,general,,,,,
+291593,0,mention,FALSE,,training,,,,,
+291599,0,not_ai,FALSE,,,,,,,
+291600,0,not_ai,FALSE,,,,,,,
+291601,0,not_ai,FALSE,,,,,,,
+291610,0,not_ai,FALSE,,,,,,,
+291614,0,not_ai,FALSE,,,,,,,
+291620,0,system,FALSE,,,unnamed,India Meteorological Department (IMD) / Ministry of Earth Sciences,environment/weather,working,AI/ML-based global weather prediction model
+291620,1,system,FALSE,,,Nowcasting tool,Ministry of Earth Sciences (MoES),environment/weather,working,AI/ML monitoring and observational processing tool
+291625,0,not_ai,FALSE,,,,,,,
+291626,0,not_ai,FALSE,,,,,,,
+291632,0,mention,FALSE,,policy,,,,,
+291634,0,mention,FALSE,,funding,,,,,
+291640,0,not_ai,FALSE,,,,,,,
+291645,0,not_ai,FALSE,,,,,,,
+291647,0,not_ai,FALSE,,,,,,,
+291650,0,not_ai,FALSE,,,,,,,
+291656,0,system,FALSE,,,Medha AI,Ministry of Tribal Affairs (Eklavya Model Residential Schools),education,working,AI-enabled learning and teaching-support platform
+291664,0,system,FALSE,,,SabhaSaar,Ministry of Panchayati Raj,governance/admin,working,AI-enabled documentation/transcription tool
+291666,0,not_ai,FALSE,,,,,,,
+291672,0,system,FALSE,,,Multi-Lane Free Flow (MLFF) ANPR/AI Tolling System,National Highways Authority of India (NHAI) / Ministry of Road Transport & Highways,transport,working,computer vision / ANPR with AI analytics
+291702,0,not_ai,FALSE,,,,,,,
+291704,0,not_ai,FALSE,,,,,,,
+291706,0,not_ai,FALSE,,,,,,,
+291707,0,not_ai,FALSE,,,,,,,
+291708,0,not_ai,FALSE,,,,,,,
+291715,0,not_ai,FALSE,,,,,,,
+291720,0,not_ai,FALSE,,,,,,,
+291721,0,not_ai,FALSE,,,,,,,
+291745,0,not_ai,FALSE,,,,,,,
+291746,0,system,FALSE,,,ASTR,Department of Telecommunications (DoT),policing/security,working,AI + big data analytics (fraud/anomaly detection)
+291748,0,not_ai,FALSE,,,,,,,
+291749,0,mention,FALSE,,funding,,,,,
+291750,0,not_ai,FALSE,,,,,,,
+291766,0,system,FALSE,,,Machine Vision Inspection System (MVIS),Indian Railways,transport,trial,computer vision / AI-ML anomaly detection
+291766,1,system,FALSE,,,Integrated Track Monitoring Systems (ITMS),Indian Railways,transport,working,machine learning / image processing (track defect detection)
+291767,0,not_ai,FALSE,,,,,,,
+291772,0,system,FALSE,,,Nyaya Setu AI Chatbot,"Department of Justice, Ministry of Law & Justice",justice/legal,working,"AI chatbot (multilingual, BHASHINI-enabled)"
+291773,0,system,FALSE,,,Nyaya Setu AI Chatbot (VIDHI Sanjeevani integration),"Department of Justice, Ministry of Law & Justice",justice/legal,announced,AI chatbot / AI-driven assistance
+291778,0,mention,FALSE,,training,,,,,
+291781,0,not_ai,FALSE,,,,,,,
+291782,0,system,FALSE,,,Intelligent Traffic Management System (ITMS) / ANPR,"Integrated Command and Control Centres (ICCCs), Ministry of Housing and Urban Affairs (Smart Cities Mission)",transport,working,computer vision / ANPR (traffic management & enforcement)
+291782,1,system,FALSE,,,Facial Recognition System (public safety),"Integrated Command and Control Centres (ICCCs), Ministry of Housing and Urban Affairs (Smart Cities Mission)",policing/security,working,facial recognition
+291788,0,system,FALSE,,,unnamed,National Highways Authority of India (NHAI),transport,working,computer vision (image screening/verification)
+291791,0,mention,FALSE,,general,,,,,
+291804,0,system,FALSE,,,Krishi Decision Support System (KDSS),Ministry of Agriculture and Farmers Welfare (Digital Agriculture Mission),agriculture,working,predictive model / decision support system (data integration & advisory)
+291810,0,system,FALSE,,,Facial Recognition System (FRS) in Poshan Tracker,Ministry of Women and Child Development (MWCD),welfare/benefits,working,facial recognition
+291814,0,system,FALSE,,,Facial Recognition System (FRS) in Poshan Tracker,Ministry of Women and Child Development (MWCD),welfare/benefits,working,facial recognition
+291815,0,system,FALSE,,,Facial Recognition System (FRS) in Poshan Tracker,Ministry of Women and Child Development (MWCD),welfare/benefits,working,facial recognition
+291821,0,mention,FALSE,,general,,,,,
+291824,0,not_ai,FALSE,,,,,,,
+291841,0,system,FALSE,,,AI-based CCTV Video Analytics System,Ministry of Railways / Indian Railways,policing/security,working,computer vision (video analytics)
+291843,0,system,FALSE,,,AI-camera Stain Detection System,"Indian Railways (Pune Division, Central Railway; Jaipur & Jodhpur Division, North Western Railway)",transport,trial,computer vision
+291853,0,not_ai,FALSE,,,,,,,
+291861,0,not_ai,FALSE,,,,,,,
+291865,0,system,FALSE,,,National Pest Surveillance System (NPSS),Ministry of Agriculture and Farmers Welfare,agriculture,working,computer vision / predictive model (pest detection)
+291865,1,system,FALSE,,,AI-based Monsoon and Weather Advisory,India Meteorological Department (IMD),agriculture,working,predictive model (weather forecasting AI)
+291865,2,system,FALSE,,,BharatVistaar,Ministry of Agriculture and Farmers Welfare (Digital Agriculture Mission),agriculture,working,chatbot / LLM (multilingual DPI)
+291868,0,not_ai,FALSE,,,,,,,
+291876,0,mention,FALSE,,general,,,,,
+291882,0,not_ai,FALSE,,,,,,,
+291884,0,not_ai,FALSE,,,,,,,
+291885,0,not_ai,FALSE,,,,,,,
+291906,0,system,FALSE,,,Nyaya Setu AI Chatbot,"Department of Justice, Ministry of Law & Justice",justice/legal,working,"LLM / chatbot (Generative AI, Retrieval-Augmented Generation)"
+291908,0,system,FALSE,,,Legal Research Analysis Assistant (LegRAA),"e-Committee, Supreme Court of India / Department of Justice (eCourts Project)",justice/legal,trial,NLP / legal research assistant
+291946,0,not_ai,FALSE,,,,,,,
+291958,0,system,FALSE,,,NeVA (National e-Vidhan Application) BHASHINI translation integration,Ministry of Parliamentary Affairs / State Legislatures (NeVA project),governance/admin,working,machine translation (AI)
+291960,0,mention,FALSE,,training,,,,,
+291961,0,not_ai,FALSE,,,,,,,
+291963,0,mention,FALSE,,training,,,,,
+291967,0,system,FALSE,,,Gyan Mitram,Ministry of Culture,other,working,"LLM / knowledge interface (OCR, HTR, semantic search)"
+291967,1,system,FALSE,,,BharatiyaGPT,Ministry of Culture,other,working,LLM / conversational AI
+291967,2,system,FALSE,,,Pandulipi Darpan,Ministry of Culture,other,working,"computer vision / OCR (script recognition, transliteration)"
+291968,0,system,FALSE,,,Gandhipedia,"National Council of Science Museums (NCSM), in collaboration with IIT Kharagpur & IIT Gandhinagar",other,working,not described
+291975,0,mention,FALSE,,policy,,,,,
+291977,0,not_ai,FALSE,,,,,,,
+291999,0,mention,FALSE,,training,,,,,
+292000,0,system,FALSE,,,BHASHINI,"Digital India BHASHINI Division (DIBD), Ministry of Electronics and Information Technology (MeitY)",governance/admin,working,"NLP / machine translation (ASR, NMT, TTS, OCR language AI suite)"
+292003,0,not_ai,FALSE,,,,,,,
+292013,0,system,FALSE,,,WINGS Mobile Application,"National Centre for Medium Range Weather Forecasting (NCMRWF), Ministry of Earth Sciences",environment/weather,working,predictive model (AI/ML weather prediction)
+292013,1,system,FALSE,,,Sagar Prahari App,"National Centre for Coastal Research (NCCR), Ministry of Earth Sciences",environment/weather,working,computer vision (automatic marine litter identification)
+292016,0,system,FALSE,,,CaTRAT (Camera Trap Data Repository and Analysis Tool),"National Tiger Conservation Authority (NTCA), Ministry of Environment, Forest and Climate Change",environment/weather,working,computer vision (image classification)
+292016,1,system,FALSE,,,ExtractCompare,"National Tiger Conservation Authority (NTCA), Ministry of Environment, Forest and Climate Change",environment/weather,working,computer vision (individual identification via pattern matching)
+292027,0,not_ai,FALSE,,,,,,,
+292035,0,not_ai,FALSE,,,,,,,
+292039,0,system,FALSE,,,CERT-In AI-driven situational awareness system,CERT-In (Indian Computer Emergency Response Team),policing/security,working,threat/anomaly detection (AI-driven)
+292068,0,not_ai,FALSE,,,,,,,
+292078,0,not_ai,FALSE,,,,,,,
+292119,0,not_ai,FALSE,,,,,,,
+292144,0,not_ai,FALSE,,,,,,,
+292149,0,not_ai,FALSE,,,,,,,
+292150,0,system,FALSE,,,AI-powered chatbots and virtual assistants (Ayush Grid),Ministry of Ayush,health,working,chatbot / virtual assistant
+292152,0,not_ai,FALSE,,,,,,,
+292157,0,system,FALSE,,,AI-based Segmentation Module (SPECTA platform),CSC e-Governance Service India Limited,governance/admin,working,machine learning classification/LLM
+292166,0,not_ai,FALSE,,,,,,,
+292168,0,system,FALSE,,,AI-powered chatbots and virtual assistants (Ayush Grid),Ministry of Ayush,health,working,chatbot / virtual assistant
+292169,0,not_ai,FALSE,,,,,,,
+292171,0,system,FALSE,,,AI-enabled chatbot (Beta) – MAISP portal,Ministry of Ayush,health,trial,chatbot
+292172,0,mention,FALSE,,training,,,,,
+292173,0,not_ai,FALSE,,,,,,,
+292176,0,not_ai,FALSE,,,,,,,
+292178,0,system,FALSE,,,unnamed,India Meteorological Department (IMD) and Central Water Commission (CWC),environment/weather,working,predictive model
+292187,0,system,FALSE,,,IndiaAI Face Authentication Challenge system,Union Public Service Commission (UPSC),governance/admin,trial,facial recognition
+292187,1,system,FALSE,,,IndiaAI Intelligent Document Processing (IDP) system,Union Public Service Commission (UPSC),governance/admin,trial,document processing/NLP
+292187,2,system,FALSE,,,CyberGuard AI cybercrime classification solution,Indian Cyber Crime Coordination Centre (I4C),policing/security,working,classification model/NLP
+292187,3,system,FALSE,,,PMJAY Auto Adjudication AI framework,National Health Authority (NHA),health,trial,predictive model
+292187,4,system,FALSE,,,CDSCO-IndiaAI regulatory automation system,Central Drugs Standard Control Organisation (CDSCO),health,announced,NLP/document automation
+292200,0,mention,FALSE,,training,,,,,
+292202,0,not_ai,FALSE,,,,,,,
+292204,0,not_ai,FALSE,,,,,,,
+292205,0,not_ai,FALSE,,,,,,,
+292208,0,mention,FALSE,,training,,,,,
+292214,0,mention,FALSE,,funding,,,,,
+292222,0,not_ai,FALSE,,,,,,,
+292224,0,not_ai,FALSE,,,,,,,
+292225,0,not_ai,FALSE,,,,,,,
+292227,0,mention,FALSE,,research,,,,,
+292228,0,not_ai,FALSE,,,,,,,
+292236,0,not_ai,FALSE,,,,,,,
+292247,0,not_ai,FALSE,,,,,,,
+292257,0,mention,FALSE,,training,,,,,
+292258,0,system,FALSE,,,unnamed,National Council of Educational Research and Training (NCERT),education,working,machine translation/NLP
+292260,0,not_ai,FALSE,,,,,,,
+292261,0,system,FALSE,,,DIKSHA,Ministry of Education / NCERT,education,working,personalized learning/recommendation system
+292268,0,system,FALSE,,,AI-enabled handheld X-ray units,National Health Mission / Ministry of Health and Family Welfare,health,working,computer vision
+292269,0,mention,FALSE,,general,,,,,
+292271,0,not_ai,FALSE,,,,,,,
+292287,0,not_ai,FALSE,,,,,,,
+292292,0,not_ai,FALSE,,,,,,,
+292295,0,mention,FALSE,,research,,,,,
+292300,0,system,FALSE,,,"Pangu Weather, FourCastNet, GraphCast (AI global weather models)",Ministry of Earth Sciences (MoES) / India Meteorological Department,environment/weather,working,predictive model
+292300,1,system,FALSE,,,Nowcasting tool,MoES-institutions,environment/weather,working,predictive model
+292301,0,not_ai,FALSE,,,,,,,
+292302,0,system,FALSE,,,unnamed,Central Water Commission (CWC),environment/weather,working,predictive model
+292302,1,system,FALSE,,,unnamed,India Meteorological Department (IMD),environment/weather,working,predictive model
+292305,0,not_ai,FALSE,,,,,,,
+292306,0,not_ai,FALSE,,,,,,,
+292307,0,system,FALSE,,,AI-driven situational awareness system,Indian Computer Emergency Response Team (CERT-In),policing/security,working,anomaly/threat detection model
+292307,1,system,FALSE,,,AI-enabled vulnerability assessment tool,Indian Computer Emergency Response Team (CERT-In),policing/security,working,vulnerability assessment model
+292313,0,not_ai,FALSE,,,,,,,
+292314,0,system,FALSE,,,Gyan Bharatam Web Portal (with Gyan Mitram and BharatiyaGPT),Government of India (Gyan Bharatam Mission),other,working,LLM/OCR/NLP (manuscript AI)
+292317,0,mention,FALSE,,research,,,,,
+292321,0,mention,FALSE,,general,,,,,
+292333,0,system,FALSE,,,AI for Ultrasound (AI for USG),"Department of Biotechnology, in collaboration with Bill & Melinda Gates Foundation (Grand Challenges India)",health,trial,computer vision
+292342,0,system,FALSE,,,Ganga Knowledge Portal (GyanGanga),National Mission for Clean Ganga (NMCG),environment/weather,working,not described
+292347,0,system,FALSE,,,unnamed,Union Public Service Commission (UPSC),governance/admin,working,not described
+292361,0,not_ai,FALSE,,,,,,,
+292362,0,not_ai,FALSE,,,,,,,
+292369,0,mention,FALSE,,policy,,,,,
+292373,0,not_ai,FALSE,,,,,,,
+292387,0,system,FALSE,,,unnamed,"National Testing Agency / public examination agencies (UPSC, SSC, NTA)",education,working,facial recognition
+292390,0,not_ai,FALSE,,,,,,,
+292391,0,mention,FALSE,,policy,,,,,
+292398,0,not_ai,FALSE,,,,,,,
+292399,0,not_ai,FALSE,,,,,,,
+292405,0,system,FALSE,,,Legal Research Analysis Assistant (LegRAA),"eCommittee, Supreme Court of India / NIC Centre of Excellence for eCourts",justice/legal,trial,AI research/document analysis tool (NLP)
+292405,1,system,FALSE,,,Digital Courts 2.1,"eCommittee, Supreme Court of India / NIC Centre of Excellence for eCourts",justice/legal,trial,speech-to-text / translation (NLP)
+292412,0,not_ai,FALSE,,,,,,,
+292425,0,not_ai,FALSE,,,,,,,
+292427,0,not_ai,FALSE,,,,,,,
+292436,0,mention,FALSE,,policy,,,,,
+292442,0,mention,FALSE,,general,,,,,
+292448,0,not_ai,FALSE,,,,,,,
+292456,0,mention,FALSE,,general,,,,,
+292465,0,not_ai,FALSE,,,,,,,
+292473,0,not_ai,FALSE,,,,,,,
+292486,0,system,FALSE,,,unnamed,Ministry of Petroleum & Natural Gas (National Data Repository),other,announced,not described
+292488,0,system,FALSE,,,unnamed,"Ministry of Home Affairs / security forces (CRPF, DRG, CoBRA)",policing/security,working,data analytics / surveillance analysis
+292498,0,not_ai,FALSE,,,,,,,
+292501,0,not_ai,FALSE,,,,,,,
+292509,0,not_ai,FALSE,,,,,,,
+292510,0,not_ai,FALSE,,,,,,,
+292513,0,not_ai,FALSE,,,,,,,
+292514,0,not_ai,FALSE,,,,,,,
+292519,0,not_ai,FALSE,,,,,,,
+292534,0,mention,FALSE,,training,,,,,
+292543,0,not_ai,FALSE,,,,,,,
+292546,0,not_ai,FALSE,,,,,,,
+292548,0,mention,FALSE,,general,,,,,
+292552,0,not_ai,FALSE,,,,,,,
+292554,0,mention,FALSE,,funding,,,,,
+292555,0,not_ai,FALSE,,,,,,,
+292557,0,not_ai,FALSE,,,,,,,
+292569,0,not_ai,FALSE,,,,,,,
+292575,0,not_ai,FALSE,,,,,,,
+292577,0,system,FALSE,,,e-Sigma platform AI-enabled chatbot,Ministry of Statistics and Programme Implementation (MoSPI),governance/admin,working,chatbot
+292583,0,not_ai,FALSE,,,,,,,
+292584,0,not_ai,FALSE,,,,,,,
+292586,0,mention,FALSE,,training,,,,,
+292589,0,mention,FALSE,,training,,,,,
+292592,0,system,FALSE,,,unnamed,"Indian Museum, Kolkata (with IIT Kharagpur)",other,working,computer vision / AI-based restoration model
+292592,1,system,FALSE,,,unnamed,"Indian Museum, Kolkata",other,working,AI-based interactive / AR visitor-engagement tool
+292593,0,system,FALSE,,,MuleHunter,Reserve Bank of India (RBI),tax/finance,working,AI-based fraud/anomaly detection model
+292593,1,system,FALSE,,,India Digital Payment Intelligence Corporation (IDPIC),Government of India / Reserve Bank of India,tax/finance,working,AI / Machine Learning / Big Data Analytics for fraud intelligence sharing
+292595,0,system,FALSE,,,Khelo India Rising Talent Identification (KIRTI),Ministry of Youth Affairs and Sports,other,working,AI and data analytics for talent assessment
+292600,0,not_ai,FALSE,,,,,,,
+292603,0,system,FALSE,,,unnamed,National Data Repository (Directorate General of Hydrocarbons / Ministry of Petroleum and Natural Gas),other,announced,AI tools for seismic data reprocessing/interpretation
+292605,0,not_ai,FALSE,,,,,,,
+292606,0,not_ai,FALSE,,,,,,,
+292607,0,system,FALSE,,,Network Survey Vehicle (NSV),CSIR-Central Road Research Institute (CSIR-CRRI),transport,working,AI-enabled data analytics for pavement distress mapping
+292619,0,mention,FALSE,,training,,,,,
+292622,0,mention,FALSE,,research,,,,,
+292625,0,not_ai,FALSE,,,,,,,
+292628,0,not_ai,FALSE,,,,,,,
+292630,0,not_ai,FALSE,,,,,,,
+292634,0,not_ai,FALSE,,,,,,,
+292637,0,not_ai,FALSE,,,,,,,
+292640,0,not_ai,FALSE,,,,,,,
+292642,0,not_ai,FALSE,,,,,,,
+292648,0,not_ai,FALSE,,,,,,,
+292654,0,system,FALSE,,,AI-Based Suspected Spam Flagging System,"Telecom Service Providers (TSPs), under DoT's regulated UCC framework",governance/admin,working,AI-based calling-pattern analytics for spam detection
+292655,0,not_ai,FALSE,,,,,,,
+292661,0,not_ai,FALSE,,,,,,,
+292670,0,mention,FALSE,,funding,,,,,
+292674,0,not_ai,FALSE,,,,,,,
+292676,0,not_ai,FALSE,,,,,,,
+292685,0,mention,FALSE,,general,,,,,
+292686,0,system,FALSE,,,unnamed,C-DAC and Geological Survey of India (GSI),other,announced,AI + HPC for geophysical data processing / predictive modelling
+292704,0,not_ai,FALSE,,,,,,,
+292705,0,not_ai,FALSE,,,,,,,
+292717,0,mention,FALSE,,general,,,,,
+292721,0,not_ai,FALSE,,,,,,,
+292725,0,system,FALSE,,,National Career Service (NCS) Portal,Ministry of Labour & Employment,welfare/benefits,working,AI-powered job matching / skill-gap analysis / recommendation / interview coach
+292729,0,mention,FALSE,,general,,,,,

@@ -1,0 +1,822 @@
+term,round,channel,primary_parent,all_parents,releases_matched,releases_added_when_introduced,example_context
+AI,0,seed,,,3329,3329,ies. He further said that each laboratory should appoint an AI/ML champion to proactively pursue the inclusion of AI/ML in
+ML,0,seed,,,461,461,. He further said that each laboratory should appoint an AI/ML champion to proactively pursue the inclusion of AI/ML in al
+artificial intelligence,0,seed,,,2085,2085,cus on achieving higher user satisfaction and incorporating artificial intelligence/machine learning in all our systems and technologies. He fu
+intelligent,0,seed,,,288,288,"iculture; Indigenous Biomedical devices; 6 G Semiconductor, intelligent transportation, hydrogen energy, research in automobile sec"
+smart,0,seed,,,1588,1588,perationally efficient distribution sector. Prepaid Smart metering is the critical intervention envisaged under RDSS
+automated,0,seed,,,514,514,izens. FIRs in NCRP are reflected through CCTNS. National Automated Finger-Print Identification System (NAFIS) of National Crim
+algorithm,0,seed,,,42,42,New algorithm can produce better images to study ultracold atoms that exh
+chatbot,0,seed,,,180,180,"ourney is the development of 'Kisan e-Mitra,' an AI-powered chatbot addressing farmers' queries about the PM Kisan Samman Nidhi"
+facial recognition,0,seed,,,72,72,tion in AI” for its pioneering ASTR Project. ASTR (AI & Facial Recognition-powered Solution for Telecom SIM Subscriber Verification) i
+FRT,0,seed,,,1,1,oarding at airports based on Facial Recognition Technology (FRT). It helps travellers pass through various checkpoints at t
+ANPR,0,seed,,,38,38,a single FASTag. The Automatic Number Plate Recognition (ANPR) integrated with FASTag System has been introduced in certa
+predictive,0,seed,,,187,187,"this is an important event in the direction of preventive, predictive and protective policing. An in-depth study of the criminal"
+analytics,0,seed,,,709,709,Officers of the concerned line Departments. E-OFFICE ANALYTICS IMPLEMENTATION As per the uptodate e-Office data made
+GPT,0,seed,,,9,9,"o develop AI-enabled technologies, decision support system, GPT-powered AI, development of technologies for quantum communi"
+SafeCity,0,seed,,,1,1,
+Safe City,0,seed,,,11,11,"at supports women, children, and the elderly, and ensures a safe city for all. Building a conducive environment for women at home"
+Smartcity,0,seed,,,0,0,
+Smart City,0,seed,,,127,127,"taken to see various developmental works like Delhi Metro, Smart city, Morarji Desai National Institute of Yoga, Central Informat"
+face recognition,1,seed,,,44,22,"and reduced litigations through technology means. Besides, Face Recognition Technology is being used for the first time in issuing Digi"
+machine learning,1,seed,,,527,16,"tiers of cutting-edge technology such as quantum computing, machine learning, 6G and green hydrogen, the Vice-President underscored the"
+deep learning,1,seed,,,45,5,
+Bhashini,1,seed,,,198,39,"ously, the event also brought together representatives from Bhashini and IGNOU to formalize their collaboration with Department"
+Drishti,1,seed,,,39,22,d said “Anna is the visible Ishwara. It is the fuel but our Drishti regarding Anna is also important. When diet is taken in a b
+IndiaAI,1,human,,,230,3,"g National Quantum Mission (NQM), Chip to Startup (C2S) and INDIAai, and contributing to Atmanirbhar Bharat. Prof. Sood engaged"
+big data,1,human,,,121,2,India Joins the UN Committee of Experts on Big Data and Data Science for Official Statistics In a significant
+large language model,1,human,,,44,1,"try’s breakthroughs in vaccine development, the BharatGenAI large language model, and progress in quantum computing. He also emphasized the"
+language model,1,human,,,49,1,"breakthroughs in vaccine development, the BharatGenAI large language model, and progress in quantum computing. He also emphasized the"
+data science,1,human,,,103,7,", life sciences, and biotechnology, applied mathematics and data science and technology, material science & technology, physics and"
+language translation,1,human,,,53,10,
+FutureSkills,1,human,,,56,1,"ripura 598 142 740 FutureSkills PRIME: To bridge the industry skill gap, MeitY has initiate"
+robot,1,human,,,31,9,"Woman Robot Astronaut ""Vyommitra"" will fly into Space ahead of ISRO's a"
+ChatGPT,1,human,,,25,7,awareness. Training in effective use of technologies like ChatGPT. RTI Act implementation and Hindi usage in office work.
+pest surveillance,1,human,,,37,5,"Plant Protection: NPS Information on crop Situation, Pest Surveillance through NPSS, Collect photos, uploading photo s INR 1"
+compute,1,human,,,166,16,"ncy, will concentrate on sectors like Automotive, Mobility, Compute, Communication, Strategic Electronics, and Industrial IoT."
+Large Language,1,near-AI name,large language model,AI(96) | artificial intelligence(70) | large language model(44) | language model(44) | IndiaAI(33) | machine learning(26) | compute(26) | ML(21) | intelligent(16) | smart(16) | chatbot(14) | analytics(14) | automated(11) | Bhashini(11) | predictive(9) | data science(9) | algorithm(7) | deep learning(7) | big data(7) | FutureSkills(7) | pest surveillance(5) | language translation(4) | ChatGPT(3),99,2,
+SabhaSaar,1,near-AI name,language translation,AI(27) | automated(13) | Bhashini(12) | artificial intelligence(11) | language translation(7) | analytics(4) | chatbot(3) | IndiaAI(3) | compute(3),31,4,"Panchayat Advancement Index (PAI), ensure effective use of SabhaSaar, enhance Own Source Revenue (OSR), and promote wider commun"
+Blockchain,1,near-AI name,big data,artificial intelligence(133) | AI(125) | machine learning(85) | analytics(57) | smart(47) | ML(30) | big data(28) | automated(23) | intelligent(16) | IndiaAI(15) | predictive(11) | Bhashini(8) | FutureSkills(8) | deep learning(7) | data science(7) | compute(6) | language model(5) | chatbot(4) | large language model(4) | face recognition(3) | pest surveillance(3),215,23,"ngh emphasized the importance of emerging technologies like Blockchain, CORS in the modernization of land management which will go"
+Human Intelligence,1,near-AI name,pest surveillance,AI(26) | artificial intelligence(26) | smart(7) | IndiaAI(6) | machine learning(5) | intelligent(4) | chatbot(4) | analytics(4) | Bhashini(4) | big data(4) | ML(3) | automated(3) | pest surveillance(3) | compute(3),40,10,"asant Panchami celebrates Goddess Saraswati, the goddess of human intelligence and conscience. It is this intelligence that enables us to"
+SAMPURNA,1,near-AI name,analytics,AI(4) | analytics(3),8,4,w. APY has been designed in such a way that it provides Sampurna Suraksha Kavach to not only the subscriber by providing a l
+PAIMANA,1,near-AI name,chatbot,analytics(17) | AI(5) | chatbot(5),24,6,"the iOS version of the GoIStats app, and portals including PAIMANA, NMDS 2.0, along with important publications like Children"
+Jigyasa,1,near-AI name,machine learning,smart(7) | AI(6) | machine learning(4),30,20,"Vividhta and Ekta, Satyanishtha and Shuchita, Navachar and Jigyasa, Shraddha aur Vishwas, and Swatantrata and Kartavya. The pr"
+Anna Roy,1,near-AI name,AI,AI(3),14,10,"p Platform (WEP) Shri S.C.L. Das, Secretary, , Ms. Anna Roy Senior Advisor Niti Aayog, Ms. Mercy Epao, JS – SME and Dr."
+WAVES OTT,1,near-AI name,AI,AI(4),22,18,WAVES OTT to stream DFB-Pokal semi-finals & grand finale live in Indi
+NeVA,1,near-AI name,Bhashini,Bhashini(7) | AI(5),36,29,ere laid in Rajya Sabha. NATIONAL E-VIDHAN APPLICATION (NeVA) The Ministry of Parliamentary Affairs is the ‘Nodal Mi
+Samarth,1,near-AI name,Bhashini,AI(27) | smart(21) | automated(11) | analytics(11) | artificial intelligence(10) | Bhashini(7),212,156,"cheme, higher subsidy is provided for women owned MSMEs. “SAMARTH” initiative was launched to support women-owned MSMEs with"
+Automobile,1,near-AI name,data science,AI(37) | smart(36) | artificial intelligence(19) | intelligent(7) | automated(5) | analytics(4) | machine learning(4) | data science(3),318,243,Tenure of Production Linked Incentive (PLI) Scheme for Automobile and Auto Components extended by One Year with partial amend
+generative,1,1-gram,language model,AI(112) | artificial intelligence(78) | machine learning(37) | analytics(34) | IndiaAI(28) | ML(27) | smart(21) | intelligent(17) | language model(17) | compute(17) | big data(16) | automated(15) | large language model(15) | data science(14) | chatbot(12) | Bhashini(11) | FutureSkills(11) | predictive(10) | deep learning(9) | algorithm(6),116,1,"gram includes one-to-one mentoring of faculty and promoting generative dialogue among faculty, student teams and HEI partners by a"
+kumar pawan,1,2-gram,compute,AI(50) | artificial intelligence(42) | compute(17) | IndiaAI(9) | intelligent(6),51,1,
+position as global,1,3-gram,intelligent,AI(46) | artificial intelligence(29) | smart(26) | automated(9) | intelligent(7),2,1,
+like artificial,1,2-gram,machine learning,artificial intelligence(85) | AI(42) | machine learning(34) | smart(13) | automated(7) | intelligent(5),88,1,ds 2025 and applauded the adoption of advanced technologies like artificial insemination and embryo transfer to improve dairy productiv
+gpu,1,1-gram,compute,AI(39) | artificial intelligence(33) | compute(29) | IndiaAI(23) | machine learning(13) | Bhashini(8) | intelligent(6) | data science(6) | FutureSkills(6) | chatbot(5) | big data(4) | large language model(4) | language model(4) | ChatGPT(4) | deep learning(3) | language translation(3),40,1,"sustain their own water supply systems. In Rumbuk GPU under Daramdin Block , Sarpanch Shela Subba has encouraged"
+played pivotal role,1,3-gram,machine learning,AI(37) | artificial intelligence(24) | smart(18) | analytics(11) | machine learning(9) | automated(8),1,1,"tion of operations, including the introduction of ERP, have played pivotal role in enhancing mine efficiency and productivity. Furtherm"
+multilingual access,1,2-gram,language translation,AI(37) | Bhashini(33) | language translation(13) | chatbot(9) | language model(6) | large language model(3),47,5,ent Management System (CMS) of the application and enabling multilingual access. PIB has approved the NeVA project with a total cos
+becoming developed nation,1,3-gram,AI,AI(36) | artificial intelligence(22) | smart(11),1,1,make a bold resolution to bring India closer to its goal of becoming developed nation by 2047. It emphasizes that the journey towards a developed
+marks significant milestone,1,3-gram,robot,AI(36) | artificial intelligence(27) | smart(18) | automated(9) | machine learning(9) | robot(4),3,1,MDNIY marks significant milestone by signing three MoUs The Morarji Desai National Institut
+companies like ibm,1,3-gram,big data,AI(36) | artificial intelligence(33) | ML(26) | machine learning(11) | big data(10),38,1,"er, DGT under the aegis of MSDE has signed MoU with various companies like IBM, CISCO, Microsoft, AWS etc. to ensure industry linkages for"
+partnerships facilitate,1,2-gram,big data,AI(35) | artificial intelligence(33) | ML(28) | analytics(11) | machine learning(10) | big data(8) | data science(6),37,1,s in industrial environment as per their requirements.These partnerships facilitate the provision of technical and professional skills training
+amazon web,1,2-gram,big data,AI(35) | artificial intelligence(31) | ML(19) | analytics(12) | machine learning(9) | big data(8) | data science(5),37,1,"Tammanna. Anushka, an Electronics Engineer is working with Amazon Web Services, and Tammanna is pursuing graduation in Humanities"
+amazon web services,1,3-gram,big data,AI(35) | artificial intelligence(31) | ML(19) | analytics(12) | machine learning(9) | big data(8) | data science(5),37,1,"Tammanna. Anushka, an Electronics Engineer is working with Amazon Web Services, and Tammanna is pursuing graduation in Humanities at Jaihi"
+planet and progress,1,3-gram,GPT,AI(34) | artificial intelligence(22) | IndiaAI(21) | compute(13) | Bhashini(8) | predictive(5) | FutureSkills(5) | GPT(3) | language translation(3),35,1,
+marks significant,1,2-gram,robot,AI(100) | artificial intelligence(67) | smart(50) | automated(22) | robot(5) | face recognition(3),7,3,MDNIY marks significant milestone by signing three MoUs The Morarji Desai Nationa
+like ibm cisco,1,3-gram,big data,AI(33) | artificial intelligence(31) | ML(23) | machine learning(10) | big data(10),34,1,
+ibm cisco,1,2-gram,big data,AI(33) | artificial intelligence(31) | ML(23) | machine learning(10) | big data(10),34,1,
+future skills courses,1,3-gram,ML,AI(31) | artificial intelligence(27) | ML(26) | machine learning(9) | big data(6),32,1,General of Training (DGT): DGT has introduced new age /future skills courses under Craftsmen Training Scheme (CTS) to provide training i
+plays crucial,1,2-gram,data science,AI(30) | smart(17) | intelligent(9) | data science(4),1,1,Indian Institute of Astrophysics plays crucial role in bringing sunlight on forehead of Sri Ram Lalla In
+age future,1,2-gram,ML,AI(30) | artificial intelligence(27) | ML(26) | machine learning(9) | big data(6),31,1,
+age future skills,1,3-gram,ML,AI(30) | artificial intelligence(27) | ML(26) | machine learning(9) | big data(6),31,1,
+introduced new age,1,3-gram,ML,artificial intelligence(34) | AI(30) | ML(27) | machine learning(10) | Smart City(7) | big data(6),18,1,tem. Directorate General of Training (DGT): DGT has introduced new age /future skills courses under Craftsmen Training Scheme (CTS
+professional skills training,1,3-gram,big data,AI(30) | artificial intelligence(27) | ML(26) | machine learning(9) | big data(8),32,1,hese partnerships facilitate the provision of technical and professional skills training in modern technologies. This information was given by t
+plays crucial role,1,3-gram,data science,AI(29) | smart(17) | intelligent(9) | data science(4),1,1,Indian Institute of Astrophysics plays crucial role in bringing sunlight on forehead of Sri Ram Lalla Indian
+ethical use,1,2-gram,IndiaAI,AI(28) | artificial intelligence(22) | IndiaAI(8),33,1,"ments, while underscoring the importance of responsible and ethical use of data to drive inclusion and efficiency in governance."
+provided platform,1,2-gram,smart,AI(28) | smart(15),1,1,"ntries, and around 30,000 business visitors. The exhibition provided platform for connecting manufacturers with wholesalers, retailers, d"
+optical character recognition,1,3-gram,large language model,artificial intelligence(32) | AI(28) | intelligent(11) | automated(9) | Bhashini(8) | chatbot(6) | large language model(3) | language model(3),35,1,"xt-to-Speech, Speech-to-Text, Speech-to-Speech translation, Optical Character Recognition for digitizing and translating tribal manuscripts, and a co"
+character recognition,1,2-gram,large language model,artificial intelligence(32) | AI(28) | intelligent(11) | automated(9) | Bhashini(8) | chatbot(6) | large language model(3) | language model(3),35,1,"eech, Speech-to-Text, Speech-to-Speech translation, Optical Character Recognition for digitizing and translating tribal manuscripts, and a co"
+optical character,1,2-gram,large language model,artificial intelligence(32) | AI(28) | intelligent(11) | automated(9) | Bhashini(8) | chatbot(6) | large language model(3) | language model(3),35,1,"xt-to-Speech, Speech-to-Text, Speech-to-Speech translation, Optical Character Recognition for digitizing and translating tribal manuscrip"
+deepfake,1,1-gram,deep learning,AI(28) | IndiaAI(13) | automated(10) | intelligent(8) | compute(7) | deep learning(4) | algorithm(3),31,1,"analyzed emerging cyber fraud patterns including UPI scams, deepfake threats, social engineering attacks, and digital payment vu"
+robotics mechatronics,1,2-gram,ML,AI(28) | artificial intelligence(27) | ML(19),29,1,
+scheme and dual,1,3-gram,ML,AI(28) | artificial intelligence(26) | ML(20),30,1,ate and regional levels. DGT is also implementing Flexi MoU Scheme and Dual System of Training (DST) which are meant to provide trainin
+independent business,1,2-gram,IndiaAI,AI(27) | IndiaAI(24) | compute(8) | FutureSkills(5) | algorithm(3),29,1,"About NeGD : The National e-Governance Division, an independent business division under Digital India Corporation and MeitY, is resp"
+tihs,1,1-gram,large language model,AI(27) | ML(19) | machine learning(16) | large language model(7) | language model(7) | predictive(5) | Drishti(4),33,2,Tirupati described the role of Technology Innovation Hubs (TIHs) in accelerating geospatial innovation. A Gra
+hubs tihs,1,2-gram,large language model,AI(27) | ML(19) | machine learning(16) | large language model(7) | language model(7) | predictive(5) | Drishti(3),31,2,
+innovation hubs tihs,1,3-gram,large language model,AI(27) | ML(19) | machine learning(16) | large language model(7) | language model(7) | predictive(5) | Drishti(3),31,2,
+training to iti,1,3-gram,ML,AI(27) | artificial intelligence(25) | ML(20),29,1,nd Dual System of Training (DST) which are meant to provide training to ITI students in industrial environment as per their requirement
+technologies like artificial,1,3-gram,machine learning,artificial intelligence(56) | AI(26) | machine learning(25) | intelligent(5),58,1,al Ratna Awards 2025 and applauded the adoption of advanced technologies like artificial insemination and embryo transfer to improve dairy productiv
+ceo digital,1,2-gram,language translation,AI(26) | Bhashini(24) | language translation(8),28,2,", President & CEO, Nation E-Governance Mission (NeGD); MD & CEO Digital India Corporation, and CEO, MyGov. Participants include"
+ensure industry linkages,1,3-gram,ML,AI(26) | artificial intelligence(24) | ML(20),28,1,"h various companies like IBM, CISCO, Microsoft, AWS etc. to ensure industry linkages for the institutes at the state and regional levels. DGT is"
+cts to provide,1,3-gram,ML,ML(21),23,1,
+needs of respective,1,3-gram,ML,artificial intelligence(22) | ML(19),26,1,"NSDC, which are mandated to identify the skill development needs of respective sectors as well as to determine skill competency standards."
+implementing flexi mou,1,3-gram,ML,artificial intelligence(23) | ML(19),27,1,he institutes at the state and regional levels. DGT is also implementing Flexi MoU Scheme and Dual System of Training (DST) which are meant to
+councils sscs led,1,3-gram,ML,artificial intelligence(24) | ML(19),28,1,
+implementing flexi,1,2-gram,ML,artificial intelligence(23) | ML(19),27,1,he institutes at the state and regional levels. DGT is also implementing Flexi MoU Scheme and Dual System of Training (DST) which are mean
+sscs led,1,2-gram,ML,artificial intelligence(24) | ML(19),28,1,
+ahmedabad and mumbai,1,3-gram,ML,ML(19),24,1,doubled. Work on the High-Speed Rail Ecosystem between Ahmedabad and Mumbai is also progressing at a rapid pace. My Government has
+overarching regulator,1,2-gram,ML,artificial intelligence(22) | ML(18),26,1,tional Education and Training (NCVET) has been set up as an overarching regulator establishing regulations and standards to ensure quality in
+regulator establishing regulations,1,3-gram,ML,artificial intelligence(22) | ML(18),26,1,tion and Training (NCVET) has been set up as an overarching regulator establishing regulations and standards to ensure quality in the Technical and Vocati
+regulator establishing,1,2-gram,ML,ML(18),26,1,tion and Training (NCVET) has been set up as an overarching regulator establishing regulations and standards to ensure quality in the Technica
+overarching regulator establishing,1,3-gram,ML,ML(18),26,1,tional Education and Training (NCVET) has been set up as an overarching regulator establishing regulations and standards to ensure quality in the Technica
+industry validations,1,2-gram,ML,ML(18),26,1,"nal Standards (NOS) / Micro-credentials after the mandatory industry validations. Also, appropriate provisions under National Credit Fra"
+tvet space,1,2-gram,ML,ML(18),25,1,
+training tvet space,1,3-gram,ML,ML(18),25,1,
+dgt has introduced,1,3-gram,Smart City,artificial intelligence(24) | ML(18) | Smart City(7),26,1,eco-system. Directorate General of Training (DGT): DGT has introduced new age /future skills courses under Craftsmen Training Sch
+map them,1,2-gram,ML,ML(17),24,1,or the community to bring their title documents forward and map them accurately into the digital age. You don't need any technic
+integrate voluminous data,1,3-gram,ML,ML(14),19,1,"puting facilities have also been substantially increased to integrate voluminous data and to run meso-scale, regional, and global models at highe"
+voluminous data,1,2-gram,ML,ML(14),19,1,"ilities have also been substantially increased to integrate voluminous data and to run meso-scale, regional, and global models at highe"
+integrate voluminous,1,2-gram,ML,ML(14),19,1,"puting facilities have also been substantially increased to integrate voluminous data and to run meso-scale, regional, and global models at"
+training dst which,1,3-gram,ML,ML(14),17,1,
+skills courses,1,2-gram,ML,ML(27),34,2,until mid-2024 to deliver a project on Developing Critical Skills Courses in India. 11 institutional MoUs were signed at the event
+potential of artificial,1,3-gram,artificial intelligence,artificial intelligence(27),28,1,lectron flow regulation are crucial for harnessing the full potential of artificial enzymes in bio-inspired applications. With these advancemen
+intelligence data,1,2-gram,analytics,artificial intelligence(24) | analytics(15),26,1,
+secure connectivity,1,2-gram,intelligent,intelligent(10),15,1,holders. The DIP is accessible to the stakeholders over secure connectivity and the relevant information is shared based on their respe
+digital twins,1,2-gram,intelligent,intelligent(16) | predictive(10),43,2,"aphic Surveys, Next Generation navigation for waterways and Digital Twins. NTCPWC has been set up at a cost of Rs. 77 Cr. with fi"
+standardisation activities,1,2-gram,intelligent,intelligent(8) | predictive(4),11,1,ons for Telecom/ICT sector. TEC is actively involved in the standardisation activities on Quantum Technology at domestic as well as international
+privacy preserving,1,2-gram,algorithm,IndiaAI(9) | machine learning(8) | compute(8) | intelligent(7) | algorithm(5) | data science(5) | FutureSkills(5),23,1,
+vehicle location,1,2-gram,intelligent,intelligent(7),11,1,"s with depots, as well as allocation of stack space in FCI, Vehicle Location Tracking System (VLTS) innovative with integration with Rai"
+computer vision,1,2-gram,large language model,analytics(13) | machine learning(8) | intelligent(7) | predictive(5) | data science(4) | large language model(3) | language model(3),25,1,e free copra using solar dryers and validate the same using computer vision based auxiliary system. 1) Coconut oil product develo
+courts project phase,1,3-gram,intelligent,intelligent(7),12,1,"ICT hardware for the computerisation of courts under the e-Courts Project Phase III. As on 30.06.2026, a total of 42.96 lakh legacy case re"
+enhancing technologies,1,2-gram,intelligent,intelligent(7),11,1,rity and Privacy: Adopt an approach that embeds key privacy enhancing technologies and security features within the core design to ensure indi
+learning based,1,2-gram,deep learning,machine learning(19) | intelligent(6) | deep learning(6) | predictive(5),22,1,
+studies and technical,1,3-gram,predictive,intelligent(6) | predictive(4),10,1,"cially the benefit of maize farmers. Through the scientific studies and technical reports available on Ethanol, the negative narrative will b"
+test frameworks,1,2-gram,predictive,intelligent(6) | predictive(4),9,1,Groups and TEC’s National Working Groups. India-Specific Test Frameworks: Development of standards and interoperability solutions ta
+global standardization activities,1,3-gram,predictive,intelligent(6) | predictive(4),11,1,"TU-T and ITU-R, and coordinates National Working Groups for global standardization activities. Follow DoT's social media handles for more: -"
+itu itu,1,2-gram,predictive,intelligent(6) | predictive(4),1,1,
+joint studies,1,2-gram,intelligent,intelligent(6),10,1,Roorkee’s online courses. Collaborative Research: Promote joint studies and projects on critical issues related to India’s electric
+privacy enhancing,1,2-gram,algorithm,IndiaAI(9) | compute(7) | intelligent(6) | algorithm(6) | FutureSkills(3),18,1,v. Security and Privacy: Adopt an approach that embeds key privacy enhancing technologies and security features within the core design t
+optical communication,1,2-gram,intelligent,intelligent(6),11,1,"like Financial Fraud Prevention, Quantum Communication, 6G, Optical Communication, Semiconductors, and more, gives me the confidence that Ind"
+surveillance cameras,1,2-gram,intelligent,intelligent(6),15,1,"such as Air conditioning, Saloon Lighting etc. CCTV surveillance cameras in all coaches. Talking about medium distance Vand"
+innovation network,1,2-gram,intelligent,intelligent(6),18,1,"hermo Fisher’s global expertise with Startup India’s strong innovation network, we aim to create new opportunities for early-stage biotech"
+privacy enhancing technologies,1,3-gram,intelligent,intelligent(6),9,1,v. Security and Privacy: Adopt an approach that embeds key privacy enhancing technologies and security features within the core design to ensure indi
+ocr,1,1-gram,intelligent,intelligent(10),35,2,an narrated recording 3. Large Print/Audio Books 4. OCR- Structure E-Pub without proofreading 5. Tactile Diagra
+incident detection,1,2-gram,ANPR,ANPR(6) | intelligent(5),9,1,"e that components such as Traffic Monitoring Cameras, Video Incident Detection Systems, Variable Speed Detection Systems, Variable Message"
+telecom centre,1,2-gram,intelligent,intelligent(5),2,1,a Memorandum of Understanding (MoU) was signed between the Telecom Centre of Excellence (TCOE) India and Visvesvaraya Technological U
+groups for global,1,3-gram,predictive,intelligent(5) | predictive(4),9,1,"ch as the ITU-T and ITU-R, and coordinates National Working Groups for global standardization activities. Follow DoT's social"
+practices tec represents,1,3-gram,predictive,intelligent(5) | predictive(4),9,1,
+contributions in telecom,1,3-gram,predictive,intelligent(5) | predictive(4),9,1,nce Awards- 2025 to two organizations for their outstanding contributions in Telecom Technology . The awardees are as follows: Amantya Tec
+best practices tec,1,3-gram,predictive,intelligent(5) | predictive(4),9,1,
+strengthening indigenous research,1,3-gram,predictive,intelligent(5) | predictive(4),9,1,"above. This partnership aligns with the national vision of strengthening indigenous research and innovation under the ""Atmanirbhar Bharat"" initiative an"
+global standardisation processes,1,3-gram,predictive,intelligent(5) | predictive(4),8,1,"mportance of India’s active and meaningful participation in global standardisation processes and the need to ensure that Indian innovations, technologie"
+IOT Hardware,1,near-AI name,analytics,smart(3) | analytics(3),4,1,s (IoT) Developer Electronics and Hardware IoT Hardware Analyst Electronics and Hardware IT Coordi
+cities mission,1,2-gram,Smart City,smart(65) | Smart City(14),67,1,
+greenfield industrial,1,2-gram,Smart City,smart(25) | Smart City(10),30,2,ed Russian businesses to set up manufacturing facilities in greenfield industrial cities under Industrial Corridor program of Government of I
+labs digital,1,2-gram,Smart City,smart(20) | Smart City(6),22,1,
+bio based chemicals,1,3-gram,smart,smart(19),22,1,
+based chemicals,1,2-gram,smart,smart(19),22,1,"renewable feedstocks, development of biodegradable and bio-based chemicals for various applications, etc. Government of India has"
+metering works,1,2-gram,smart,smart(32),34,2,He also suggested for prioritizing implementation of System metering works for effective monitoring and accurate accounting of electri
+change and extreme,1,3-gram,smart,smart(16),20,1,ion. The programmes and studies related to climate change and extreme weather have been conducted by IMD and other institutions u
+skilling with focus,1,3-gram,smart,smart(16),16,1,
+ludhiana including setting,1,3-gram,smart,smart(16),17,1,
+located in bhubaneswar,1,3-gram,smart,smart(16),17,1,"entation of five National Skill Training Institute(s) NSTIs located in Bhubaneswar, Chennai, Hyderabad, Kanpur and Ludhiana, including setting"
+setting up sector,1,3-gram,smart,smart(15),16,1,
+trainers with global,1,3-gram,smart,smart(15),16,1,"Excellence for skilling, with focus on advanced training of trainers with global partnership. As per the Cabinet approval the scheme has"
+industrial robotics,1,2-gram,Smart City,smart(13) | Smart City(11) | data science(4),22,1,"dvanced/Special Purpose Machines, Testing & Metrology; (ii) Industrial Robotics & Automation; and (iii) Advanced Additive Manufacturing (3D"
+choudhary in written,1,3-gram,smart,smart(13),1,1,
+emerging skill needs,1,3-gram,Smart City,smart(13) | Smart City(8),14,1,"ents in consultation with industry, ensuring alignment with emerging skill needs and local industrial potential. The Hub-and-Spoke ITI clust"
+into single,1,2-gram,automated,smart(25) | automated(19),5,2,"DoT’s NTIPRIT, NICF and WMTDC merged into single entity named ‘National Communications Academy’; will be hea"
+there was time,1,3-gram,machine learning,smart(24) | machine learning(24),4,2,"fails, it is not failure. It is a step toward success. There was time in ancient India when a village was self-sufficient. वहां ख"
+programmer,1,1-gram,Smart City,smart(12) | Smart City(11),15,1,"hnav, Mission Director, AIM-NITI Aayog, Sh. Surender Mehra, Programmer Director (S&T), NITI Aayog and other distinguished members"
+semiconductor technician,1,2-gram,Smart City,smart(12) | Smart City(11),15,1,10th Two Years 4 2023 3 Semiconductor Technician 12th One Year 4.5 2024
+solar technician,1,2-gram,Smart City,smart(12) | Smart City(11),15,1,th Solar PV technician course. She has now become a skilled solar technician. Payal is making a name for herself as a solar entrepreneur
+mausam seva,1,2-gram,smart,smart(12),14,1,"e enhancement of farming community, under the Gramin Krishi Mausam Seva (GKMS). Mapping of Kharif rice fallows helped crop intensif"
+weather surveillance,1,2-gram,smart,smart(12),16,1,"d monitoring of helipad operations, helicopter tracking and weather surveillance. Weather monitoring capabilities have also been signifi"
+component ii capacity,1,3-gram,smart,smart(12),13,1,
+inr crores,1,2-gram,smart,smart(11),1,1,ated No of Startups Funded Funds Disbursed In INR Crores 1 Andhra Pradesh 7 1 5
+served as platform,1,3-gram,analytics,analytics(14) | smart(11),1,1,rable improvements in animal production. The event served as platform to honour the achievements of famers involved in livestock
+futuristic marine,1,2-gram,smart,smart(11),12,1,INE AND SPACE BIOTECHNOLOGY The Government has identified futuristic marine and space biotechnology as priority sectors under the BioE3
+industrial corridor dmic,1,3-gram,Smart City,smart(11) | Smart City(6),12,1,
+corridor dmic,1,2-gram,Smart City,smart(11) | Smart City(6),12,1,
+provides platform,1,2-gram,pest surveillance,smart(11) | big data(4) | pest surveillance(3),2,1,
+technician cum app,1,3-gram,Smart City,smart(11) | Smart City(11),12,1,24-25 Developed in year 1 Smartphone Technician Cum App Tester 10th Six Months 3 2018
+loan appraisal,1,2-gram,automated,automated(11),12,1,"rmance and growth. Digital tools support business planning, loan appraisal, and enterprise tracking. This integrated mechanism ensures"
+msme borrowers,1,2-gram,automated,automated(10),11,1,"or such additional credit facility extended to the eligible MSME borrowers. For the scheduled passenger airlines, the guarantee covera"
+adaptive learning,1,2-gram,GPT,automated(8) | IndiaAI(8) | compute(8) | GPT(3) | deep learning(3) | language translation(3),16,1,"cate skills such as design mindset, computational thinking, adaptive learning, physical computing etc. ***** DK/DK/SMP"
+persons in addition,1,3-gram,automated,automated(8),10,1,
+bihar chhattisgarh goa,1,3-gram,automated,automated(8),4,1,
+car assessment,1,2-gram,automated,automated(8),9,1,ring the event included: Adoption of Bharat NCAP (New Car Assessment Program) for enhanced vehicle safety. Enforcement of the
+least four wheels,1,3-gram,automated,automated(8),9,1,"cific Requirements for M Category, (a motor vehicle with at least four wheels used for carrying passenger) N Category (a motor vehicl"
+institutes of driving,1,3-gram,automated,automated(8),9,1,"ghways implements a central sector scheme for setting up of Institutes of Driving Training and Research (IDTR), Regional Driving Training Cen"
+wheels used,1,2-gram,automated,automated(8),9,1,"rements for M Category, (a motor vehicle with at least four wheels used for carrying passenger) N Category (a motor vehicle wit"
+improved visibility,1,2-gram,automated,automated(8),10,1,"rs and stakeholders across the edible oil value chain. With improved visibility on domestic production, imports, and stock levels, the Gove"
+carrying goods,1,2-gram,automated,automated(8),10,1,ategory (a motor vehicle with at least four wheels used for carrying goods) Electric Power Train Vehicles] to prescribe Technical Requ
+car assessment program,1,3-gram,automated,automated(8),9,1,ring the event included: Adoption of Bharat NCAP (New Car Assessment Program) for enhanced vehicle safety. Enforcement of the Bus Body
+detect malicious,1,2-gram,automated,automated(8),10,1,"and Malware Analysis Centre, provided by CERT-In, helps to detect malicious programs and provides free tools to remove them. ○ It a"
+contract services,1,2-gram,automated,automated(8),2,1,by avoiding any cascading of tax. Whether the works contract services relating to oil and gas exploration and production (E&P) in
+fastag based,1,2-gram,ANPR,ANPR(9) | automated(7),11,1,
+retinopathy,1,1-gram,deep learning,automated(7) | deep learning(3),21,2,"broncho-pulmonary dysplasia, necrotizing enterocolitis and retinopathy. The Government of India has established Comprehensive"
+organisations across sectors,1,3-gram,automated,automated(7),10,1,
+electronic monitoring,1,2-gram,ANPR,automated(7) | ANPR(7),14,1,"019, Government had also published rules in August 2021 for Electronic Monitoring and Enforcement of Road Safety at high-risk and high-densit"
+highways state highways,1,3-gram,ANPR,automated(7) | ANPR(5),11,1,
+electronic enforcement,1,2-gram,ANPR,automated(7) | ANPR(4),12,1,in Four lane and above NHs. ATMS has provisions for various electronic enforcement devices which help in speedy identification of incidents (i
+critical junctions,1,2-gram,ANPR,automated(7) | ANPR(4),11,1,"nsity corridors on National Highways, State Highways and at critical junctions in cities having a population of more than one million and"
+enforcement of road,1,3-gram,ANPR,automated(7) | ANPR(4),12,1,ublished rules in August 2021 for Electronic Monitoring and Enforcement of Road Safety at high-risk and high-density corridors on National
+cyber terrorism,1,2-gram,big data,automated(7) | big data(5),16,1,"computer system, identity theft, cheating by impersonation, cyber terrorism, securing unauthorised access to protected system etc."
+centres dtcs,1,2-gram,automated,automated(7),8,1,
+driving training centres,1,3-gram,automated,automated(7),8,1,Progress Of Regional Driving Training Centres (RDTCs) The Government in Ministry of Road Transport & Hi
+dtcs,1,1-gram,automated,automated(7),8,1,ving Training Centres (RDTCs) and Driving Training Centres (DTCs) in States/UTs. The aim of the scheme is to improve road sa
+rdtcs and driving,1,3-gram,automated,automated(7),8,1,
+fire tenders ambulances,1,3-gram,automated,automated(7),7,1,
+centres rdtcs,1,2-gram,automated,automated(7),8,1,
+explainable,1,1-gram,algorithm,IndiaAI(12) | machine learning(8) | algorithm(7) | compute(7) | FutureSkills(5),22,1,out it. We have to ask questions to ourselves. Is the delay explainable? Condonable! Does it not raise certain fundamental question
+testing framework,1,2-gram,algorithm,algorithm(5),6,1,"of the Government of India to build a modern and efficient testing framework that supports economic growth, compliance, and ease of doin"
+business division,1,2-gram,IndiaAI,IndiaAI(24) | compute(8) | FutureSkills(5) | algorithm(3),28,1,"GD : The National e-Governance Division, an independent business division under Digital India Corporation and MeitY, is responsible f"
+independent business division,1,3-gram,IndiaAI,IndiaAI(24) | compute(8) | FutureSkills(5) | algorithm(3),27,1,"About NeGD : The National e-Governance Division, an independent business division under Digital India Corporation and MeitY, is responsible f"
+technology pvt ltd,1,3-gram,algorithm,algorithm(3),5,2,"ion in enclosed/indoor environment by NewSpace Research and Technology Pvt Ltd. to CAIR, DRDO. Simulator for Unmanned Ground, Marine (Se"
+development of responsible,1,3-gram,algorithm,algorithm(3),5,1,"ith Mahatma Gandhi's vision of ‘Gram Swaraj’, fostering the development of responsible and responsive leadership at the grassroots level. This emp"
+technology pvt,1,2-gram,algorithm,algorithm(3),5,2,"ion in enclosed/indoor environment by NewSpace Research and Technology Pvt Ltd. to CAIR, DRDO. Simulator for Unmanned Ground, Marine"
+security privacy,1,2-gram,algorithm,algorithm(3),5,1,
+pvt ltd enabling,1,3-gram,algorithm,algorithm(3),4,1,
+data for mitigating,1,3-gram,algorithm,algorithm(3),4,1,er confirmations. Other banks are also actively using the data for mitigating cyber frauds. With UPI being the most preferred payme
+ltd enabling,1,2-gram,algorithm,algorithm(3),4,1,
+technology raipur,1,2-gram,algorithm,algorithm(3),6,1,
+framework for mitigating,1,3-gram,algorithm,algorithm(3),5,1,"elhi-NCR. These proactive measures provide a structured framework for mitigating air pollution arising from the National Highway operations,"
+framework defence,1,2-gram,algorithm,algorithm(3),4,1,
+algorithmic,1,1-gram,algorithm,algorithm(8),33,3,"werment of end-users, last-mile access, and avoid erroneous algorithmic bias. ii. Interoperability: Enable interoperability by"
+unlearning,1,1-gram,algorithm,algorithm(7),21,4,". He underlined that it is important to work proactively on unlearning, reskilling and upskilling in the spirit of constant learni"
+mitigation strategy,1,2-gram,algorithm,algorithm(5),9,3,"PARLIAMENT QUESTION; THE HEAT MITIGATION STRATEGY Several parts of the country, including States like Tamil"
+engineering center,1,2-gram,algorithm,algorithm(3),7,2,"e country to have received Technology Approval from Telecom Engineering Center (TEC), a body under the Department of Telecommunications, G"
+goi meity,1,2-gram,algorithm,algorithm(3),14,2,
+center tec,1,2-gram,algorithm,algorithm(3),5,2,
+engineering center tec,1,3-gram,algorithm,algorithm(3),5,2,
+learning models,1,2-gram,deep learning,machine learning(22) | deep learning(8) | algorithm(3),33,5,ms to emphasise the importance of engaging in collaborative learning models and expand the partnership and networks through engagement
+watermarking,1,1-gram,algorithm,algorithm(3),11,2,"seeks to foster innovative solutions in fingerprinting and watermarking technologies, encouraging participation from individuals, r"
+detection tools,1,2-gram,algorithm,algorithm(3),13,3,ome of these sensors can be deployed as gas and heavy metal detection tools to monitor the environmental quality. Publications:
+computing infrastructure,1,2-gram,FutureSkills,IndiaAI(16) | compute(13) | FutureSkills(8) | algorithm(3),35,2,uations indicate that developing a proof of concept on edge computing infrastructure in space is feasible and such a system is being conceived.
+certification framework,1,2-gram,ChatGPT,algorithm(5) | ChatGPT(3),16,4,Introduction of a structured multi-stage assessment and certification framework for under-construction properties. Provision for Optional
+learning disabilities,1,2-gram,ChatGPT,algorithm(4) | ChatGPT(3),15,4,"s and knowledge necessary to support students with specific learning disabilities. Secretary, Higher Education, Ministry for Education Sh"
+diat pune,1,2-gram,algorithm,algorithm(3),9,3,
+diat,1,1-gram,algorithm,algorithm(3),11,3,"-New Delhi, DoT-New Delhi, MeitY-New Delhi, TEC- New Delhi, DIAT-Pune, MCTE-Mhow, C-DOT-New Delhi along with teams from CSIR"
+application development,1,2-gram,FutureSkills,IndiaAI(30) | compute(22) | FutureSkills(17) | algorithm(3),48,5,"ng, satellite manufacturing, ground segment operations, and application development, the sector is rapidly growing. Many of these startups have"
+ibd,1,1-gram,algorithm,algorithm(3),23,4,"ndrome, diabetes, CVD, stroke, Asthma, COPD, Migraine, IBS, IBD, Arthritis, Autoimmune diseases, cancer, neurodegenerative"
+vidyapeetham,1,1-gram,algorithm,algorithm(5),23,7,"s. Twelve PhD Students, from Anna University, Amrita Vishwa Vidyapeetham, Thapar University, NIT Surathkal, IIT Gandhinagar, IIT Hyd"
+gpus,1,1-gram,FutureSkills,compute(41) | IndiaAI(39) | FutureSkills(16) | ChatGPT(4) | algorithm(3),64,5,"ce, holds very high-value due to its use in designing CPUs, GPUs, and sustainable products for the country. India toda"
+health care systems,1,3-gram,algorithm,algorithm(3),9,5,"“The preventive and promotive approach of our traditional health care systems has played a significant role in modern age today, proving"
+critical applications,1,2-gram,algorithm,algorithm(3),16,5,"cess to remote and underserved regions, while strengthening critical applications in defence and disaster response. Through the power of spac"
+healthier crops,1,2-gram,pest surveillance,chatbot(16) | machine learning(16) | pest surveillance(16) | analytics(12),17,1,"de from the sawdust enriches the soil, helping farmers grow healthier crops. And in the food industry, the sawdust can be moulded into"
+produce due,1,2-gram,pest surveillance,chatbot(15) | machine learning(15) | pest surveillance(15) | analytics(12),16,1,. They also face tremendous challenges in marketing their produce due to lack of economic strength. FPOs help in collectivizati
+issues enabling timely,1,3-gram,pest surveillance,chatbot(14) | machine learning(14) | pest surveillance(14),15,1,
+reduce crop losses,1,3-gram,pest surveillance,pest surveillance(14) | chatbot(13) | machine learning(12),15,2,"for a hub-and-spoke model of post-harvest infrastructure to reduce crop losses along the entire value chain, from the farm to the market."
+pest infestation,1,2-gram,pest surveillance,chatbot(13) | machine learning(13) | pest surveillance(13),15,1,uires 20% less water. Efforts have also been made to reduce pest infestation along with production. Shri Chouhan informed that Prime M
+developed to assist,1,3-gram,pest surveillance,machine learning(15) | chatbot(13) | pest surveillance(12),19,1,to 17 States and 3 Union Territories. The SOP has been developed to assist State Biodiversity Boards and Union Territory Biodiversity
+voice based,1,2-gram,pest surveillance,chatbot(24) | Bhashini(17) | pest surveillance(13) | language translation(7),44,3,
+capture images,1,2-gram,pest surveillance,chatbot(12) | machine learning(11) | pest surveillance(11),13,1,"S-R), and SiC UV Dosimeter. The EOIR payload is designed to capture images in the Mid-Wave IR (MIR) and Long-Wave IR (LWIR) bands, bot"
+tamil bengali,1,2-gram,chatbot,chatbot(8),9,1,
+enabling timely intervention,1,3-gram,pest surveillance,chatbot(15) | pest surveillance(15),18,2,"detection through regular health check-ups and screenings, enabling timely intervention through home visits, group meetings, and participation in h"
+multilingual interfaces,1,2-gram,chatbot,chatbot(7),15,1,"services through disabled-friendly ICT-enabled facilities, multilingual interfaces and user-centric service delivery. Continuous efforts h"
+ocms,1,1-gram,chatbot,analytics(12) | chatbot(7),19,1,"tries/Departments on the Online Computer Monitoring System (OCMS) Portal of MoSPl. Further, this Ministry also releases peri"
+whatsapp sms email,1,3-gram,chatbot,chatbot(7),5,1,
+diverse linguistic backgrounds,1,3-gram,language translation,chatbot(7) | Bhashini(7) | language translation(5),13,1,"as 15 languages to ensure accessibility for aspirants from diverse linguistic backgrounds. This multi-city, multi-shift and multilingual framework re"
+currently used,1,2-gram,pest surveillance,chatbot(12) | pest surveillance(12),18,2,"the combination of metal ions and organic molecules and are currently used for electrolysis of water. However, they have a limitation."
+based kyc,1,2-gram,chatbot,chatbot(6),3,1,eractions with fintechs ecosystem and also working on video-based KYC projects in their regulatory sandbox framework. Se
+grievance filing,1,2-gram,chatbot,chatbot(6),9,2,"cerned, Smt. Anamika filed a grievance on CPGRAMS. Post the grievance filing, Smt. Anamika's claims were reviewed and she was paid her m"
+received by nch,1,3-gram,chatbot,chatbot(6),8,1,"tly boosted its call-handling capacity. The number of calls received by NCH has grown more than tenfold from 12,553 in December 2015 to"
+satellite based crop,1,3-gram,pest surveillance,chatbot(6) | pest surveillance(6),9,1,
+crop health assessment,1,3-gram,pest surveillance,chatbot(6) | pest surveillance(6),7,1,"ations i.e Crop production forecasting, drought monitoring, Crop health assessment and in Crop insurance solutions and in future also Departme"
+npss,1,1-gram,pest surveillance,pest surveillance(14) | chatbot(6),15,5,"Information on crop Situation, Pest Surveillance through NPSS, Collect photos, uploading photo s INR 1000 per year"
+bharat vistaar,1,2-gram,pest surveillance,chatbot(6) | pest surveillance(4),19,1,"ate advice over the phone through numbers like 155261, like Bharat Vistaar – Kisan Sarathi, and digital platforms – for every problem"
+supports multiple,1,2-gram,pest surveillance,chatbot(5) | pest surveillance(5),10,2,"Mechanism (INGRAM) . This omni-channel IT-enabled platform supports multiple registration modes including WhatsApp, SMS, email, NCH app,"
+farmers can complete,1,3-gram,chatbot,chatbot(5),6,1,"inancial institutions are expected to set up stalls where farmers can complete applications, documentation and even receive on-the-spot ap"
+financial support directly,1,3-gram,chatbot,chatbot(5),6,1,ned. Ministry of Tribal Affairs per se does not provide financial support directly to tribal artists for the preservation and performance of t
+eligible farmer family,1,3-gram,chatbot,chatbot(5),9,2,"19, provides annual financial assistance of Rs. 6,000/- per eligible farmer family. So far, more than Rs. 3.46 lakh crores have been disbursed"
+confonet,1,1-gram,chatbot,chatbot(5),11,1,", transparency, accessibility and responsiveness. Under CONFONET scheme, VC equipment for conducting hearing through video c"
+languages english hindi,1,3-gram,chatbot,chatbot(5),7,1,
+benefit status,1,2-gram,chatbot,chatbot(5),6,1,Centre Grants Section 54EC Tax Benefit Status to IREDA Bonds Central Board of Direct Taxes (CBDT) under
+process more seamless,1,3-gram,chatbot,chatbot(5),6,1,"th full technical support from MeitY and UIDAI, to make the process more seamless and convenient for the elderly. The outreach is being a"
+nch has grown,1,3-gram,chatbot,chatbot(5),7,1,"nvenience and flexibility to consumers. Over the years, NCH has grown into a robust ecosystem collaborating with 1,142 convergenc"
+report drug,1,2-gram,chatbot,chatbot(5),6,1,"ens a seamless, confidential and multi-channel interface to report drug-related issues and access rehabilitation resources. Citizen"
+supports indian languages,1,3-gram,large language model,Bhashini(8) | language translation(6) | chatbot(5) | large language model(5) | language model(5) | pest surveillance(4),1,1,"vernment is not opposed to the English language, but firmly supports Indian languages. Remarking that the crime committed by Macaulay against"
+assessment and crop,1,3-gram,pest surveillance,chatbot(5) | pest surveillance(5),6,1,
+system frs,1,2-gram,Safe City,facial recognition(28) | face recognition(9) | Safe City(5),34,4,
+recognition system,1,2-gram,facial recognition,facial recognition(28) | face recognition(12),43,9,be given from Nirbhaya fund to install CCTV cameras & face recognition system in the stations across the country so as to stop crime agai
+distribution of take,1,3-gram,facial recognition,facial recognition(12),14,1,"ifestyles such as reducing obesity local and regional food, distribution of Take-Home Ration (THR). Focusing on women's health, including"
+facial,1,1-gram,facial recognition,facial recognition(72) | face recognition(8),95,9,Use of Facial Authentication Technology by the EPS pensioners for Digital
+mile tracking,1,2-gram,facial recognition,facial recognition(18),22,2,"art from strengthening digital infrastructure support, last mile tracking and Jan Sahabhagita. Mission Shakti has two sub-schemes -‘S"
+last mile tracking,1,3-gram,facial recognition,facial recognition(18),22,2,"s, apart from strengthening digital infrastructure support, last mile tracking and Jan Sahabhagita. Mission Shakti has two sub-schemes -‘S"
+using facial,1,2-gram,facial recognition,facial recognition(9),12,1,to the mother/parents of the children at Anganwadi Centers using Facial Recogntion System (FRS). A normal child is provided 200 Kca
+video surveillance system,1,3-gram,Safe City,facial recognition(8) | Safe City(4) | ANPR(3),15,1,"es of ethanol blended as of August 31, 2024. Modern Video Surveillance System: DFPD has taken initiative to install Modern Video Surveill"
+poshan mission,1,2-gram,facial recognition,facial recognition(8),1,1,"Mission to inspire the youth to give importance to fitness, Poshan Mission to provide children with nutritious meals, Mission Indradha"
+ration to ensure,1,3-gram,facial recognition,facial recognition(8),9,1,
+prevention of leakages,1,3-gram,facial recognition,facial recognition(7),8,1,"enges, and ongoing work in the areas of revenue assessment, prevention of leakages, pension service delivery, and strengthening of internal au"
+tracking platform,1,2-gram,Safe City,facial recognition(6) | Safe City(5),12,1,"ices (NLDSL), LDB 2.0 is a significantly enhanced logistics tracking platform that enables export container tracking on high seas along w"
+block coordinators,1,2-gram,facial recognition,facial recognition(6),8,1,"ts across NCT of Delhi. District program officers, Block coordinators, Supervisors, AWW attended live webcast of closing ceremony"
+eliminating ghost,1,2-gram,facial recognition,facial recognition(6),7,1,"underscores DBT’s role in optimising fiscal allocations. By eliminating ghost beneficiaries and middlemen, the system redirected funds to"
+tsrtc,1,1-gram,Safe City,facial recognition(5) | Safe City(4),9,1,"bus stations in Telangana State Road Transport Corporation (TSRTC), 2 bus stations in Tamil Nadu State Transport Corporation"
+umbrella scheme where,1,3-gram,facial recognition,facial recognition(5),7,1,States and UTs. This mission is a universal self-selecting umbrella scheme where there are no entry barriers for any beneficiary to register
+receive services,1,2-gram,facial recognition,facial recognition(5),7,1,e are no entry barriers for any beneficiary to register and receive services. This mission is being implemented across the country inclu
+chennai delhi hyderabad,1,3-gram,Safe City,Safe City(7) | facial recognition(5),8,1,
+hyderabad kolkata lucknow,1,3-gram,Safe City,Safe City(7) | facial recognition(5),8,1,
+integrated emergency response,1,3-gram,Safe City,facial recognition(5) | Safe City(5),6,1,"district level. He emphasized that improved infrastructure, integrated emergency response systems and trained human resources will play a crucial rol"
+emergency response management,1,3-gram,Safe City,facial recognition(5) | Safe City(5),6,1,aging technology in programmes like immunisation and health emergency response management . The Hon’ble Minister expressed his concern about growing
+integrated emergency,1,2-gram,Safe City,Safe City(6) | facial recognition(5),7,1,"district level. He emphasized that improved infrastructure, integrated emergency response systems and trained human resources will play a cr"
+ensure safe transportation,1,3-gram,Safe City,facial recognition(5) | Safe City(4),6,1,"uction and maintenance of shelters, the concessionaire will ensure safe transportation of stray cattle to these facilities, provide feed and enfor"
+registered beneficiary,1,2-gram,facial recognition,facial recognition(5),6,1,has no relevance. Because APBS is applicable only in case a registered beneficiary turns ups for wage employment. The Government of India has
+frs,1,1-gram,facial recognition,facial recognition(30) | face recognition(11),49,11,"ty Reports (PFRs) of all the 30 links, Feasibility Reports (FRs) of 24 links and Detailed Project Reports (DPRs) of 11 link"
+given only,1,2-gram,facial recognition,facial recognition(16),22,4,"love reading. And I myself have this rare disease and I was given only two years to live but with help of my mom, my sister, my Sc"
+district coordinators,1,2-gram,facial recognition,facial recognition(4),5,1,WWs to ensure uninterrupted service delivery. Block and District coordinators provide on-ground handholding support to AWWs and superviso
+poshan helpline,1,2-gram,facial recognition,facial recognition(4),8,2,t girls and young mothers and reposition platforms like the Poshan Helpline from being grievance centres to platforms for citizen engag
+officers block coordinators,1,3-gram,facial recognition,facial recognition(4),5,1,
+officers block,1,2-gram,facial recognition,facial recognition(4),5,1,
+specific projects like,1,3-gram,Safe City,facial recognition(4) | Safe City(4),5,1,". The Government of Andhra Pradesh has reported that no specific projects like (i) Genetic Improvement Programmes, (ii) Nucleus Breeding C"
+corporation upsrtc,1,2-gram,Safe City,facial recognition(4) | Safe City(4),5,1,
+transport corporation tsrtc,1,3-gram,Safe City,facial recognition(4) | Safe City(4),5,1,
+like vehicle tracking,1,3-gram,Safe City,facial recognition(4) | Safe City(4),5,1,"o the country. It will be utilized for ongoing applications like vehicle tracking, real-time train tracking, fishing vessel communication and"
+projects like integrated,1,3-gram,Safe City,facial recognition(4) | Safe City(4),5,1,of-the-art boxing academy in the name of Jaslal Pradhan Ji. Projects like Integrated Sports and Cultural Village are also moving forward. This w
+upsrtc,1,1-gram,Safe City,facial recognition(4) | Safe City(4),6,1,"stations in Uttar Pradesh State Road Transport Corporation (UPSRTC). The States/ UTs including Delhi, Goa, Chandigarh and Megh"
+transportation for women,1,3-gram,Safe City,facial recognition(4) | Safe City(4),5,1,"rs ensure their safety. It also requires employers to offer transportation for women working at night, reinforcing protection for female employe"
+corporation tsrtc,1,2-gram,Safe City,facial recognition(4) | Safe City(4),5,1,
+telangana state road,1,3-gram,Safe City,facial recognition(4) | Safe City(4),6,1,"to which Feeding Rooms are available in 26 bus stations in Telangana State Road Transport Corporation (TSRTC), 2 bus stations in Tamil Nadu"
+safety of public,1,3-gram,Safe City,facial recognition(4) | Safe City(4),5,1,"ectric Supply Measures: Provides guidelines to ensure the safety of public, workers, and equipment during the generation, transmission"
+vides,1,1-gram,ANPR,ANPR(6),7,1,"ing up shelters. Furthermore, states and UTs were requested vides a letter dated 27.03.2023 to allocate land and facilities f"
+video incident,1,2-gram,ANPR,ANPR(6),7,1,"ensure that components such as Traffic Monitoring Cameras, Video Incident Detection Systems, Variable Speed Detection Systems, Variab"
+video incident detection,1,3-gram,ANPR,ANPR(6),7,1,"ensure that components such as Traffic Monitoring Cameras, Video Incident Detection Systems, Variable Speed Detection Systems, Variable Message"
+less tolling,1,2-gram,ANPR,ANPR(10),12,2,"ulti-Lane Free Flow (MLFF) system, that will enable barrier less tolling on the National Highway network. The amendments have be"
+barrier less tolling,1,3-gram,ANPR,ANPR(10),12,2,"of the Multi-Lane Free Flow (MLFF) system, that will enable barrier less tolling on the National Highway network. The amendments have be"
+wim,1,1-gram,ANPR,ANPR(5),6,1,nt movement of goods across National Highways seamless with WIM. ***** GDH / DS
+efficiency in toll,1,3-gram,ANPR,ANPR(5),8,1,by highway users is encouraging and has helped in increased efficiency in toll operations. Impact Assessment conducted for the Nation
+electronic notice,1,2-gram,ANPR,ANPR(5),6,1,"r fee, notified under Rule 14, includes a technology-driven Electronic Notice (e-notice) system, wherein electronic notices will be issue"
+enhance fuel,1,2-gram,ANPR,ANPR(5),6,1,"c coking coal production, improve coal washing practices to enhance fuel quality, and promote the adoption of advanced coke-making a"
+accounts in case,1,3-gram,ANPR,ANPR(5),6,1,"r children. However, there is an exception allowed for more accounts in case of twins or triplets. The account can be transferred to any"
+flow tolling system,1,3-gram,ANPR,ANPR(5),6,1,arious aspects related to smooth implementation of the free-flow tolling system based on GNSS technology in India. Union Minister for
+border entry points,1,3-gram,ANPR,ANPR(4),5,1,all enforcement agencies to ensure effective monitoring at border entry points . The CAQM also review ed Direction No. 89 dated 23.04.
+border entry,1,2-gram,ANPR,ANPR(4),5,1,all enforcement agencies to ensure effective monitoring at border entry points . The CAQM also review ed Direction No. 89 dated
+chorayasi,1,1-gram,ANPR,ANPR(4),5,1,nda NH-44 in Haryana Awarded 2 Chorayasi NH-48 in Gujarat Awarded 3 Dau
+ensuring seamless traffic,1,3-gram,ANPR,ANPR(4),5,1,"vice roads and RUBS, promises to alleviate city congestion, ensuring seamless traffic flow. मैसूरू, कर्नाटक में ₹4,000 करोड़ की लागत वाली 22"
+intervention enabling,1,2-gram,ANPR,ANPR(4),5,1,gn. It remains a reference case of coordinated Centre–State intervention enabling commissioning in challenging terrain with sustained operati
+toll locations,1,2-gram,ANPR,ANPR(4),5,1,"along with ORS and glucose, has been made mandatory at all toll locations. To ensure compliance, NHAI field officials will conduct we"
+mlff framework,1,2-gram,ANPR,ANPR(4),5,1,"ives such as Multi-Lane Free Flow (MLFF) tolling. Under the MLFF framework, enforcement actions including issuance of electronic notic"
+seamless traffic flow,1,3-gram,ANPR,ANPR(4),5,1,"s and RUBS, promises to alleviate city congestion, ensuring seamless traffic flow. मैसूरू, कर्नाटक में ₹4,000 करोड़ की लागत वाली 22 राष्ट"
+physical toll,1,2-gram,ANPR,ANPR(4),6,1,"h challenges of weather, mechanical issues of the yatch and physical toll. The Mumbai-Sychelles-Mumbai expedition not only symbol"
+mlff,1,1-gram,ANPR,ANPR(11),17,3,"tives like the Annual Pass System and Multi-Lane Free Flow (MLFF) tolling, it is critical to address this issue to ensure FA"
+based tolling,1,2-gram,ANPR,ANPR(7),9,2,lling leading to hassle-free riding experience and distance-based tolling where users will pay only for the stretch they have travell
+free flow mlff,1,3-gram,ANPR,ANPR(10),16,3,
+flow mlff,1,2-gram,ANPR,ANPR(10),16,3,
+based video,1,2-gram,ANPR,ANPR(6),19,2,"ties for water quality testing laboratories. The mobile-based video conferencing format, enabled participants to connect direct"
+highways thereby improving,1,3-gram,ANPR,ANPR(3),4,1,
+improving the response,1,3-gram,ANPR,ANPR(3),4,1,"ce of this survey and to improve their cooperation, thereby improving the response rate. In order to ensure data quality, multilayer validatio"
+devices which help,1,3-gram,ANPR,ANPR(3),4,1,NHs. ATMS has provisions for various electronic enforcement devices which help in speedy identification of incidents (including traffic vi
+identification of incidents,1,3-gram,ANPR,ANPR(3),6,1,various electronic enforcement devices which help in speedy identification of incidents (including traffic violations) on the highway stretches and
+standalone projects,1,2-gram,ANPR,ANPR(3),6,1,"rt of scope of development / maintenance works on NHs or as standalone projects in certain cases. Out of total 13,795 black spots identifie"
+speedy identification,1,2-gram,ANPR,ANPR(3),4,1,ns for various electronic enforcement devices which help in speedy identification of incidents (including traffic violations) on the highway
+enforcement devices which,1,3-gram,ANPR,ANPR(3),4,1,e and above NHs. ATMS has provisions for various electronic enforcement devices which help in speedy identification of incidents (including traff
+using voice,1,2-gram,language translation,predictive(5) | Bhashini(5) | language translation(4),9,2,ard and take effective measures to curb bulk communications using voice calls. ***** AD/DK
+itu international,1,2-gram,predictive,predictive(5),6,1,
+itu international telecommunication,1,3-gram,predictive,predictive(5),6,1,
+image analysis,1,2-gram,GPT,predictive(5) | GPT(3),7,1,"126. IC-74334K LT COL RICHA DATT, DY DIR (IMAGE ANALYSIS SECTION), DIPAC, DSA ARMY 127. 41236"
+equitable and affordable,1,3-gram,predictive,predictive(5),6,1,sparency and competition in the DLC market and facilitating equitable and affordable access to DLCs across regions and categories of users. This
+tools support,1,2-gram,predictive,predictive(5),8,1,"egularly monitor enterprise performance and growth. Digital tools support business planning, loan appraisal, and enterprise tracking."
+governance and improve,1,3-gram,predictive,predictive(5),8,1,"ation measures. Data and Statistics To enhance data governance and improve the processes of data collection, processing, and managemen"
+studies research,1,2-gram,predictive,predictive(4),9,1,
+tec represents,1,2-gram,predictive,predictive(4),9,1,"ability, quality, and alignment with global best practices. TEC represents India in international fora such as the ITU-T and ITU-R, an"
+collaboration on joint,1,3-gram,predictive,predictive(4),10,1,nternational events related to traditional medicine. Collaboration on joint training programs for industries or entities involved in th
+tec signs mou,1,3-gram,predictive,predictive(4),8,1,TEC Signs MoU with IIIT Naya Raipur to Advance Next-Generation Telecom Te
+conformity assessment requirements,1,3-gram,predictive,predictive(4),9,1,"ia. TEC formulates technical standards, specifications, and conformity assessment requirements for telecom equipment and networks in India, ensuring inter"
+solutions that bolster,1,3-gram,predictive,predictive(4),8,1,"dia can unlock the potential for sustainable worker housing solutions that bolster the manufacturing ecosystem, enhance workforce productivity"
+standardization sector,1,2-gram,predictive,predictive(4),11,1,"orks, following the E.164 series of ITU’s Telecommunication Standardization Sector (ITU-T) Recommendations. In 2003, the DoT conducted a compr"
+assessment requirements,1,2-gram,predictive,predictive(4),9,1,"mulates technical standards, specifications, and conformity assessment requirements for telecom equipment and networks in India, ensuring inter"
+specifications and conformity,1,3-gram,predictive,predictive(4),9,1,
+practices tec,1,2-gram,predictive,predictive(4),9,1,
+coordinates national working,1,3-gram,predictive,predictive(4),9,1,"ndia in international fora such as the ITU-T and ITU-R, and coordinates National Working Groups for global standardization activities. F"
+telecommunication standardization sector,1,3-gram,predictive,predictive(4),9,1,"ed and mobile networks, following the E.164 series of ITU’s Telecommunication Standardization Sector (ITU-T) Recommendations. In 2003, the DoT conducted a compr"
+tec signs,1,2-gram,predictive,predictive(4),8,1,TEC Signs MoU with IIIT Naya Raipur to Advance Next-Generation Teleco
+standards and test,1,3-gram,predictive,predictive(4),7,1,"y leveraging domestic expertise and creating India-specific standards and test frameworks, the partnership will strengthen the nation’s se"
+mitigation centre cfmc,1,3-gram,analytics,analytics(19),20,1,
+give visibility,1,2-gram,analytics,analytics(19),21,1,mes will not only promote sports at the grassroots but also give visibility to disciplines and communities that have historically been
+centre cfmc,1,2-gram,analytics,analytics(19),20,1,
+cfmc,1,1-gram,analytics,analytics(19),20,1,"aints. A State of the Art, Cyber Fraud Mitigation Centre (CFMC) has been established at I4C where representatives of major"
+cybercrime complaints,1,2-gram,analytics,analytics(18),23,1,and transferring them to jurisdictional police stations in Cybercrime complaints of a specified nature reported on NCRP. This initiative
+crimes and criminals,1,3-gram,analytics,analytics(18),20,1,"cing, effective law and order, and effective action against crimes and criminals are necessary. He said that the role of BPR&D in police mod"
+platform data,1,2-gram,analytics,analytics(18),21,1,
+financial intermediaries,1,2-gram,analytics,analytics(18),21,1,"en established at I4C where representatives of major banks, Financial Intermediaries, Payment Aggregators, Telecom Service Providers, IT Interme"
+action and seamless,1,3-gram,analytics,analytics(17),18,1,"s Law Enforcement Agency are working together for immediate action and seamless cooperation to tackle cybercrime. So far, more than 9.42"
+uts law enforcement,1,3-gram,analytics,analytics(17),18,1,"Providers, IT Intermediaries and representatives of States/UTs Law Enforcement Agency are working together for immediate action and seamle"
+banks financial intermediaries,1,3-gram,analytics,analytics(17),18,1,
+intermediaries payment aggregators,1,3-gram,analytics,analytics(17),18,1,
+payment aggregators telecom,1,3-gram,analytics,analytics(17),18,1,
+together for immediate,1,3-gram,analytics,analytics(17),18,1,sentatives of States/UTs Law Enforcement Agency are working together for immediate action and seamless cooperation to tackle cybercrime. So
+aggregators telecom service,1,3-gram,analytics,analytics(17),18,1,
+financial intermediaries payment,1,3-gram,analytics,analytics(17),18,1,
+uts law,1,2-gram,analytics,analytics(17),18,1,"Providers, IT Intermediaries and representatives of States/UTs Law Enforcement Agency are working together for immediate actio"
+intermediaries payment,1,2-gram,analytics,analytics(17),18,1,
+aggregators telecom,1,2-gram,analytics,analytics(17),18,1,
+assessment infrastructure monitoring,1,3-gram,analytics,analytics(17),18,1,
+providers it intermediaries,1,3-gram,analytics,analytics(16),17,1,
+delayering,1,1-gram,analytics,analytics(16),18,1,"fice Procedure, adopted four pronged approach with focus on delayering, delegation, digitization and desk officer system was imple"
+i4c where,1,2-gram,analytics,analytics(15),16,1,"yber Fraud Mitigation Centre (CFMC) has been established at I4C where representatives of major banks, Financial Intermediaries, P"
+agency are working,1,3-gram,analytics,analytics(15),16,1,mediaries and representatives of States/UTs Law Enforcement Agency are working together for immediate action and seamless cooperation to t
+tackle cybercrime,1,2-gram,analytics,analytics(15),19,1,"g together for immediate action and seamless cooperation to tackle cybercrime. So far, more than 9.42 lakhs SIM cards and 2,63,348 IMEI"
+intermediaries and representatives,1,3-gram,analytics,analytics(15),16,1,"diaries, Payment Aggregators, Telecom Service Providers, IT Intermediaries and representatives of States/UTs Law Enforcement Agency are working together f"
+i4c where representatives,1,3-gram,analytics,analytics(15),16,1,"yber Fraud Mitigation Centre (CFMC) has been established at I4C where representatives of major banks, Financial Intermediaries, Payment Aggregato"
+established at i4c,1,3-gram,analytics,analytics(15),16,1,"e of the Art, Cyber Fraud Mitigation Centre (CFMC) has been established at I4C where representatives of major banks, Financial Intermediar"
+collaboration with banks,1,3-gram,analytics,analytics(13),16,1,"ervice Providers, mandating them to pilot this framework in collaboration with banks. Given the sensitivity of banking transactions and cases of"
+personalization,1,1-gram,GPT,GPT(5),8,1,"ital, XR offers new ways to enhance customer engagement and personalization. This theme focuses on leveraging immersive technologies in"
+provides the foundational,1,3-gram,GPT,GPT(4) | language translation(4),5,1,"gressing to Entrepreneurship Development Programmes (EDPs), provides the foundational orientation and detailed capacity building support to the b"
+summit key,1,2-gram,GPT,IndiaAI(7) | GPT(4),2,1,
+tinkerpreneur,1,1-gram,GPT,IndiaAI(7) | compute(6) | GPT(3) | language translation(3),9,1,ATL Tinkerpreneur 2024: Atal Innovation Mission calls for applications The
+impact challenges,1,2-gram,GPT,IndiaAI(6) | compute(6) | GPT(3) | language translation(3),10,1,Defence Secretary mentioned that the introduction of Joint IMPACT Challenges was a distinctive initiative aimed at collaboratively advan
+enabled remote,1,2-gram,GPT,GPT(3) | language translation(3),10,1,"for rapid adaptation, giving rise to E-Lok Adalats , which enabled remote participation and brought justice directly into people’s ho"
+safe deployment,1,2-gram,GPT,GPT(3) | language translation(3),9,1,need for a balanced regulatory system that facilitates the safe deployment of modern biotechnologies to achieve food and nutritional s
+highlights ongoing,1,2-gram,GPT,GPT(3) | language translation(3),5,1,
+countries international organisations,1,3-gram,GPT,GPT(3) | language translation(3),7,1,
+ecosystem initiatives,1,2-gram,GPT,GPT(3) | language translation(3),6,1,
+impact events,1,2-gram,GPT,GPT(3) | language translation(3),6,1,"paign jointly implemented by DDWS and MoHUA began with high-impact events across the country. Secretary DDWS, Sh, Ashok KK M"
+learning and international,1,3-gram,GPT,GPT(3),5,1,"isk mapping technology, research, media, capacity building, learning and international cooperation will help the nation build climate-resilient in"
+provide comprehensive framework,1,3-gram,GPT,GPT(3),1,1,"mation Technology, Shri Ashwini Vaishnaw said this MoU will provide comprehensive framework for collaboration to the Indian Railways in various areas,"
+real world public,1,3-gram,GPT,compute(7) | GPT(3),8,1,
+initiatives like kisan,1,3-gram,GPT,GPT(3),6,1,"ting us on track to achieve a $300 billion bioeconomy. With initiatives like Kisan Kavach, we are not only safeguarding our farmers but also a"
+technology meity meity,1,3-gram,GPT,GPT(3),5,1,
+responsible and trusted,1,3-gram,GPT,GPT(3),5,1,"va Bandhu Bharat (December), highlighting India’s role as a responsible and trusted global partner. Smt. Kanchan Prasad, Director General ("
+innovation and deployment,1,3-gram,GPT,language translation(4) | GPT(3),7,1,
+potential to accelerate,1,3-gram,GPT,compute(6) | GPT(3),13,1,"tion in Telangana today, the Prime Minister highlighted its potential to accelerate regional development by connecting to the Outer Ring Road."
+solving and entrepreneurial,1,3-gram,GPT,GPT(3),6,1,"irls, it is essential to nurture critical thinking, problem-solving and entrepreneurial skills among our young minds, equipping them with ability t"
+scale capacity building,1,3-gram,GPT,GPT(3),12,3,"wards data-driven evaluation, digital governance, and large-scale capacity building as central pillars of public service reform. Vice Presi"
+innovation problem,1,2-gram,GPT,GPT(3),5,1,
+facilities technical,1,2-gram,GPT,GPT(3),6,1,
+weave together,1,2-gram,GPT,GPT(3),5,1,"l heritage, and has within it a tapestry of traditions that weave together communities in harmony. We see its restoration now. The ent"
+supporting high impact,1,3-gram,GPT,GPT(3),6,1,
+deployment aligned,1,2-gram,GPT,GPT(3),4,1,
+builds public,1,2-gram,GPT,GPT(3),6,1,"gic communication in ensuring that research informs policy, builds public trust, and reaches communities effectively. The session emp"
+stpi supports,1,2-gram,GPT,GPT(3),4,1,
+monitor crop,1,2-gram,GPT,GPT(3),5,1,"ncy unmatched by existing missions. The satellite will help monitor crop water stress, irrigation needs, water resources, urban ecos"
+societal outcomes,1,2-gram,GPT,GPT(3),15,1,bhava: A comprehensive 10-year impact report on IDY and its societal outcomes. Yoga Connect: A global online yoga summit held on 14th J
+events pre,1,2-gram,GPT,GPT(3),4,1,
+stpi stpi,1,2-gram,GPT,GPT(3),4,1,
+delivering measurable social,1,3-gram,GPT,GPT(3),4,1,"rivate sector engagement, and partnership-led approaches to delivering measurable social impact. The conversations also enabled an exchange of learn"
+digital india ensures,1,3-gram,GPT,GPT(3),4,1,
+deployment bringing,1,2-gram,GPT,GPT(3),4,1,
+participation and supports,1,3-gram,GPT,GPT(3),4,1,"e PRITHVI scheme combines scientific monitoring with public participation and supports long-term efforts related to seawater quality assessment, m"
+transparency of public,1,3-gram,GPT,GPT(3),4,1,"Amendment Bill seeks to uphold the integrity, fairness and transparency of public examinations, protect the interests of deserving and merito"
+transport corporation upsrtc,1,3-gram,Safe City,Safe City(4),5,1,
+ahmedabad bengaluru chennai,1,3-gram,Safe City,Safe City(7),9,2,
+kolkata lucknow,1,2-gram,Safe City,Safe City(7),9,2,
+shakti in which,1,3-gram,Safe City,Safe City(3),5,1,
+rehabilitation of women,1,3-gram,Safe City,Safe City(3),4,1,"i, in which the component of Shakti Sadan is for relief and rehabilitation of women in difficult circumstances, including victims of acid attac"
+which the component,1,3-gram,Safe City,Safe City(3),4,1,"dministers sub-scheme “Samarthaya” under Mission Shakti, in which the component of Shakti Sadan is for relief and rehabilitation of women i"
+support to fight,1,3-gram,Safe City,Safe City(3),4,1,"a Sundays on Cycle’ from Lucknow; Kishore Jena, PEFI Pledge Support to Fight Obesity Intensifying the fight against obesity, Union Min"
+emergency access,1,2-gram,Safe City,Safe City(3),5,1,"will save time and money. Life will be more peaceful.” Emergency access is another life-changing promise. “In emergencies, the nigh"
+acid attacks,1,2-gram,Safe City,Safe City(3),5,1,"legal, institutional and policy framework for prevention of acid attacks, punishment of offenders, protection of survivors and their"
+police medical,1,2-gram,Safe City,Safe City(3),6,1,
+scheme samarthya,1,2-gram,Safe City,Safe City(3),5,1,
+counselling psychological support,1,3-gram,Safe City,Safe City(3),5,1,
+development also administers,1,3-gram,Safe City,Safe City(3),4,1,"n police stations. Further, the Ministry of Women and Child Development also administers sub-scheme “Samarthaya” under Mission Shakti, in which the"
+counselling psychological,1,2-gram,Safe City,Safe City(3),5,1,
+immediate emergency,1,2-gram,Safe City,Safe City(3),5,1,"ecially border states, be effectively established to ensure immediate emergency healthcare, if required. He also directed that a 24*7 contr"
+young girls who,1,3-gram,Safe City,Safe City(3),4,1,"or all women weightlifters. Her presence should inspire the young girls who are taking part in weightlifting,” said Dr. Mandaviya."
+oscs provide,1,2-gram,Safe City,Safe City(3),4,1,"entre ( OSC ) Scheme with effect from April 01, 2015. These OSCs provide a range of integrated services under one roof including pol"
+far women helplines,1,3-gram,Safe City,Safe City(3),4,1,
+cyber related cases,1,3-gram,Safe City,Safe City(3),4,1,"s enhanced capacity is aimed at facilitating examination of cyber related cases. At present, a total of 03 (three) in-house regular exp"
+having disposed,1,2-gram,Safe City,Safe City(3),4,1,"nally, NCL has made significant progress in scrap disposal, having disposed of 1,661 MT of scrap materials out of a targeted 2,180 MT."
+cnc machining,1,2-gram,Smart City,Smart City(11),15,1,"and Computer-Aided Manufacturing (CAD-CAM) technologies and CNC machining to improve product quality, precision and efficiency. The M"
+technician electrical,1,2-gram,Smart City,Smart City(11),12,1,
+cum app,1,2-gram,Smart City,Smart City(11),12,1,Developed in year 1 Smartphone Technician Cum App Tester 10th Six Months 3 2018
+cum app tester,1,3-gram,Smart City,Smart City(11),12,1,Developed in year 1 Smartphone Technician Cum App Tester 10th Six Months 3 2018 2
+app tester,1,2-gram,Smart City,Smart City(11),12,1,eloped in year 1 Smartphone Technician Cum App Tester 10th Six Months 3 2018 2
+manufacturing cam,1,2-gram,Smart City,Smart City(11),12,1,
+hydro power plant,1,3-gram,Smart City,Smart City(11),13,1,g power. Tehri HPC consists of the following: Tehri Hydro Power Plant (Tehri HPP) - 1000 MW (4×250MW) 2. Koteshwar Hydro Elec
+smartphone technician cum,1,3-gram,Smart City,Smart City(11),12,1,vel from 2024-25 Developed in year 1 Smartphone Technician Cum App Tester 10th Six Months 3 2018
+technician cum,1,2-gram,Smart City,Smart City(11),12,1,24-25 Developed in year 1 Smartphone Technician Cum App Tester 10th Six Months 3 2018
+aided manufacturing cam,1,3-gram,Smart City,Smart City(11),12,1,
+technician computer,1,2-gram,Smart City,Smart City(8),3,1,
+advanced tool,1,2-gram,Smart City,Smart City(8),10,1,"lty of the approach lies in the synergistic use of LAT with advanced tool coatings, a combination not widely explored earlier. These"
+junior drone technician,1,3-gram,Smart City,Smart City(8),2,1,
+pilot junior drone,1,3-gram,Smart City,Smart City(8),2,1,
+verifier,1,1-gram,Smart City,Smart City(8),9,1,"e-longitude details of the hospital along with the physical verifier which ensures that the visit has taken place. Further, HEM"
+electrical technician,1,2-gram,Smart City,Smart City(8),2,1,r - Control Panel Electronics and Hardware Electrical Technician Electronics and Hardware Electrician
+junior drone,1,2-gram,Smart City,Smart City(8),2,1,
+technician smartphone,1,2-gram,Smart City,Smart City(8),2,1,
+township limited,1,2-gram,Smart City,Smart City(7),9,1,"n investment of Rs. 2,427 crore. The Maharashtra Industrial Township Limited (MITL), a Special Purpose Vehicle (SPV) formed with a 51:49"
+industrial township limited,1,3-gram,Smart City,Smart City(7),9,1,"ized with an investment of Rs. 2,427 crore. The Maharashtra Industrial Township Limited (MITL), a Special Purpose Vehicle (SPV) formed with a 51:49"
+maharashtra industrial township,1,3-gram,Smart City,Smart City(6),8,1,"been prioritized with an investment of Rs. 2,427 crore. The Maharashtra Industrial Township Limited (MITL), a Special Purpose Vehicle (SPV) formed with"
+mitl,1,1-gram,Smart City,Smart City(6),8,1,". 2,427 crore. The Maharashtra Industrial Township Limited (MITL), a Special Purpose Vehicle (SPV) formed with a 51:49 partn"
+needs and local,1,3-gram,Smart City,Smart City(6),12,1,"ation with industry, ensuring alignment with emerging skill needs and local industrial potential. The Hub-and-Spoke ITI clusters would"
+industry ensuring alignment,1,3-gram,Smart City,Smart City(6),12,1,
+annotation,1,1-gram,FutureSkills,IndiaAI(12) | Smart City(11) | FutureSkills(9),30,2,"etailed graphical summary, infographics and genome assembly/annotation details. These documents will thus give an idea about the s"
+aided manufacturing,1,2-gram,Smart City,Smart City(11),13,2,"for fabrication of Computer Aided Designing (CAD), Computer Aided Manufacturing (CAM) Prosthesis. Patient Specific implants for rehabilitat"
+drone pilot junior,1,3-gram,Smart City,Smart City(11),13,2,
+like mission karmayogi,1,3-gram,face recognition,face recognition(4),8,4,"accountability, and efficiency, as reflected in initiatives like Mission Karmayogi, which has institutionalized capacity building for civil se"
+grievances annually,1,2-gram,face recognition,face recognition(3),6,1,Insurance Divisions) has been receiving more than 2.50 lakh grievances annually. It has consistently figured among the top 10 Ministries/De
+mother father,1,2-gram,face recognition,face recognition(3),4,1,
+corruption act,1,2-gram,face recognition,face recognition(5),9,6,"rth. Referring to the recent amendment to the Prevention of Corruption Act, 1988, the union minister said the Government under PM Modi"
+prevention of corruption,1,3-gram,face recognition,face recognition(5),10,6,"of a Still Birth. Referring to the recent amendment to the Prevention of Corruption Act, 1988, the union minister said the Government under PM"
+enhance passenger safety,1,3-gram,face recognition,face recognition(3),10,7,units at their railway stations to prevent trafficking and enhance passenger safety. RPF is undertaking a very proactive role to make sure
+beneficiaries registered,1,2-gram,face recognition,face recognition(4),15,6,"1 Target 3,79,37,139 2 Beneficiaries Registered 3,70,94,350 4 House Sanctioned"
+genuine beneficiaries,1,2-gram,face recognition,face recognition(3),10,6,"nd is done as a de-duplication exercise to authenticate the genuine beneficiaries, to make the benefits of the social welfare schemes availab"
+initiatives like mission,1,3-gram,face recognition,face recognition(3),14,9,"dhu’ in a divided world”, PM Modi said. He mentioned Indian initiatives like Mission LiFE for combating climate change and the vision of One Ear"
+conference theme,1,2-gram,face recognition,face recognition(3),14,7,"edge, experiences and expertise on different aspects of the conference theme. Stakeholders from industry, academia and research organiza"
+reply to question,1,3-gram,face recognition,face recognition(4),10,9,"Shipping and Waterways, Shri Sarbananda Sonowal in written reply to QUESTION NO. 5693 in the Lok Sabha. ***** GDH/HR"
+obsolete rules,1,2-gram,face recognition,face recognition(3),18,10,"Dr Jitendra Singh said the Government scrapped about 2,000 obsolete rules and deregulated the economy that earlier proved to be detri"
+general rpf,1,2-gram,face recognition,face recognition(3),14,11,
+access control,1,2-gram,face recognition,face recognition(4),30,15,Expressway has been recently opened to traffic. The 8-lane access control Urban Expressway connects Delhi-Haryana border to Kherki Da
+jeevan pramaan,1,2-gram,face recognition,face recognition(3),17,11,"lation of two applications, viz. ""Aadhaar Face RD” and the ""Jeevan Pramaan"" in their smartphones. The operator authentication for thes"
+pramaan,1,1-gram,face recognition,face recognition(3),17,11,"of two applications, viz. ""Aadhaar Face RD” and the ""Jeevan Pramaan"" in their smartphones. The operator authentication for thes"
+enhancing the safety,1,3-gram,face recognition,face recognition(3),20,13,r Operation ‘Sanraksha’: This operation is launched for enhancing the safety of passengers. Action is being taken against the criminals
+out of them,1,3-gram,face recognition,face recognition(3),17,14,"icipation. There are 55,815 PVTGs in the entire population, out of them 18+ are 39,498 and all are registered in the electoral roll"
+ration thr,1,2-gram,face recognition,face recognition(4),32,15,
+home ration thr,1,3-gram,face recognition,face recognition(4),32,15,
+ekyc,1,1-gram,face recognition,face recognition(4),36,16,"of registration of fresh and renewal candidates on the NSP, eKYC status of Institutes, biometric authentication process of I"
+pension reforms,1,2-gram,face recognition,face recognition(4),27,18,"Minister Narendra Modi took charge in May 2014, a series of pension reforms had been introduced, one after the other, with a sensitive"
+poshan tracker application,1,3-gram,face recognition,face recognition(3),34,12,provided Rs. 2000 per annum for internet connectivity. Poshan Tracker Application is being used to report data on various nutrition indicator
+tracker application,1,2-gram,face recognition,face recognition(3),34,12,ed Rs. 2000 per annum for internet connectivity. Poshan Tracker Application is being used to report data on various nutrition indicator
+digital life certificates,1,3-gram,face recognition,face recognition(8),56,37,"o further ensure that all remaining pensioners submit their Digital Life Certificates to avoid discontinuation of their pension, a review meeting"
+redressal systems,1,2-gram,face recognition,face recognition(4),41,20,ives and the implementation of centralized public grievance redressal systems. The program also includes a presentation session by the di
+event dr jitendra,1,3-gram,face recognition,face recognition(3),29,15,
+governance challenges,1,2-gram,face recognition,face recognition(3),29,15,"e roles & responsibilities of District Collectors in India, governance challenges and reforms aimed at enhancing public service delivery were"
+anganwadi worker,1,2-gram,face recognition,face recognition(3),20,13,ng Care Framework. The framework is designed to provide the Anganwadi Worker with a basic understanding of how children grow and develop
+decade dr jitendra,1,3-gram,face recognition,face recognition(3),23,15,
+bio e3 policy,1,3-gram,face recognition,face recognition(3),34,15,motion of high-performance biomanufacturing and approval to Bio E3 policy. Throwing light on the developments in the green energy
+multilingual support,1,2-gram,face recognition,face recognition(3),56,16,"ak Portal and Helpline (KRPH) 14447. This platform provides multilingual support, enabling transparent communication and real-time resolutio"
+like mission,1,2-gram,face recognition,face recognition(4),32,23,"so extend enabling support through their respective schemes like Mission for Integrated Development of Horticulture, Agriculture Exp"
+home ration,1,2-gram,face recognition,face recognition(4),43,20,"ors such as registration of beneficiaries, delivery of Take Home Ration (THR – not raw ration) and Hot Cooked Meal (HCM), updating"
+take home ration,1,3-gram,face recognition,face recognition(4),43,20,"dicators such as registration of beneficiaries, delivery of Take Home Ration (THR – not raw ration) and Hot Cooked Meal (HCM), updating"
+socrates,1,1-gram,machine learning,machine learning(13),18,2,"es. I remember at this time what a great philosopher in pre-Socrates era said, Heraclitus, the only constant in life is change."
+forecasting system bharatfs,1,3-gram,deep learning,machine learning(10) | deep learning(5),16,1,
+python,1,1-gram,data science,machine learning(9) | data science(4),10,1,"Hypo zero Bearded Dragon, African spurred tortoise, Borneo python, Green iguana, Mangrove monitor lizard, Argentine black and"
+technology innovation hubs,1,3-gram,large language model,machine learning(17) | large language model(8) | language model(8) | Drishti(3),43,3,c technologies. One such initiative is the setting up of 25 technology innovation hubs by the Department of Science and Technology (DST) across th
+cannot enter,1,2-gram,machine learning,machine learning(8),10,1,"then he buttressed it by an instance, that the same person cannot enter the same river twice, because neither the person is the sam"
+physics based,1,2-gram,deep learning,machine learning(8) | deep learning(5),14,1,
+cyclone intensity,1,2-gram,pest surveillance,machine learning(8) | deep learning(4) | pest surveillance(4) | large language model(3) | language model(3),10,1,"dictions on the trends in sea level along the Indian coast, cyclone intensity and frequency, storm surges, wind waves, biogeochemistry, a"
+collaborative approach ensures,1,3-gram,deep learning,deep learning(4),5,1,refining and advancing the transformation initiatives. This collaborative approach ensures that the collective wisdom of the veteran community is full
+analysis of weather,1,3-gram,deep learning,deep learning(4),6,1,ure. The Ministry carries out continuous monitoring and analysis of weather and climate across the country. Information on extreme temp
+land surface,1,2-gram,deep learning,deep learning(6),11,2,"tion global coupled model integrates the atmosphere, ocean, land surface, and sea ice components with state-of-the-art physics and a"
+imaging device,1,2-gram,deep learning,deep learning(3),5,1,"estically manufactured medical devices in the radiotherapy, imaging device, anaesthesia, cardio-respiratory and critical care and impl"
+activities and operational,1,3-gram,deep learning,deep learning(3),4,1,"ilotline is already underway and also spoke about expanding activities and operational presence in Bangalore, Hyderabad and Noida. He also mention"
+research across institutes,1,3-gram,deep learning,deep learning(3),4,1,"orms not only showcased the depth and diversity of doctoral research across institutes but also provided opportunities for peer learning, expert f"
+collaborative research across,1,3-gram,deep learning,deep learning(3),5,1,"rated national models such as One Week- One Theme, enabling collaborative research across CSIR, DBT, and partner institutes. A formal technology"
+methodologies into,1,2-gram,deep learning,deep learning(3),4,1,nd to obtain expert guidance for incorporating standardized methodologies into the National Technical Guideline which will be an input to
+into their research,1,3-gram,deep learning,deep learning(3),4,1,"ortunity to interact with ICMR scientists, gaining insights into their research journeys, areas of expertise, and everyday work in public h"
+global coupled,1,2-gram,deep learning,deep learning(3),6,1,"e Mithuna Forecast System (Mithuna-FS). This new-generation global coupled model integrates the atmosphere, ocean, land surface, and s"
+based and climate,1,3-gram,deep learning,deep learning(3),5,1,to changing climate conditions. He also called for research-based and climate-adapted farming. “We must adopt the latest te
+urban model,1,2-gram,deep learning,deep learning(3),6,1,"ts over the Indian subcontinent; A 330-m hyper-resolution urban model for fog, visibility, and air-quality forecasting over the D"
+generation global coupled,1,3-gram,deep learning,deep learning(3),6,1,"ction of the Mithuna Forecast System (Mithuna-FS). This new-generation global coupled model integrates the atmosphere, ocean, land surface, and s"
+surface and sea,1,3-gram,deep learning,deep learning(3),6,1,
+upgraded data,1,2-gram,deep learning,deep learning(3),6,1,"and sea ice components with state-of-the-art physics and an upgraded data assimilation framework. Currently, this forecasting system"
+upgraded data assimilation,1,3-gram,deep learning,deep learning(3),6,1,"and sea ice components with state-of-the-art physics and an upgraded data assimilation framework. Currently, this forecasting system operates at 1"
+ocean land surface,1,3-gram,deep learning,deep learning(3),6,1,
+chirps,1,1-gram,deep learning,deep learning(3),4,1,"of cities, sparrows once filled the air with their cheerful chirps. Flocks of these tiny birds, uninvited yet welcome, created"
+atmosphere ocean land,1,3-gram,deep learning,deep learning(3),6,1,
+regional model,1,2-gram,deep learning,deep learning(3),8,1,"thuna-FS suite also includes – A 4-km high-resolution regional model for accurate simulation of monsoon dynamics, cyclones, and"
+multi scale,1,2-gram,deep learning,deep learning(3),5,1,
+mithuna,1,1-gram,deep learning,deep learning(3),13,1,"el. Further, a major achievement is the introduction of the Mithuna Forecast System (Mithuna-FS). This new-generation global co"
+ocean land,1,2-gram,deep learning,deep learning(3),7,2,
+advisories for agriculture,1,3-gram,deep learning,deep learning(3),5,1,al operations. Impact-based forecast (IBFs) and appropriate advisories for agriculture are also being prepared by AMFUs based on the severe weathe
+wearable technology,1,2-gram,deep learning,deep learning(3),8,1,"sity interconnect PCBs are used in consumer electronics and wearable technology, automotive electronics, medical devices, telecommunication"
+retina,1,1-gram,deep learning,deep learning(3),6,1,ed surgical instrumentation and imaging with the Heidelberg Retina Angiograph (HRA) to visualise aqueous outflow pathways in r
+machine translation,1,2-gram,language translation,Bhashini(13) | IndiaAI(7) | language translation(7) | deep learning(3),17,5,aining (NCERT) is running a Bhasha Sangam programme as also Machine Translation cell which is translating various books into the scheduled
+aas bulletins,1,2-gram,deep learning,deep learning(3),4,1,"ur, Vellayani and Kumarakomare preparing the district level AAS bulletins for all agriculturally important districts of Kerala. These"
+ibfs and appropriate,1,3-gram,deep learning,deep learning(3),4,1,
+friday in english,1,3-gram,deep learning,deep learning(3),4,1,
+across indian languages,1,3-gram,language model,Bhashini(14) | language model(4) | language translation(4),17,1,2025 with official adoption of a consistent Braille system across Indian languages for education and accessibility. The same has been adopted
+real time translation,1,3-gram,language translation,Bhashini(12) | language translation(7),21,1,
+time translation,1,2-gram,language translation,Bhashini(12) | language translation(7),21,1,"ation and Academic writing); Bahubhasha Shabdkosh; and Real-time Translation Architecture. Addressing the audience, Shri Murthy said tha"
+text to text,1,3-gram,Bhashini,Bhashini(11),15,5,
+speech to text,1,3-gram,language model,Bhashini(21) | language model(7) | large language model(6),35,2,
+text translation,1,2-gram,language translation,Bhashini(10) | language translation(3),11,3,r 2022 to develop core language technologies for speech and text translation for 22 Scheduled Indian languages in the open source. The B
+inferences,1,1-gram,language translation,Bhashini(19) | language translation(7),21,2,r predicting seasonal mean monsoon rainfall over India. The inferences from climate models and extensive research put forward also
+low resource,1,2-gram,Bhashini,Bhashini(9),17,1,"Rural Health Centre. He spoke on 'Effective Strategies for low resource settings: Insights gained from my IAF journey', portraying"
+inclusive language,1,2-gram,language translation,Bhashini(9) | language translation(6),10,1,"Specialist, UNICEF, emphasized the importance of disability-inclusive language, noting that inclusive communication plays a critical role"
+multilingual digital,1,2-gram,Bhashini,Bhashini(17),26,2,CS. Enhanced engagement via Nukkad Natak programmes and a multilingual digital newsletter in 10 languages shared through the website and W
+text to speech,1,3-gram,language translation,Bhashini(17) | language translation(8) | large language model(5),35,2,
+across linguistic,1,2-gram,Bhashini,Bhashini(8),11,1,"h and breadth of the country and ensured equitable sampling across linguistic, social, and regional groups in India. Approximately, 36.7%"
+language accessibility,1,2-gram,Bhashini,Bhashini(8),12,1,"made accessible, with 476 of them live. Education and Language Accessibility The Indian Sign Language Research and Training Centre"
+real world use,1,3-gram,language translation,Bhashini(7) | language translation(5),18,1,
+text speech,1,2-gram,large language model,large language model(9) | language model(9) | Bhashini(7) | pest surveillance(4),18,1,
+across diverse linguistic,1,3-gram,language translation,Bhashini(7) | language translation(3),10,3,"nguages of India, greatly enhancing its reach and usability across diverse linguistic communities. On this occasion, the State/UT-wise Panchayat"
+diverse linguistic communities,1,3-gram,Bhashini,Bhashini(7),10,3,"of India, greatly enhancing its reach and usability across diverse linguistic communities. On this occasion, the State/UT-wise Panchayat Profile, whi"
+platforms and institutions,1,3-gram,Bhashini,Bhashini(7),8,1,
+language technology,1,2-gram,Bhashini,Bhashini(27),39,6,"rable PM Shri Narendra Modi in July 2022 under the National Language Technology Mission, BHASHINI aims to provide technology translation se"
+speech translation,1,2-gram,language translation,Bhashini(6) | language translation(3),11,1,"oid platform. The project aims to enable real-time text and speech translation between Hindi, English, and multiple tribal languages (and"
+digital public services,1,3-gram,Bhashini,Bhashini(6),11,1,"logy-Driven.” He remarked that the pavilion illustrates how digital public services can empower individuals, support enterprises, and strengthe"
+use cases across,1,3-gram,FutureSkills,IndiaAI(11) | compute(10) | Bhashini(6) | FutureSkills(4),23,1,"lume-3 , showcasing best practices and successful on-ground use cases across social, economic, and infrastructure sectors. LEAPS 2025"
+first multilingual,1,2-gram,Bhashini,Bhashini(6),9,1,DDWS Organises First Multilingual Sujal Gram Samvad; Villagers Share Stories of Transformatio
+india's national initiative,1,3-gram,Bhashini,Bhashini(6),10,1,"The Accessible India Campaign (Sugamya Bharat Abhiyan) is India's national initiative, launched in 2015, by the Department of Empowerment of Pers"
+model development,1,2-gram,language model,compute(12) | Bhashini(11) | language model(6),26,2,lar to those in its predecessor. All details related to the model development and results have been published in a peer-reviewed research
+conversational,1,1-gram,Bhashini,Bhashini(15),53,3,"y. He said that we must make Hindi acceptable, flexible and conversational. He exuded confidence that the Hindi Shabd Sindhu dictionar"
+transcend language,1,2-gram,Bhashini,Bhashini(5),8,3,"rm, developed in collaboration with BHASHINI, which aims to transcend language barriers, ensuring that every citizen can easily access dig"
+ihub,1,1-gram,Drishti,Drishti(4),15,1,"for continuous learning and hands-on practice. Divyasampark IHUB Roorkee trained 17,409 students under the TSP Program for D"
+prosperity self,1,2-gram,Drishti,Drishti(3),6,2,
+bits biocytih foundation,1,3-gram,Drishti,Drishti(3),4,1,"n for Innovation and Technology Transfer (FITT), IIT Delhi, BITS BioCyTiH Foundation and TBI-KIET. India’s first high precision and"
+biocytih foundation,1,2-gram,Drishti,Drishti(3),4,1,"Innovation and Technology Transfer (FITT), IIT Delhi, BITS BioCyTiH Foundation and TBI-KIET. India’s first high precision and"
+biocytih,1,1-gram,Drishti,Drishti(3),4,1,"Innovation and Technology Transfer (FITT), IIT Delhi, BITS BioCyTiH Foundation and TBI-KIET. India’s first high pre"
+bits biocytih,1,2-gram,Drishti,Drishti(3),4,1,"n for Innovation and Technology Transfer (FITT), IIT Delhi, BITS BioCyTiH Foundation and TBI-KIET. India’s first high pre"
+ioe,1,1-gram,large language model,large language model(8) | language model(8) | Drishti(3),19,1,IAF PLANS INDUSTRY OUTREACH EVENT (IOE) 2025 AT AIR FORCE STATION GUWAHATI In a bid to bolster I
+ndma ndrf,1,2-gram,Drishti,Drishti(3),5,2,
+samriddh evam,1,2-gram,Drishti,Drishti(3),5,2,Raj SVAMITVA Scheme – Aatmanirbhar Panchayat se Samriddh evam Aatmanirbhar Bharat Ministry of
+operation sindoor victory,1,3-gram,Drishti,Drishti(3),4,2,
+hornbill festival celebrating,1,3-gram,Drishti,Drishti(3),4,2,
+sindoor victory,1,2-gram,Drishti,Drishti(3),4,2,
+mantra of prosperity,1,3-gram,Drishti,Drishti(3),6,2,
+manipur towards,1,2-gram,Drishti,Drishti(3),4,2,"y Expressing pride about the role played by the people of Manipur towards India’s development, the Prime Minister Shri Narendra Modi"
+tableau operation sindoor,1,3-gram,Drishti,Drishti(3),4,2,
+nagaland the hornbill,1,3-gram,Drishti,Drishti(3),4,2,
+tableau operation,1,2-gram,Drishti,Drishti(3),4,2,
+panchayat se samriddh,1,3-gram,Drishti,Drishti(3),5,2,of Panchayati Raj SVAMITVA Scheme – Aatmanirbhar Panchayat se Samriddh evam Aatmanirbhar Bharat Ministr
+ease my trip,1,3-gram,Drishti,Drishti(3),4,4,MoRD and Ease My Trip signed MoU to enable Lakhpati Didis in the Travel and Touri
+trading pvt ltd,1,3-gram,Drishti,Drishti(3),4,4,"16 Group of Monuments, Hauz Khas Tata Power Trading Pvt Ltd Delhi 17 Delhi Gate Redtape Lt"
+fort agra,1,2-gram,Drishti,Drishti(3),4,4,
+trading pvt,1,2-gram,Drishti,Drishti(3),4,4,"16 Group of Monuments, Hauz Khas Tata Power Trading Pvt Ltd Delhi 17 Delhi Gate Redtap"
+mori gate,1,2-gram,Drishti,Drishti(3),4,4,dtape Ltd Delhi 18 Kashmiri gate and Mori Gate Redtape Ltd Delhi 19 Rock Shel
+raho,1,1-gram,Drishti,Drishti(3),6,4,"arly days as an assistant. Films like ‘Boot Polish’, ‘Jagte Raho’ and ‘Baawre’ showcased his compassion for the forgotten an"
+systems innovation,1,2-gram,Drishti,Drishti(4),9,2,
+csir national aerospace,1,3-gram,Drishti,Drishti(4),13,3,
+victory through jointness,1,3-gram,Drishti,Drishti(3),6,3,"Jointness among the Services, duly living up to its motto 'Victory Through Jointness'. *** VK/SR/Anand"
+led by brigadier,1,3-gram,Drishti,Drishti(3),5,5,"ve Director, US INDOPACOM and a 38 member Indian delegation led by Brigadier Rahul Anand of Headquarters Integrated Defence Staff. T"
+around people,1,2-gram,Drishti,Drishti(3),3,3,
+shekhawat in written,1,3-gram,Drishti,Drishti(3),2,2,Union Minister for Culture and Tourism Shri Gajendra Singh Shekhawat in written replies in Rajya Sabha today ******* M Annadurai
+autonomous navigation,1,2-gram,Drishti,Drishti(3),16,2,"s the country, for example the Technology Innovation Hub on Autonomous Navigation Foundation (TiHAN) at IIT Hyderabad has developed the first"
+comet,1,1-gram,Drishti,Drishti(3),8,2,"and Centre of Excellence for MSME Enablement of Technology (COMET) at National Institute for MSME (ni-msme), Hyderabad The"
+kashmir kerala water,1,3-gram,Drishti,Drishti(3),5,3,& Kashmir Handicrafts and Folk Dances of Jammu & Kashmir Kerala Water Metro & 100% Digital Literacy: Aatmanirbhar Kerala for Aatm
+soul cry,1,2-gram,Drishti,Drishti(3),5,3,Ministry of Culture Vande Mataram – The Soul Cry of a Nation Deptt of School Education
+culture vande,1,2-gram,Drishti,Drishti(3),5,3,Victory through Jointness Ministry of Culture Vande Mataram – The Soul Cry of a Nation De
+mataram the soul,1,3-gram,Drishti,Drishti(3),5,3,
+graphics processing,1,2-gram,FutureSkills,IndiaAI(14) | compute(14) | FutureSkills(7) | large language model(4) | language model(4),18,1,"nificantly increase trade in technology products, including Graphics Processing Units (GPUs) and other goods used in data centers, and expa"
+governance guidelines,1,2-gram,FutureSkills,IndiaAI(11) | compute(8) | FutureSkills(4),19,1,"Dr. Mansukh Mandaviya Urges NSFs to Follow Good Governance Guidelines, Nation-First Approach in Preparation for LA 2028 Olympics"
+mission in march,1,3-gram,FutureSkills,IndiaAI(10) | compute(9) | FutureSkills(5) | large language model(3) | language model(3),12,1,an EDGE and Environmental Technologies Business Development Mission in March 2024 in New Delhi. The trade mission brought 12 U.S. compan
+graphics processing units,1,3-gram,FutureSkills,IndiaAI(10) | compute(9) | FutureSkills(4),11,1,"nificantly increase trade in technology products, including Graphics Processing Units (GPUs) and other goods used in data centers, and expand joi"
+safe and trusted,1,3-gram,compute,IndiaAI(28) | compute(25),48,3,"rd, it is crucial to ensure that the internet should remain safe and trusted for all digital nagriks. Our government firmly believes in"
+bolster india’s global,1,3-gram,IndiaAI,IndiaAI(9),10,1,"rengthen the negotiation skills of government officials and bolster India’s global trade engagement. Commerce Secretary, Shri Sunil B"
+established in tier,1,3-gram,FutureSkills,IndiaAI(9) | FutureSkills(6) | compute(6) | data science(5),10,1,n contribute meaningfully to the economy. NIDHI-iTBIs are established in Tier 2 & Tier 3 cities specially in regions which do not have th
+abhishek singh additional,1,3-gram,IndiaAI,IndiaAI(24),42,3,
+social good,1,2-gram,compute,IndiaAI(24) | compute(22),49,3,These inputs highlight the power of collective efforts for social good. I invite more people to share their ideas for the episode.
+summit in february,1,3-gram,FutureSkills,IndiaAI(8) | FutureSkills(4),17,1,"ssionals in a global level world audio visual entertainment Summit in February. To promote VFX ecosystem in India, the Ministry of Informa"
+processing units gpus,1,3-gram,compute,IndiaAI(8) | compute(8),9,1,
+airawat,1,1-gram,compute,IndiaAI(7) | compute(7),14,1,"Vehicle (Bajrang), Vehicle Mounted Infantry Mortar System (Airawat), Quick Reaction Force Vehicles (Nandighosh & Tripurantak)"
+centric challenges,1,2-gram,IndiaAI,IndiaAI(7),9,1,"democratize the use of technology. It aims to address India centric challenges, create economic and employment opportunities for all India"
+democratizing technology,1,2-gram,compute,IndiaAI(7) | compute(6),14,1,unch of RailOne app reaffirms Bhartiya Rail’s commitment to democratizing technology and delivering world-class mobility to every passenger.
+itis and polytechnics,1,3-gram,FutureSkills,IndiaAI(7) | data science(6) | compute(6) | FutureSkills(5) | big data(4),8,1,"stitutional partnerships with training institutions such as ITIs and polytechnics, and facilitate global employer engagement to improve inter"
+development deployment,1,2-gram,IndiaAI,IndiaAI(13),20,2,
+ethical and responsible,1,3-gram,IndiaAI,IndiaAI(18),31,3,", WAITRO, ISTIC-UNESCO International Science– Framework for Ethical and Responsible Governance, West Asia North Africa Institute Jorden, UN Tec"
+combating misinformation,1,2-gram,IndiaAI,IndiaAI(6),10,1,acilities as part of its enhanced passenger experience. Combating Misinformation and Ensuring Transparency Indian Railways is operating
+astr,1,1-gram,big data,big data(9),21,1,"cted after failing reverification. Further, DoT through its ASTR tool detects mobile connections that were acquired through"
+bda,1,1-gram,big data,big data(8),9,1,ne launch were key members of the Bharat Drone Association (BDA). The launch also witnessed a dynamic live demonstration of
+dgt under msde,1,3-gram,big data,big data(6),10,1,"for India’s youth. The Flexi-MoU Scheme, implemented by DGT under MSDE, provides industries the flexibility to design customized t"
+opportunities and entrepreneurship,1,3-gram,big data,big data(11),18,2,"nt Federation (TRIFED) to facilitate and promote livelihood opportunities and entrepreneurship in the tribal population. So far, TRIFED has sanctioned 410"
+azure,1,1-gram,big data,big data(5),9,1,24 TORRENT SOLARGEN LIMITED 15 AZURE POWER PRIVATE LTD 25 GREEN INFRA 16
+digital skill training,1,3-gram,big data,big data(5),9,1,"ese guidelines, meticulously tailored for both physical and digital skill training infrastructure, stand as a beacon of inclusivity for indivi"
+aipa,1,1-gram,big data,big data(5),7,1,"d Apex Committee for Implementation of the Paris Agreement (AIPA) oversee the implementation of domestic climate actions, wi"
+msde has partnered,1,3-gram,big data,big data(5),11,1,
+like fundamentals,1,2-gram,big data,big data(5),6,1,"at the grassroots level. The toolkit covers crucial topics like fundamentals of banking, concepts on financial statements, working capit"
+strategy to create,1,3-gram,big data,big data(5),6,1,"t utilizes the Information, Education & Communication (IEC) strategy to create awareness through creative content fit for dissemination on"
+trainees in industrial,1,3-gram,big data,big data(5),6,1,150 hours of On the Job Training (OJT) or Group Project for trainees in Industrial Training Institutes (ITIs) under the Craftsmen Training Sch
+redhat,1,1-gram,big data,big data(5),12,1,b servers and load balancer on latest operating system i.e. RedHat 9 2. Software and Platform Upgrades • Framew
+academy for providing,1,3-gram,big data,big data(5),12,1,lice Academies. A Special Tactics Wing (STW) created in the Academy for providing training to police personnel of various States and Cent
+entrepreneurship landscape,1,2-gram,big data,big data(5),6,1,"ongoing efforts to strengthen the country’s innovation and entrepreneurship landscape, The Atal Innovation Mission (AIM), NITI Aayog, today forma"
+cisco,1,1-gram,big data,big data(12),59,3,"e and supported by FRSN, a collaboration between Accenture, Cisco, J.P. Morgan, and SAP. The initiative aims to enhance the q"
+computational biology,1,2-gram,big data,big data(4),9,1,"ular Biology and Biochemistry, Systematics as well as Plant Computational Biology, and their success will encourage several more youngsters."
+nasscom’s,1,1-gram,FutureSkills,FutureSkills(5) | big data(4),6,1,urther said that the Prime Minister’s address during one of Nasscom’s events and his demand for a cloud godown in India motivated
+nyaay,1,1-gram,FutureSkills,big data(4) | FutureSkills(4),6,1,"its complete implementation. He said that today e-Sakshya, Nyaay Setu, Nyaay Shruti and e-Summon apps have been launched. He"
+manner the programme,1,3-gram,FutureSkills,big data(4) | FutureSkills(4),6,1,
+failing reverification,1,2-gram,big data,big data(4),5,1,"1.44 crore mobile connections have been disconnected after failing reverification. Further, DoT through its ASTR tool detects mobile connecti"
+data cloud,1,2-gram,big data,big data(4),7,1,on a pilot project for setting up of Philippines’ Sovereign Data Cloud Infrastructure; 2) Invitation extended to Philippines
+statistics and related,1,3-gram,big data,big data(4),8,1,
+candidates have registered,1,3-gram,FutureSkills,big data(4) | FutureSkills(4),5,1,"ner and ICT Academy as the Skilling Partner. A total of 334 candidates have registered so far, including 3 international participants. Objecti"
+verified credentials,1,2-gram,big data,big data(4),6,1,has launched a new Aadhaar app which facilitates sharing of verified credentials by Aadhaar number holder with the Offline Verification Seek
+prof ganesh,1,2-gram,large language model,large language model(5) | language model(5),7,1,
+mandi iit,1,2-gram,large language model,large language model(5) | language model(5),7,1,
+document vision,1,2-gram,large language model,large language model(5) | language model(5),6,1,
+model initiative,1,2-gram,large language model,large language model(5) | language model(5),7,1,"egions to be safe, seen and empowered. We look forward to a model initiative that can be replicated and scaled up with like-minded partn"
+text and speech,1,3-gram,large language model,large language model(4) | language model(4),10,1,"e on android platform. The project aims to enable real-time text and speech translation between Hindi, English, and multiple tribal lan"
+consortium led,1,2-gram,large language model,large language model(4) | language model(4),5,1,
+bharat data,1,2-gram,large language model,large language model(4) | language model(4),6,1,"n be accessed at the following link under ""Know Your Swachh Bharat Data"" through the SBM(G) dashboard: Sanitation is a St"
+models tailored,1,2-gram,large language model,large language model(4) | language model(4),16,1,he Scheme to pioneer transformative public service delivery models tailored to local needs. ***** NKR/PSM
+sovereign capability,1,2-gram,large language model,compute(6) | large language model(4) | language model(4),13,1,"asised that a technologically advanced nation must maintain sovereign capability over its geodetic reference frames, gravity models and posi"
+adi vaani,1,2-gram,large language model,large language model(3) | language model(3) | language translation(3),21,1,"Ministry of Tribal Affairs has launched the beta version of Adi Vaani mobile application on 1 st September, 2025. The beta versio"
+training data,1,2-gram,large language model,large language model(3) | language model(3),13,1,ted through Skill India Digital Hub (SIDH) portal where the training data is maintainedand the progress is monitored regularly. T
+legal domain,1,2-gram,large language model,large language model(3) | language model(3),8,1,"the use of simple, lucid, and citizen-friendly Hindi in the legal domain. He elucidated the importance of Digital India, a dream of"
+fakes,1,1-gram,large language model,large language model(3) | language model(3),15,1,continuously updated regularly to include the latest busted fakes and fresh FAQs. The introduction of the 'Myth vs Reality Re
+ensure that technology,1,3-gram,large language model,large language model(3) | language model(3),11,1,entrepreneurship. She urged entrepreneurs and innovators to ensure that technology becomes a tool for social justice and inclusion. The Pr
+healthcare education skilling,1,3-gram,large language model,large language model(3) | language model(3),6,1,
+india’s million,1,2-gram,language model,language model(4) | large language model(3),1,1,foundations alongside sectoral improvements and prioritises India’s million-plus cities as key economic centres contributing significan
+literacy barriers,1,2-gram,large language model,large language model(3) | language model(3),4,1,thereafter. The scheme acknowledges challenges such as literacy barriers and limited reach in remote areas. To address these challen
+farmers make,1,2-gram,large language model,large language model(3),8,1,Soil Health Card Scheme has played a vital role in helping farmers make informed choices on crop planning and fertilizer applicatio
+ethical inclusive,1,2-gram,large language model,large language model(3),14,1,
+iim indore,1,2-gram,large language model,large language model(5),7,2,"Speaking during the conclave, Himanshu Rai - Director of IIM Indore, highlighted that India's startup evolution is entering a c"
+hyderabad iit,1,2-gram,large language model,large language model(6),19,3,
+telemedicine platforms,1,2-gram,language model,language model(3),8,1,d underserved areas. He encouraged both States to integrate telemedicine platforms more deeply into routine service delivery to ensure uninter
+enabled technologies,1,2-gram,language model,language model(3),14,1,"velopment of scientific and industrial instruments with IoT enabled technologies, while transfers by CEERI are in the area of healthcare and"
+million informal,1,2-gram,language model,language model(3),9,1,"tal has been another key initiative, enabling more than 300 million informal workers to register and access social security benefits, he"
+intelligence and data,1,3-gram,data science,data science(5),24,1,"s enhanced portal will provide stakeholders with actionable intelligence and data-driven insights, enabling more effective decision-making an"
+gaining better,1,2-gram,data science,data science(4),1,1,"resolution, community engagement, and peacebuilding, often gaining better access to local populations, particularly women and childre"
+use of science,1,3-gram,data science,data science(4),6,1,Possibilities) signifying the positive mantra of depicting use of science and technology in governance with human face. About the
+objectives strengthening,1,2-gram,data science,data science(4),6,1,
+understanding and use,1,3-gram,data science,data science(4),7,1,"h component have been grouped together to facilitate easier understanding and use. ""EnviStats India 2025: Environment Statistics"" is a ke"
+science for societal,1,3-gram,data science,data science(4),6,1,"ed by reiterating the government’s commitment to leveraging science for societal good, calling Kisan Kavach a beacon of hope for India’s agr"
+manpower in earth,1,3-gram,data science,data science(4),9,2,nts of Earth System Sciences. Develop skilled and trained manpower in Earth Sciences. The key feature of the PRITHVI scheme is to
+society early,1,2-gram,data science,data science(4),5,1,
+network frsn,1,2-gram,data science,data science(4),8,1,
+initiatives under corporate,1,3-gram,data science,data science(4),7,1,"mpanies such as CIL, NTPC, DVC are undertaking a variety of initiatives under Corporate Social Responsibility (CSR) programs focusing on skill-buil"
+frsn,1,1-gram,data science,data science(4),8,1,"The MSDE’s partner, Future Right Skills Network (FRSN) has drafted the “Trainer Development Strategy for the Skil"
+edunet foundation,1,2-gram,data science,data science(4),7,1,"ergy and e-mobility. This initiative will be implemented by Edunet Foundation, training partner of Shell, across select Industrial Traini"
+equipping learners,1,2-gram,FutureSkills,data science(4) | FutureSkills(4),7,1,"infrastructure, transportation, and geotechnical sectors by equipping learners with industry-relevant knowledge and practical skills. The"
+skills network,1,2-gram,data science,data science(4),8,1,"market. The MSDE’s partner, Future Right Skills Network (FRSN) has drafted the “Trainer Development Strategy for th"
+edunet,1,1-gram,data science,data science(4),7,1,"ergy and e-mobility. This initiative will be implemented by Edunet Foundation, training partner of Shell, across select Indust"
+future right skills,1,3-gram,data science,data science(4),8,1,"n the future market. The MSDE’s partner, Future Right Skills Network (FRSN) has drafted the “Trainer Development Strateg"
+relevant skills further,1,3-gram,data science,data science(4),6,1,
+offering courses,1,2-gram,FutureSkills,FutureSkills(5) | data science(4),8,1,"other central, state and private institutions/Universities offering courses on Food Technology. This information was given by the M"
+developing standardised,1,2-gram,data science,data science(4),5,1,"a pragmatic roadmap toward unlocking international capital: developing standardised, globally benchmarked project preparation processes; recomm"
+right skills network,1,3-gram,data science,data science(4),8,1,"uture market. The MSDE’s partner, Future Right Skills Network (FRSN) has drafted the “Trainer Development Strategy for th"
+foundational skills,1,2-gram,data science,data science(4),10,2,"vyangjans on essential employability skills. By focusing on foundational skills like digital financial literacy, communication, career mana"
+skills network frsn,1,3-gram,data science,data science(4),8,1,
+technologies to predict,1,3-gram,data science,data science(4),5,1,"and dune nourishment,” said Ms. Oka. “It also uses advanced technologies to predict climate change impacts, like sea-level rise and extreme wea"
+ravindran,1,1-gram,data science,data science(4),11,1,"sh, is under the Command of Deputy Inspector General Sudhir Ravindran. Over the years, Samudra Paheredar has successfully underta"
+foundational and applied,1,3-gram,data science,data science(4),10,1,"rine ecosystems, must continue research that addresses both foundational and applied aspects where academia can play a pivotal role. Chief G"
+coursework,1,1-gram,data science,data science(4),10,1,"sion process will be completed by 27 th March 2026, and the Coursework will commence from 1 st April 2026. Speaking at the lau"
+nielit centres,1,2-gram,data science,data science(4),9,1,"mic and autonomous institutions (IITs, NITs, IIITs, C-DAC & NIELIT Centres) and Technical Universities and supported by C-DAC) Hyderab"
+powered meeting,1,2-gram,language translation,language translation(5),6,1,"Industry Leaders to Drive “Yoga Park” Campaign In a high-powered meeting chaired by Shri Prataprao Jadhav, the Union Minister of Sta"
+details baggage,1,2-gram,language translation,language translation(4),5,4,
+language access,1,2-gram,language translation,language translation(4),8,1,"Information and Communication ecosystem, and expanding Sign Language Access through interpreter training and better media support."
+linguistic backgrounds,1,2-gram,language translation,language translation(6),16,2,"onomic background. Candidates from smaller towns and varied linguistic backgrounds are now securing top ranks, reflecting a more inclusive and"
+language using,1,2-gram,language translation,language translation(3),5,2,
+real time text,1,3-gram,language translation,language translation(3),9,1,
+time text,1,2-gram,language translation,language translation(3),9,1,"ilable on android platform. The project aims to enable real-time text and speech translation between Hindi, English, and multiple"
+innovation references,1,2-gram,language translation,language translation(3),8,1,
+bridging linguistic,1,2-gram,language translation,language translation(3),5,1,"inclusivity. Through UA Day, we reinforce our commitment to bridging linguistic divides and ensuring every voice is heard in the digital sp"
+impart foundational,1,2-gram,FutureSkills,FutureSkills(5),6,1,"blended approaches. The scheme is based on volunteerism to impart foundational literacy and numeracy. 9 States/ UTs (Ladakh, Mizoram, Trip"
+strategic programs,1,2-gram,FutureSkills,FutureSkills(5),6,1,"e Economic Empowerment Session highlighted the government's strategic programs to uplift marginalized sections of society, such as Schedul"
+policy expert,1,2-gram,FutureSkills,compute(5) | FutureSkills(4),9,1,"ounder and Advocate, Sarvada Legal, Shri Atul Sharma; trade policy expert, Shri Pranav Kumar; as well as senior officials from the De"
+courses digital,1,2-gram,FutureSkills,FutureSkills(4),3,1,
+eight thematic areas,1,3-gram,FutureSkills,FutureSkills(4),7,1,"y Policy to save precious lives. The seminar focused on eight thematic areas, which will provide action plan for road safety. Panel disc"
+world’s largest startup,1,3-gram,FutureSkills,FutureSkills(4),9,1,"ore information, visit . About T-Hub T-Hub is the world’s largest startup hub, supporting founders from ideation to scale through pro"
+undergraduate masters,1,2-gram,FutureSkills,FutureSkills(4),5,1,
+collaboration providing,1,2-gram,FutureSkills,FutureSkills(4),5,1,
+computing ecosystem,1,2-gram,FutureSkills,FutureSkills(4),6,1,PARLIAMENT QUESTION: DEVELOPMENT OF COUNTRY’S QUANTUM COMPUTING ECOSYSTEM The following developments have been made under National
+providing startup,1,2-gram,FutureSkills,FutureSkills(4),5,1,"broader hydrogen sector. He emphasised that in addition to providing startup funding, there is also a strong need to build robust mentor"
+capabilities attracting,1,2-gram,FutureSkills,FutureSkills(4),5,1,
+talent enabling,1,2-gram,FutureSkills,FutureSkills(4),5,1,
+hindi kannada malayalam,1,3-gram,FutureSkills,FutureSkills(3),9,1,
+bharat antariksh,1,2-gram,robot,robot(4),8,3,"t crewed Gaganyaan mission.2035: India’s own space station, Bharat Antariksh Station. 2040: First Indian astronaut to land on the moon."
+gaganyaan mission india’s,1,3-gram,robot,robot(4),4,1,
+crewed gaganyaan mission,1,3-gram,robot,robot(3),4,3,"astronaut-like tasks for the Gaganyaan mission.2026: First crewed Gaganyaan mission.2035: India’s own space station, Bharat Antariksh Station."
+mission first,1,2-gram,robot,robot(3),1,1,"mining company of Chile, in New Delhi early today. In a mission first-of-its-kind in India, experts from the Chilean Copper major"
+crewed gaganyaan,1,2-gram,robot,robot(3),4,3,"astronaut-like tasks for the Gaganyaan mission.2026: First crewed Gaganyaan mission.2035: India’s own space station, Bharat Antariksh S"
+first crewed gaganyaan,1,3-gram,robot,robot(3),4,3,"ertake astronaut-like tasks for the Gaganyaan mission.2026: First crewed Gaganyaan mission.2035: India’s own space station, Bharat Antariksh S"
+vyommitra,1,1-gram,robot,robot(4),6,5,"Woman Robot Astronaut ""Vyommitra"" will fly into Space ahead of ISRO's ambitious “Gaganyaan"""
+first indian astronaut,1,3-gram,robot,robot(3),8,5,"India’s own space station, Bharat Antariksh Station. 2040: First Indian astronaut to land on the moon. Dr. Jitendra Singh appreciated the"
+first crewed,1,2-gram,robot,robot(3),7,6,"ertake astronaut-like tasks for the Gaganyaan mission.2026: First crewed Gaganyaan mission.2035: India’s own space station, Bharat A"
+india’s own space,1,3-gram,robot,robot(3),7,6,
+real time alerts,1,3-gram,robot,robot(3),20,6,
+time alerts,1,2-gram,robot,robot(3),20,6,"ras, and LiDAR for precise data collection, along with real-time alerts via SMS and email for immediate attention to critical areas"
+mobile communication,1,2-gram,robot,robot(3),12,7,"de 26305, ‘Manufacture of pagers, cellular phones and other mobile communication equipment’ is given below . NIC code Desc"
+docking experiment spadex,1,3-gram,robot,robot(3),8,7,
+experiment spadex,1,2-gram,robot,robot(3),8,7,
+mission india’s,1,2-gram,robot,robot(4),21,9,
+space docking experiment,1,3-gram,robot,robot(3),12,9,"ining GSAT-20, Landing exercise of reusable launch vehicle, Space docking experiment etc. The science and technology minister also recognize"
+docking experiment,1,2-gram,robot,robot(3),12,9,"GSAT-20, Landing exercise of reusable launch vehicle, Space docking experiment etc. The science and technology minister also recognize"
+water technology,1,2-gram,robot,robot(3),19,9,commitment to excellence and continuous efforts to advance water technology and resource management. ***** VM
+design technology,1,2-gram,robot,robot(3),21,12,"he country Shweta Ratanpura, Bronze Medalist in Graphic Design Technology at WorldSkills Kazan 2019, has been nominated as the new Wo"
+hub for skilled,1,3-gram,robot,robot(3),24,13,irms the Government's commitment to making India the global hub for skilled talent and outlines the ambitious strategies under the Skil
+first human,1,2-gram,robot,robot(4),29,16,"ISRO's ambitious “Gaganyaan"" mission, which will be India’s first human manned Space Flight carrying Indian Astronauts into Space"
+space docking,1,2-gram,robot,robot(3),20,15,"ining GSAT-20, Landing exercise of reusable launch vehicle, Space docking experiment etc. The science and technology minister als"
+communication system,1,2-gram,robot,robot(4),32,20,"eker, Launcher, Multi-Function Radar and Command, Control & Communication system. The system performance was also validated through"
+unleashing,1,1-gram,robot,robot(4),36,18,Industrial Research's Republic Day Tableau highlighted the unleashing of a Purple Revolution ushered through Lavender cultivation
+when asked,1,2-gram,robot,robot(3),30,17,m due its favorable conditions. Dr. Jitendra Singh when asked about the progress of Jammu Kashmir in the last decade said
+whole of science,1,3-gram,robot,robot(3),24,16,New Year satellite XpoSAT exemplifies 'whole of science' joint effort by more than one institution: Dr Jitendra Sin
+space capabilities,1,2-gram,robot,robot(3),26,16,The Gaganyaan project envisages demonstration of human space capabilities by launching a crew of astronauts into an orbit of 400 Kilo
+spadex,1,1-gram,robot,robot(3),28,19,"ace. The project has been named ""Space Docking Experiment"" (SpaDeX), he said. The whole nation looks forward with bated br"
+worldskills,1,1-gram,robot,robot(3),29,20,"lp of the best industry trainers, will get prepared for the WorldSkills Competition scheduled to take place in Lyon, France in Sept"
+launchpad,1,1-gram,robot,robot(3),51,21,oday is a land of hope & possibilities; our Amrit Kaal is a launchpad for Viksit Bharat@2047 -Vice-President The Vice-President
+robotics,1,1-gram,robot,robot(7),374,50,"nologies, hands-on training on Drones, interactive talks on Robotics, and much more. This isn't just an event; it's a promise of"
+stick,1,1-gram,robot,robot(3),32,21,"ate Major Dhyanchand, whose magical prowess with the hockey stick is unforgettable. Countless revolutionaries like Bhagat Sin"
+gaganyaan mission,1,2-gram,robot,robot(6),64,48,
+solutions to address,1,3-gram,robot,robot(3),44,22,ipulated time frame. He highlighted the need for innovative solutions to address emerging challenges and outlined a commitment to developing
+sector skill councils,1,3-gram,robot,robot(3),75,23,"CSIR-Human Resource Development Centre signs MoUs with four Sector Skill Councils The CSIR-Human Resource Development Centre (CSIR-HRDC), G"
+according to him,1,3-gram,robot,robot(3),40,25,"economy and promote Green Growth”, said Dr. Jitendra Singh. According to him, the Ministry is working with a synergy and integrative app"
+crewed,1,1-gram,robot,robot(4),40,35,"from Port Louis, Mauritius on 30 Mar 24. The sailing vessel crewed by the resilient duo of Lt Cdr Roopa A and Lt Cdr Dilna K w"
+image generation,1,2-gram,ChatGPT,ChatGPT(5),6,1,ed Land Mapping with Accurate and Efficient Ortho Rectified Image Generation using aerial photography for mapping urban land parcels and
+computing facility,1,2-gram,ChatGPT,ChatGPT(3),8,2,been allocated / utilized to develop and provide the super-computing facility for research and other allied areas. This includes funds fo
+agriculture weather,1,2-gram,ChatGPT,ChatGPT(3),4,1,
+shared how addressing,1,3-gram,ChatGPT,ChatGPT(3),4,1,nts attended the interactive session. Deepika shared how addressing mental health challenges can be empowering and spoke about
+how addressing,1,2-gram,ChatGPT,ChatGPT(3),4,1,ended the interactive session. Deepika shared how addressing mental health challenges can be empowering and spoke about
+lessons she learned,1,3-gram,ChatGPT,ChatGPT(3),4,1,h challenges can be empowering and spoke about the valuable lessons she learned from her own struggles. Sharing her stress management strat
+deepika shared how,1,3-gram,ChatGPT,ChatGPT(3),4,1,60 students attended the interactive session. Deepika shared how addressing mental health challenges can be empowering and s
+deepika shared,1,2-gram,ChatGPT,ChatGPT(3),4,1,60 students attended the interactive session. Deepika shared how addressing mental health challenges can be empowering a
+how addressing mental,1,3-gram,ChatGPT,ChatGPT(3),4,1,ended the interactive session. Deepika shared how addressing mental health challenges can be empowering and spoke about the val
+empowering and spoke,1,3-gram,ChatGPT,ChatGPT(3),4,1,epika shared how addressing mental health challenges can be empowering and spoke about the valuable lessons she learned from her own struggl
+model training,1,2-gram,ChatGPT,ChatGPT(3),10,2,"radhan Mantri Kaushal Kendras (PMKKs) have been set up as a model training center, for imparting skill training in Public Private Part"
+techno legal,1,2-gram,ChatGPT,compute(12) | ChatGPT(3),40,2,
+second episode,1,2-gram,ChatGPT,ChatGPT(3),8,2,"Electronics and Information Technology (MeitY), hosted the second episode of its exclusive LIVE series ‘Ask Our Experts’ on October 2"
+facility will soon,1,3-gram,ChatGPT,ChatGPT(3),5,2,nose patients coming to the super-specialty hospital. A new facility will soon be ready for the disposal of biomedical waste from hospital
+guruji and radhika,1,3-gram,ChatGPT,ChatGPT(3),5,2,
+edelweiss,1,1-gram,ChatGPT,ChatGPT(3),6,2,"India; Mr. Amit Agarwal, President & Head – Private Credit, Edelweiss Alternatives; and Mr. Shantanu Nalavadi, Managing Director,"
+nine times,1,2-gram,ChatGPT,ChatGPT(4),8,3,"ony, and rooted progress. He noted how repeating the mantra nine times, or in its multiples like 27, 54, or 108 represents spiritu"
+chatbots,1,1-gram,ChatGPT,ChatGPT(4),56,4,"Public Grievance Redress and Monitoring System (CPGRAMS) Chatbots, WhatsApp, and social media platforms (Twitter, Facebook, I"
+computing power,1,2-gram,ChatGPT,ChatGPT(3),33,5,advanced classical computer available today. Although huge computing power is useful for solving many day-to-day issues and complex pr
+technical guruji,1,2-gram,ChatGPT,ChatGPT(3),7,3,"r of Culture and Tourism, Shri Gajendra Singh Shekhawat and Technical Guruji have highlighted the blend of tradition and technology, cre"
+gaurav chaudhary,1,2-gram,ChatGPT,ChatGPT(3),8,3,"kti Khurana, Manu Bhaker, Navdeep Singh, Ankit Baiyanpuria, Gaurav Chaudhary and Janhvi Singh addressed the gathering and shared insight"
+deepika padukone,1,2-gram,ChatGPT,ChatGPT(3),7,3,and stress management through discipline. Mental Health: Deepika Padukone will discuss the importance of emotional well-being and sel
+padukone,1,1-gram,ChatGPT,ChatGPT(3),7,3,ess management through discipline. Mental Health: Deepika Padukone will discuss the importance of emotional well-being and sel
+radhika gupta,1,2-gram,ChatGPT,ChatGPT(3),7,4,"ennai & Puducherry Sportsperson of the Year -Female - Ms. Radhika Gupta, SSSA, RO Kandivali East Sportsperson of the Year – Male"
+wellness mastering,1,2-gram,ChatGPT,ChatGPT(3),7,4,
+introduced students,1,2-gram,ChatGPT,ChatGPT(3),7,4,"resident – Assessment and Certification, THSC, the workshop introduced students to diverse career opportunities in hospitality and tourism,"
+wellness mastering pressure,1,3-gram,ChatGPT,ChatGPT(3),7,4,
+academic challenges,1,2-gram,ChatGPT,ChatGPT(3),7,4,"with valuable insights and practical strategies to navigate academic challenges with confidence and a growth mind set. Today, renowned"
+addressing mental health,1,3-gram,ChatGPT,ChatGPT(3),12,5,s initiatives being undertaken by the state of Karnataka in addressing mental health concerns. The technical sessions concluded with a detailed
+sarvam,1,1-gram,ChatGPT,ChatGPT(3),46,5,system as a whole has to live in peace. It is encapsulated ‘Sarvam Shanti’ . We have dictated our lives over centuries in spit
+mastering pressure,1,2-gram,ChatGPT,ChatGPT(3),8,5,"of nutrition lies in what, when, how and why one eats. Mastering Pressure On the topic of Mastering Pressure, the Prime Minister"
+link to watch,1,3-gram,ChatGPT,ChatGPT(3),8,5,reserving and showcasing our shared heritage. Click the link to watch the video for speech: - Click the link to watch t
+renowned actor,1,2-gram,ChatGPT,ChatGPT(3),8,5,everal steps in this direction. Union Home Minister thanked renowned actor Shri Amitabh Bachchan for his active involvement in acceler
+addressing mental,1,2-gram,ChatGPT,ChatGPT(3),13,6,s initiatives being undertaken by the state of Karnataka in addressing mental health concerns. The technical sessions concluded with a de
+startups and researchers,1,3-gram,ChatGPT,ChatGPT(3),20,6,
+challenges with confidence,1,3-gram,ChatGPT,ChatGPT(3),10,6,"zones, recognize their strengths, and navigate professional challenges with confidence. Dr. Kanika Malik, Senior Principal Scientist, CSIR-NIScPR"
+satellite weather,1,2-gram,pest surveillance,pest surveillance(5),7,1,
+satellite weather soil,1,3-gram,pest surveillance,pest surveillance(5),7,1,
+issues enabling,1,2-gram,pest surveillance,pest surveillance(14),18,3,
+pest attacks,1,2-gram,pest surveillance,pest surveillance(17),23,5,"amities such as floods, droughts, cyclones, hailstorms, and pest attacks, as well as localized risks like landslides, cloudbursts, a"
+address various challenges,1,3-gram,pest surveillance,pest surveillance(12),17,3,preneurs leveraging technology and innovative approaches to address various challenges and opportunities in the industry. The Department of Fisher
+field photographs,1,2-gram,pest surveillance,pest surveillance(12),15,3,a primary goal. Publication link: Fig.1 Field photographs of the rocks sampled for rock varnish studies from NW Himal
+monsoon onset,1,2-gram,pest surveillance,pest surveillance(4),7,1,***Model error ±6% of LPA Prediction for Monsoon Onset over Kerala (MOK) YEAR ACTUAL ONSET DAT
+assistance for small,1,3-gram,pest surveillance,pest surveillance(4),3,1,"us issues of agricultural practices. Under NICRA, technical assistance for small and marginal farmers is extended to additional vulnerable d"
+initiatives are given,1,3-gram,pest surveillance,pest surveillance(11),17,3,tutions to Research and Development. Details of significant initiatives are given below. (a) Innovation in Science Pursuit for Inspi
+reduce crop,1,2-gram,pest surveillance,pest surveillance(14),18,5,"for a hub-and-spoke model of post-harvest infrastructure to reduce crop losses along the entire value chain, from the farm to the m"
+crop health monitoring,1,3-gram,pest surveillance,pest surveillance(10),14,3,mizing resource use and reducing waste. Apart from that the crop health monitoring can be done through remote sensing technologies and drones
+initiatives in agriculture,1,3-gram,pest surveillance,pest surveillance(3),6,2,"tural practices, technology exchange, and capacity-building initiatives in agriculture and allied sectors. The meeting was attended by senior"
+development innovation lab,1,3-gram,pest surveillance,pest surveillance(3),8,1,"on (WHO), International Labour Organization, IIM Bangalore, Development Innovation Lab-University of Chicago, have undertaken assessment studies o"
+relevant local,1,2-gram,pest surveillance,pest surveillance(3),6,1,ship seeks to empower local entrepreneurs bringing together relevant local stakeholders in that particular region’s entrepreneurship e
+historical rainfall,1,2-gram,pest surveillance,pest surveillance(3),7,1,"odel is primarily based on rainfall thresholds derived from historical rainfall and landslide occurrence data, in conjunction with daily ra"
+pilot was conducted,1,3-gram,pest surveillance,pest surveillance(3),6,1,"prises for the financial year 2022–2023. Phase I of the pilot was conducted during May 2024–August 2024 covering 10,005 enterprises pri"
+conducted in madhya,1,3-gram,pest surveillance,pest surveillance(3),6,1,"t the national mock exercise, Pashujanya Yudh Abhyas (PYA), conducted in Madhya Pradesh from 29 June to 3 July 2026, has been successfully"
+pest infestations,1,2-gram,pest surveillance,pest surveillance(3),4,1,"ges, ask questions, and report field-level problems such as pest infestations, which will inform future research directions. The initiati"
+services and make,1,3-gram,pest surveillance,pest surveillance(3),4,1,on Commission to deliver enhanced citizen-centric electoral services and make available all election-related information at the click of
+provides structured training,1,3-gram,pest surveillance,pest surveillance(3),5,1,"g capital and purchase of small tools. Capacity Building: provides structured training, including EDP training for individual and group applicants"
+summarisation,1,1-gram,compute,compute(6),12,1,ion and the progress achieved. The Webinar ended with a summarisation of key points from the Speakers Address and a formal Vote o
+access to datasets,1,3-gram,compute,compute(6),7,1,"le application has opened a new channel to enable on-the-go access to datasets of official statistics, which complements the other channel"
+computing resources,1,2-gram,compute,compute(6),10,1,"er forecasts. In recent years, with the availability of computing resources within the Ministry of Earth Sciences, NWP modeling systems"
+units gpus,1,2-gram,compute,compute(10),12,2,
+google’s,1,1-gram,compute,compute(5),20,1,a Pradesh. The Rajmargyatra app has reached rank #23 in Google’s Playstore ranking overall and #2 in travel category with ov

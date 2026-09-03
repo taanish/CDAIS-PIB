@@ -63,6 +63,16 @@ def main():
     partial   = q1(con, "SELECT COUNT(*) FROM fetch_log WHERE parse_status='partial'")
     failed    = q1(con, "SELECT COUNT(*) FROM fetch_log WHERE parse_status='failed'")
     terr      = q1(con, "SELECT COUNT(*) FROM fetch_log WHERE http_status IS NULL")
+    # A 'partial' with an empty body is a genuinely title-only PIB release (a
+    # one-line headline with no paragraph) — verified by re-fetching. That is
+    # correctly recorded, not a defect, so it should not raise the review flag.
+    # A 'partial' that still has body text WOULD mean we lost content, so those
+    # stay flagged.
+    partial_empty = q1(con, "SELECT COUNT(*) FROM fetch_log f "
+                            "JOIN releases r ON r.relid=f.relid "
+                            "WHERE f.parse_status='partial' "
+                            "AND COALESCE(r.word_count,0)=0")
+    partial_body  = partial - partial_empty
     frac      = attempted / float(TOTAL)
 
     running = crawler_running()
@@ -75,10 +85,15 @@ def main():
     print("  releases stored   %s" % human(stored))
     print("  absent (302)      %s   (%.1f%% of probed)"
           % (human(absent), 100.0 * absent / max(1, attempted)))
-    print("  parse partial     %s" % human(partial))
+    if partial_empty:
+        print("  parse partial     %s   (%s title-only, no body — benign)"
+              % (human(partial), human(partial_empty)))
+    else:
+        print("  parse partial     %s" % human(partial))
     print("  parse failed      %s" % human(failed))
     print("  transport errors  %s" % human(terr))
-    flag = "clean" if (partial + failed + terr) == 0 else "NEEDS REVIEW"
+    review = failed + terr + partial_body
+    flag = "clean" if review == 0 else ("NEEDS REVIEW (%d)" % review)
     print("  data quality      %s" % flag)
 
     # ---- throughput / eta (only meaningful while running)

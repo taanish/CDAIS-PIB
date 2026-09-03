@@ -1,0 +1,200 @@
+<title>AI Classification Schema</title>
+<style>
+  :root{
+    --ground:#EBEEF2; --surface:#FFFFFF; --surface-2:#F5F7FA;
+    --ink:#17222E; --muted:#59697A; --faint:#8593A2; --line:#D7DEE6;
+    --accent:#0F6E7A; --accent-ink:#0B535C; --accent-soft:rgba(15,110,122,.10);
+    --sys:#2E8B57; --sys-soft:color-mix(in srgb,#2E8B57 12%,transparent); --sys-line:color-mix(in srgb,#2E8B57 34%,transparent);
+    --men:#3763B0; --men-soft:color-mix(in srgb,#3763B0 12%,transparent); --men-line:color-mix(in srgb,#3763B0 34%,transparent);
+    --noai:#7A8798; --noai-soft:color-mix(in srgb,#7A8798 14%,transparent); --noai-line:color-mix(in srgb,#7A8798 34%,transparent);
+    --wash:#C0842A;
+    --shadow:0 1px 2px rgba(23,34,46,.05),0 8px 22px rgba(23,34,46,.07);
+  }
+  :root:not([data-theme="light"]){
+    @media (prefers-color-scheme: dark){
+      --ground:#0E141B; --surface:#151D26; --surface-2:#1A232D;
+      --ink:#E7EDF3; --muted:#9BAABA; --faint:#6B7988; --line:#26313D;
+      --accent:#41B7C5; --accent-ink:#8DD8E1; --accent-soft:rgba(65,183,197,.14);
+      --sys:#4EBE83; --sys-soft:color-mix(in srgb,#4EBE83 15%,transparent); --sys-line:color-mix(in srgb,#4EBE83 36%,transparent);
+      --men:#6193E2; --men-soft:color-mix(in srgb,#6193E2 15%,transparent); --men-line:color-mix(in srgb,#6193E2 36%,transparent);
+      --noai:#8D99A8; --noai-soft:color-mix(in srgb,#8D99A8 15%,transparent); --noai-line:color-mix(in srgb,#8D99A8 34%,transparent);
+      --wash:#DFA64A;
+      --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 28px rgba(0,0,0,.4);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ground:#0E141B; --surface:#151D26; --surface-2:#1A232D;
+    --ink:#E7EDF3; --muted:#9BAABA; --faint:#6B7988; --line:#26313D;
+    --accent:#41B7C5; --accent-ink:#8DD8E1; --accent-soft:rgba(65,183,197,.14);
+    --sys:#4EBE83; --sys-soft:color-mix(in srgb,#4EBE83 15%,transparent); --sys-line:color-mix(in srgb,#4EBE83 36%,transparent);
+    --men:#6193E2; --men-soft:color-mix(in srgb,#6193E2 15%,transparent); --men-line:color-mix(in srgb,#6193E2 36%,transparent);
+    --noai:#8D99A8; --noai-soft:color-mix(in srgb,#8D99A8 15%,transparent); --noai-line:color-mix(in srgb,#8D99A8 34%,transparent);
+    --wash:#DFA64A;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 28px rgba(0,0,0,.4);
+  }
+  *{box-sizing:border-box}
+  body{margin:0; background:var(--ground); color:var(--ink);
+    font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; line-height:1.5;
+    -webkit-font-smoothing:antialiased}
+  .mono{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace}
+  .wrap{max-width:1000px; margin:0 auto; padding:clamp(20px,4vw,44px) clamp(14px,4vw,32px) 60px}
+  .eyebrow{font-family:ui-monospace,Menlo,monospace; font-size:.7rem; letter-spacing:.14em;
+    text-transform:uppercase; color:var(--accent-ink); font-weight:600}
+  h1{font-size:clamp(1.6rem,3.6vw,2.3rem); letter-spacing:-.02em; margin:.3em 0 .15em; font-weight:800}
+  .lede{color:var(--muted); margin:0; max-width:60ch}
+
+  .gate{margin-top:34px; display:flex; flex-direction:column; align-items:center; text-align:center}
+  .passtag{font-family:ui-monospace,Menlo,monospace; font-size:.66rem; letter-spacing:.1em;
+    text-transform:uppercase; font-weight:700; padding:3px 10px; border-radius:20px;
+    color:var(--accent-ink); background:var(--accent-soft); border:1px solid color-mix(in srgb,var(--accent) 30%,transparent)}
+  .gatecard{margin-top:12px; background:var(--surface); border:1px solid var(--line); border-radius:14px;
+    box-shadow:var(--shadow); padding:18px 24px; min-width:min(440px,92vw)}
+  .colname{font-family:ui-monospace,Menlo,monospace; font-weight:700; font-size:1.05rem}
+  .colgloss{color:var(--muted); font-size:.9rem; margin-top:2px}
+  .chips{display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin-top:14px}
+  .chip{font-weight:700; font-size:.86rem; padding:6px 14px; border-radius:9px; border:1.5px solid}
+  .chip.sys{color:var(--sys); background:var(--sys-soft); border-color:var(--sys-line)}
+  .chip.men{color:var(--men); background:var(--men-soft); border-color:var(--men-line)}
+  .chip.noai{color:var(--noai); background:var(--noai-soft); border-color:var(--noai-line)}
+
+  .stem{width:2px; height:26px; background:var(--line); margin:0 auto}
+  .fork{display:grid; grid-template-columns:repeat(3,1fr); gap:16px; margin-top:4px}
+  @media(max-width:760px){.fork{grid-template-columns:1fr}}
+
+  .lane{background:var(--surface); border:1px solid var(--line); border-radius:14px;
+    box-shadow:var(--shadow); overflow:hidden; display:flex; flex-direction:column}
+  .lane-head{padding:13px 16px; display:flex; align-items:center; gap:9px; border-bottom:1px solid var(--line)}
+  .lane-head .dot{width:11px; height:11px; border-radius:3px; flex:none}
+  .lane-head b{font-family:ui-monospace,Menlo,monospace; font-size:.98rem}
+  .lane-head .cond{margin-left:auto; font-size:.7rem; color:var(--faint); font-family:ui-monospace,Menlo,monospace}
+  .lane.sys{border-top:3px solid var(--sys)}
+  .lane.men{border-top:3px solid var(--men)}
+  .lane.noai{border-top:3px solid var(--noai)}
+  .lane-body{padding:14px 16px; display:flex; flex-direction:column; gap:11px; flex:1}
+
+  .subhead{display:flex; align-items:center; gap:8px; font-size:.7rem; letter-spacing:.08em;
+    text-transform:uppercase; color:var(--faint); font-family:ui-monospace,Menlo,monospace; font-weight:600}
+  .new{font-size:.6rem; letter-spacing:.05em; padding:1px 6px; border-radius:5px; font-weight:800;
+    color:var(--accent-ink); background:var(--accent-soft); border:1px solid color-mix(in srgb,var(--accent) 28%,transparent)}
+
+  .field{display:flex; flex-direction:column; gap:4px; padding:8px 0; border-bottom:1px dashed var(--line)}
+  .field:last-child{border-bottom:0}
+  .field .fn{font-family:ui-monospace,Menlo,monospace; font-size:.82rem; font-weight:700; color:var(--ink)}
+  .vals{display:flex; flex-wrap:wrap; gap:5px}
+  .v{font-size:.72rem; padding:2px 8px; border-radius:6px; background:var(--surface-2); border:1px solid var(--line); color:var(--muted); font-weight:500}
+  .v.free{font-style:italic; opacity:.85}
+  .v.pick{border-color:var(--sys-line); color:var(--sys); background:var(--sys-soft); font-weight:700}
+  .v.wash{border-color:color-mix(in srgb,var(--wash) 38%,transparent); color:var(--wash); background:color-mix(in srgb,var(--wash) 13%,transparent); font-weight:700}
+  .v.mpick{border-color:var(--men-line); color:var(--men); background:var(--men-soft); font-weight:700}
+  .empty{color:var(--faint); font-size:.85rem; font-style:italic; margin:auto 0; text-align:center; padding:20px 0}
+
+  .provenance{margin-top:22px; background:var(--surface-2); border:1px solid var(--line); border-radius:12px; padding:15px 18px}
+  .provenance .subhead{margin-bottom:10px}
+  .prov-fields{display:flex; flex-wrap:wrap; gap:7px}
+  .prov-fields .v{background:var(--surface)}
+
+  .foot{margin-top:22px; display:flex; flex-wrap:wrap; gap:10px 22px; align-items:center; font-size:.82rem; color:var(--muted)}
+  .foot .k{display:flex; align-items:center; gap:7px}
+  .foot .sw{width:12px; height:12px; border-radius:3px; flex:none}
+  .retired{margin-left:auto; color:var(--faint)}
+  .retired s{opacity:.8}
+  .retired .mono{color:var(--faint)}
+</style>
+
+<div class="wrap">
+  <div class="eyebrow">corpus.db · ai_classifications · revised</div>
+  <h1>How one release becomes a record</h1>
+  <p class="lede">Read top to bottom. The first call splits everything three ways &mdash; and each branch opens a different set of columns. A row is only ever one branch, so nothing overlaps and nothing is missed.</p>
+
+  <!-- GATE -->
+  <div class="gate">
+    <span class="passtag">Pass 1 &middot; Disha</span>
+    <div class="gatecard">
+      <div class="colname">type</div>
+      <div class="colgloss">Is a specific government AI system being reported &mdash; or is AI just discussed?</div>
+      <div class="chips">
+        <span class="chip sys">System</span>
+        <span class="chip men">Mention</span>
+        <span class="chip noai">Not AI</span>
+      </div>
+    </div>
+    <div class="stem"></div>
+  </div>
+
+  <!-- FORK -->
+  <div class="fork">
+
+    <!-- SYSTEM -->
+    <div class="lane sys">
+      <div class="lane-head"><span class="dot" style="background:var(--sys)"></span><b>System</b><span class="cond">type = System</span></div>
+      <div class="lane-body">
+        <div class="subhead">Pass 2 · is the claim true? <span class="new">NEW</span></div>
+        <div class="field">
+          <span class="fn">ai_reality</span>
+          <div class="vals"><span class="v pick">Actual AI</span><span class="v wash">AI-washed</span></div>
+        </div>
+        <div class="subhead" style="margin-top:4px">Pass 2 · the system&#39;s details</div>
+        <div class="field"><span class="fn">system_name</span><div class="vals"><span class="v free">free text</span></div></div>
+        <div class="field"><span class="fn">deploying_body</span><div class="vals"><span class="v free">the operator</span></div></div>
+        <div class="field"><span class="fn">lifecycle_stage</span><div class="vals"><span class="v">announced</span><span class="v">buying</span><span class="v">trial</span><span class="v">working</span></div></div>
+        <div class="field"><span class="fn">application_domain</span><div class="vals"><span class="v">health</span><span class="v">policing</span><span class="v">agriculture</span><span class="v">…12 areas</span></div></div>
+        <div class="field"><span class="fn">technology_type</span><div class="vals"><span class="v free">free text</span></div></div>
+        <div class="field"><span class="fn">beneficiary_scale</span><div class="vals"><span class="v free">free text</span></div></div>
+        <div class="field"><span class="fn">budget_mentioned</span><div class="vals"><span class="v free">free text</span></div></div>
+        <div class="field"><span class="fn">use_case_given</span><div class="vals"><span class="v">yes</span><span class="v">no</span></div></div>
+        <div class="field"><span class="fn">evidence_quote</span><div class="vals"><span class="v free">sentence reporting this system</span></div></div>
+      </div>
+    </div>
+
+    <!-- MENTION -->
+    <div class="lane men">
+      <div class="lane-head"><span class="dot" style="background:var(--men)"></span><b>Mention</b><span class="cond">type = Mention</span></div>
+      <div class="lane-body">
+        <div class="subhead">Pass 2 · what kind of talk? <span class="new">NEW</span></div>
+        <div class="field">
+          <span class="fn">talk_kind</span>
+          <div class="vals">
+            <span class="v mpick">Policy</span>
+            <span class="v mpick">Funding</span>
+            <span class="v mpick">Research</span>
+            <span class="v mpick">Training</span>
+            <span class="v mpick">General talk</span>
+          </div>
+        </div>
+        <p class="empty">No system is claimed here,<br>so the system columns stay empty.</p>
+      </div>
+    </div>
+
+    <!-- NOT AI -->
+    <div class="lane noai">
+      <div class="lane-head"><span class="dot" style="background:var(--noai)"></span><b>Not AI</b><span class="cond">false match</span></div>
+      <div class="lane-body">
+        <p class="empty">The keyword wasn&#39;t about AI at all<br>(&ldquo;artificial insemination&rdquo;, a name).<br><br>Nothing further recorded.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- PROVENANCE -->
+  <div class="provenance">
+    <div class="subhead">Every row also carries (filled by the machine)</div>
+    <div class="prov-fields">
+      <span class="v mono">relid</span>
+      <span class="v mono">run_id</span>
+      <span class="v mono">system_seq</span>
+      <span class="v mono">type_evidence</span>
+      <span class="v mono">confidence</span>
+      <span class="v mono">evidence_start</span>
+      <span class="v mono">evidence_end</span>
+    </div>
+  </div>
+
+  <!-- LEGEND -->
+  <div class="foot">
+    <span class="k"><span class="sw" style="background:var(--sys)"></span>System branch</span>
+    <span class="k"><span class="sw" style="background:var(--men)"></span>Mention branch</span>
+    <span class="k"><span class="sw" style="background:var(--noai)"></span>Not AI</span>
+    <span class="retired">retired: <s class="mono">is_ai_relevant</s> &nbsp; <s class="mono">is_substantive</s></span>
+  </div>
+
+</div>
