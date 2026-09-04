@@ -12,3 +12,29 @@ corpus.db-shm
 __pycache__/
 *.pyc
 .venv/
+
+# Working files kept on disk but not in the repo.
+*.xlsx
+*.csv
+!catalogue_2024_2026/*.csv
+*.json
+*.txt
+!catalogue_2024_2026/*.txt
+CLAUDE.md
+HANDOFF.txt
+stage3_prototype/
+expand.py
+filter_v2.py
+find_polluters.py
+drop_polluters.py
+review.py
+apply_review.py
+build_review.py
+build_reconsider.py
+assess_review.py
+build_keyword_review.py
+start.sh
+stop.sh
+supervise.sh
+status.py
+scraper\ tldr
