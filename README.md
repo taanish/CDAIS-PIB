@@ -53,7 +53,7 @@ Each AI-mentioning release is classified as reporting a real government AI deplo
 `corpus.db` (~1.3 GB) is **not in this repository**. It contains all 241,604 releases, keyword tags, and classification tables.
 
 To get it:
-- **Shared copy** — a frozen snapshot is stored separately *(location TBD)*. This is the canonical version; PIB edits and deletes pages over time, so a fresh crawl would not reproduce it exactly.
+- **Download from Releases** — the frozen snapshot is attached to the [v1.0 release](https://github.com/taanish/CDAIS-PIB/releases/tag/v1.0). Place it in the repo root alongside the scripts. This is the canonical version; PIB edits and deletes pages over time, so a fresh crawl would not reproduce it exactly.
 
 ## Caveats
 
